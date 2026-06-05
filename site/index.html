@@ -28,7 +28,7 @@
   .controls{display:grid;grid-template-columns:1fr;gap:8px;padding:12px 20px;
             border-bottom:1px solid var(--line);position:sticky;top:0;
             background:var(--bg);z-index:5}
-  @media(min-width:760px){.controls{grid-template-columns:2fr 1fr 1fr 1fr auto}}
+  @media(min-width:760px){.controls{grid-template-columns:2fr 1fr 1fr 1fr 1fr auto}}
   input,select,button{background:var(--panel);border:1px solid var(--line);
        color:var(--ink);padding:10px 12px;border-radius:8px;font:inherit}
   input:focus,select:focus{outline:1px solid var(--accent);border-color:var(--accent)}
@@ -84,9 +84,17 @@
     <option value="avoid">🔴 Recent layoffs</option>
   </select>
   <select id="loc"><option value="">Any location</option></select>
+  <select id="recency">
+    <option value="">Any time</option>
+    <option value="1h">Posted &lt; 1 hour</option>
+    <option value="24h">Posted &lt; 24 hours</option>
+    <option value="7d">Posted &lt; 1 week</option>
+    <option value="30d">Posted &lt; 1 month</option>
+  </select>
   <select id="sort">
     <option value="match">Sort: best match for me</option>
     <option value="default">Sort: day-one → roles → PERM</option>
+    <option value="newest">Sort: newest first</option>
     <option value="jobs">Sort: most open roles</option>
     <option value="perm">Sort: most PERM filings</option>
     <option value="name">Sort: company A–Z</option>
@@ -162,11 +170,27 @@ async function load(){
   render();
 }
 
+function humanAge(iso) {
+  const ms = Date.now() - new Date(iso).getTime();
+  if (ms < 0 || isNaN(ms)) return "";
+  const min = ms / 60000, hr = min / 60, d = hr / 24;
+  if (min < 60) return `${Math.round(min)}m ago`;
+  if (hr < 24) return `${Math.round(hr)}h ago`;
+  if (d < 30) return `${Math.round(d)}d ago`;
+  return `${Math.round(d/30)}mo ago`;
+}
+
 function render(){
   const q = $("#q").value.trim().toLowerCase();
   const status = $("#status").value;
   const loc = $("#loc").value;
+  const recency = $("#recency").value;
   const sort = $("#sort").value;
+
+  const cutoff = recency==="1h" ? 3600e3
+               : recency==="24h" ? 86400e3
+               : recency==="7d" ? 604800e3
+               : recency==="30d" ? 2592000e3 : null;
 
   let rows = DATA.companies.filter(c=>{
     if(status==="day_one" && !c.day_one) return false;
@@ -182,11 +206,23 @@ function render(){
     return true;
   });
 
+  if (cutoff != null) {
+    rows = rows.map(c => ({
+      ...c,
+      jobs: c.jobs.filter(j => j.posted_at && (Date.now() - new Date(j.posted_at).getTime()) <= cutoff)
+    })).filter(c => c.jobs.length > 0);
+  }
+
   rows.sort((a,b)=>{
     if(sort==="match"){
       const bestA = Math.max(0, ...a.jobs.map(j=>j.match||0));
       const bestB = Math.max(0, ...b.jobs.map(j=>j.match||0));
       return bestB - bestA;
+    }
+    if(sort==="newest"){
+      const newestA = Math.max(0, ...a.jobs.map(j=>j.posted_at ? new Date(j.posted_at).getTime() : 0));
+      const newestB = Math.max(0, ...b.jobs.map(j=>j.posted_at ? new Date(j.posted_at).getTime() : 0));
+      return newestB - newestA;
     }
     if(sort==="name") return a.company.localeCompare(b.company);
     if(sort==="perm") return b.perm_count - a.perm_count;
@@ -213,12 +249,14 @@ function render(){
       <div class="num">${c.jobs.length} role${c.jobs.length===1?"":"s"}</div>
       <div>
         ${c.jobs.length? `<details><summary>View roles</summary>
-            <ul class="jobs">${c.jobs.slice(0,25).map((j,i)=>
-              `<li><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+            <ul class="jobs">${[...c.jobs].sort((a,b)=>(b.posted_at||"").localeCompare(a.posted_at||"")).slice(0,25).map((j,i)=>{
+              const age = j.posted_at ? humanAge(j.posted_at) : "";
+              return `<li><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
        <span class="pill ${j.match>=70?'good':j.match>=40?'warn':''}" style="margin-left:6px">${j.match||0}% match</span>
+       ${age ? `<span class="pill" style="margin-left:6px">${age}</span>` : ""}
                    <div>${esc(j.location||"—")} · ${esc(j.ats||"")}</div>
                    <button class="draft-btn" data-co="${esc(c.company)}" data-i="${i}">📋 Draft application</button>
-              </li>`).join("")}</ul></details>`
+              </li>`;}).join("")}</ul></details>`
           : c.careers_link
             ? `<a class="pill good" href="${esc(c.careers_link)}" target="_blank" rel="noopener">🔍 ${esc(c.careers_note||"Search careers")}</a>`
             : `<span class="pill">no Android roles</span>`}
@@ -252,9 +290,9 @@ function render(){
 
 function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
 
-["#q","#status","#loc","#sort"].forEach(s=>$(s).addEventListener("input",render));
+["#q","#status","#loc","#recency","#sort"].forEach(s=>$(s).addEventListener("input",render));
 $("#reset").addEventListener("click",()=>{
-  $("#q").value=""; $("#status").value=""; $("#loc").value=""; $("#sort").value="default"; render();
+  $("#q").value=""; $("#status").value=""; $("#loc").value=""; $("#recency").value=""; $("#sort").value="default"; render();
 });
 
 load().catch(e=>{$("#empty").hidden=false; $("#empty").textContent="Failed to load companies.json — run build.py first."});

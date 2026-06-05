@@ -64,6 +64,15 @@ def _strip_html(s: str) -> str:
     return s[:2500]
 
 
+def _to_iso(ms_epoch) -> str:
+    """Convert milliseconds-since-epoch int to ISO-8601 UTC string."""
+    try:
+        import datetime
+        return datetime.datetime.utcfromtimestamp(int(ms_epoch) / 1000).strftime("%Y-%m-%dT%H:%M:%SZ")
+    except Exception:
+        return ""
+
+
 def _greenhouse(slug, display):
     url = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"
     try:
@@ -79,7 +88,7 @@ def _greenhouse(slug, display):
                 "location": (j.get("location") or {}).get("name", ""),
                 "url": j["absolute_url"],
                 "jd": _strip_html(j.get("content", "")),
-                "updated": j.get("updated_at", ""),
+                "posted_at": j.get("updated_at", ""),
             })
         return out
     except Exception:
@@ -96,13 +105,16 @@ def _lever(slug, display):
             t = j["text"]
             if not KEYWORDS.search(t) or NEG.search(t): continue
             jd = j.get("descriptionPlain") or _strip_html(j.get("description", ""))
+            created = _to_iso(j["createdAt"]) if j.get("createdAt") else ""
+            updated = _to_iso(j["updatedAt"]) if j.get("updatedAt") else ""
+            posted_at = max(created, updated) if created and updated else (updated or created)
             out.append({
                 "company": display, "company_slug": slug, "ats": "lever",
                 "title": t,
                 "location": (j.get("categories") or {}).get("location", ""),
                 "url": j["hostedUrl"],
                 "jd": jd[:2500],
-                "updated": "",
+                "posted_at": posted_at,
             })
         return out
     except Exception:
@@ -124,7 +136,7 @@ def _ashby(slug, display):
                 "location": j.get("location", ""),
                 "url": j.get("jobUrl", ""),
                 "jd": _strip_html(j.get("descriptionHtml", "")),
-                "updated": j.get("publishedAt", ""),
+                "posted_at": j.get("publishedAt", ""),
             })
         return out
     except Exception:

@@ -64,6 +64,7 @@ def main():
         rec["jobs"].append({
             "title": j["title"], "location": j["location"],
             "url": j["url"], "jd": j.get("jd", ""), "ats": j.get("ats",""),
+            "posted_at": j.get("posted_at", ""),
         })
 
     # Apply layoffs
