@@ -9,6 +9,18 @@ ROOT = pathlib.Path(__file__).parent
 OUT  = ROOT / "site" / "companies.json"
 RESUME = ROOT / "resume.md"
 
+# Companies that use proprietary career portals (not Greenhouse/Lever/Ashby).
+# These always appear in the dashboard with a direct job-search link.
+# Attempted Google Careers API (careers.google.com → /about/careers/applications/jobs/results/)
+# but the site is fully JS-rendered with no accessible XHR endpoint from server-side.
+CAREERS_LINKS = {
+    "google": {
+        "company": "Google",
+        "careers_url": "https://www.google.com/about/careers/applications/jobs/results/?q=android&location=United+States",
+        "note": "Search Google Careers (Android · US)",
+    },
+}
+
 
 def main():
     print("Fetching layoffs…")
@@ -66,6 +78,17 @@ def main():
         })
         rec["layoffs"].append(ev)
         rec["avoid"] = True
+
+    # Inject manual-portal companies (e.g. Google)
+    for key, info in CAREERS_LINKS.items():
+        rec = by_co.setdefault(key, {
+            "company": info["company"], "jobs": [],
+            "perm_count": 0, "fy": "",
+            "day_one": key in d1, "day_one_notes": d1.get(key, {}).get("notes", ""),
+            "layoffs": [], "avoid": False,
+        })
+        rec["careers_link"] = info["careers_url"]
+        rec["careers_note"] = info["note"]
 
     score_jobs(list(by_co.values()))
 

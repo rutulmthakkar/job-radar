@@ -219,7 +219,9 @@ function render(){
                    <div>${esc(j.location||"—")} · ${esc(j.ats||"")}</div>
                    <button class="draft-btn" data-co="${esc(c.company)}" data-i="${i}">📋 Draft application</button>
               </li>`).join("")}</ul></details>`
-          : `<span class="pill">no Android roles</span>`}
+          : c.careers_link
+            ? `<a class="pill good" href="${esc(c.careers_link)}" target="_blank" rel="noopener">🔍 ${esc(c.careers_note||"Search careers")}</a>`
+            : `<span class="pill">no Android roles</span>`}
       </div>`;
 
     // wire draft buttons
