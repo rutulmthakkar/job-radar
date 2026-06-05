@@ -59,6 +59,12 @@
              border:1px solid var(--accent);background:transparent;color:var(--accent)}
   .draft-btn:hover{background:#10231c}
   .draft-btn.copied{background:var(--accent);color:#0e1116}
+  .why{margin-top:6px;padding:8px 10px;background:#0d1117;border-radius:6px;
+       border:1px solid var(--line);font-size:12px;color:var(--mute);line-height:1.6}
+  .why-section{margin-bottom:4px}
+  .why-label{color:var(--ink);font-weight:600;margin-right:6px}
+  .why .good{color:var(--good)} .why .bad{color:var(--bad)} .why .warn{color:var(--warn)}
+  .why .calc{color:var(--mute);font-style:italic;margin-top:4px}
   .empty{padding:40px 20px;text-align:center;color:var(--mute)}
   .num{font-variant-numeric:tabular-nums}
 </style>
@@ -255,6 +261,7 @@ function render(){
        <span class="pill ${j.match>=70?'good':j.match>=40?'warn':''}" style="margin-left:6px">${j.match||0}% match</span>
        ${age ? `<span class="pill" style="margin-left:6px">${age}</span>` : ""}
                    <div>${esc(j.location||"—")} · ${esc(j.ats||"")}</div>
+                   ${renderWhy(j.match_reasons)}
                    <button class="draft-btn" data-co="${esc(c.company)}" data-i="${i}">📋 Draft application</button>
               </li>`;}).join("")}</ul></details>`
           : c.careers_link
@@ -286,6 +293,21 @@ function render(){
     list.appendChild(li);
   }
   $("#empty").hidden = rows.length>0;
+}
+
+function renderWhy(r) {
+  if (!r) return "";
+  if (r.note) return `<div class="why"><span class="why-label">Note:</span>${esc(r.note)}</div>`;
+  const parts = [];
+  if (r.matched?.length)
+    parts.push(`<div class="why-section"><span class="why-label good">✓ Matched:</span>${r.matched.map(s=>`<span class="good">${esc(s)}</span>`).join(", ")}</div>`);
+  if (r.missing?.length)
+    parts.push(`<div class="why-section"><span class="why-label warn">△ JD wants, resume lacks:</span>${r.missing.map(s=>`<span class="warn">${esc(s)}</span>`).join(", ")}</div>`);
+  if (r.penalties?.length)
+    parts.push(`<div class="why-section"><span class="why-label bad">✗ Penalties:</span>${r.penalties.map(s=>`<span class="bad">${esc(s)}</span>`).join("; ")}</div>`);
+  if (r.calc)
+    parts.push(`<div class="calc">${esc(r.calc)}</div>`);
+  return parts.length ? `<div class="why">${parts.join("")}</div>` : "";
 }
 
 function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
