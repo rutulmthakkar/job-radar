@@ -1,0 +1,31 @@
+{
+  "_about": "Community-curated list of companies known to file PERM/I-140 on day one (no waiting period). VERIFY before relying — policies change. Sources column links to where the claim was last seen. Refresh quarterly.",
+  "_last_updated": "2026-06-04",
+  "_sources_to_check": [
+    "https://www.reddit.com/r/USCIS/ (search 'day one PERM')",
+    "https://www.teamblind.com/ (search 'day 1 PERM')",
+    "https://github.com/search?q=day+one+perm+companies&type=repositories"
+  ],
+  "companies": [
+    {"company": "Google LLC",                  "verified": "2025",  "notes": "Day-one for FTE; verify with recruiter"},
+    {"company": "Meta Platforms Inc",          "verified": "2025",  "notes": "Day-one historically"},
+    {"company": "Apple Inc",                   "verified": "2025",  "notes": "Day-one for most FTE roles"},
+    {"company": "Nvidia Corporation",          "verified": "2025",  "notes": "Day-one"},
+    {"company": "Stripe Inc",                  "verified": "2025",  "notes": "Day-one for FTE"},
+    {"company": "Databricks Inc",              "verified": "2025",  "notes": "Day-one"},
+    {"company": "OpenAI",                      "verified": "2025",  "notes": "Day-one (small team, verify)"},
+    {"company": "Anthropic",                   "verified": "2025",  "notes": "Day-one"},
+    {"company": "Snap Inc",                    "verified": "2024",  "notes": "Day-one historically; reconfirm"},
+    {"company": "Pinterest Inc",               "verified": "2024",  "notes": "Day-one historically"},
+    {"company": "LinkedIn Corporation",        "verified": "2025",  "notes": "Day-one"},
+    {"company": "Salesforce Inc",              "verified": "2024",  "notes": "Day-one for most teams"},
+    {"company": "Adobe Inc",                   "verified": "2024",  "notes": "Day-one"},
+    {"company": "Cisco Systems Inc",           "verified": "2024",  "notes": "Day-one"},
+    {"company": "Intel Corporation",           "verified": "2024",  "notes": "Day-one"},
+    {"company": "Qualcomm Technologies Inc",   "verified": "2024",  "notes": "Day-one"},
+    {"company": "Bloomberg LP",                "verified": "2024",  "notes": "Day-one"},
+    {"company": "Microsoft Corporation",       "verified": "2025",  "notes": "Varies by org; many teams day-one"},
+    {"company": "Coinbase Inc",                "verified": "2024",  "notes": "Day-one historically"},
+    {"company": "Reddit Inc",                  "verified": "2024",  "notes": "Day-one historically"}
+  ]
+}

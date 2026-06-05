@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Job Radar — Android · Sponsors · Day-One PERM</title>
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b22; --line:#222a35; --ink:#e7ecf3;
+    --mute:#8a96a8; --accent:#7cf2c8; --warn:#ffb86b; --bad:#ff6b7a;
+    --good:#7cf2c8; --gold:#ffd866;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:15px/1.5 ui-sans-serif,system-ui,"Segoe UI",Inter,sans-serif;
+       background:var(--bg);color:var(--ink)}
+  header{padding:18px 20px;border-bottom:1px solid var(--line);
+         display:flex;flex-wrap:wrap;gap:14px;align-items:baseline;
+         background:linear-gradient(180deg,#11151c,#0e1116)}
+  h1{margin:0;font-size:18px;letter-spacing:.3px}
+  h1 span{color:var(--accent)}
+  .stamp{color:var(--mute);font-size:12px}
+  .stats{display:flex;gap:14px;flex-wrap:wrap;padding:12px 20px;
+         border-bottom:1px solid var(--line);font-size:13px;color:var(--mute)}
+  .stats b{color:var(--ink)}
+  .banner{padding:10px 20px;background:#241a0c;color:var(--warn);font-size:13px;
+          border-bottom:1px solid var(--line)}
+  .banner code{background:#0e1116;padding:1px 6px;border-radius:4px}
+  .controls{display:grid;grid-template-columns:1fr;gap:8px;padding:12px 20px;
+            border-bottom:1px solid var(--line);position:sticky;top:0;
+            background:var(--bg);z-index:5}
+  @media(min-width:760px){.controls{grid-template-columns:2fr 1fr 1fr 1fr auto}}
+  input,select,button{background:var(--panel);border:1px solid var(--line);
+       color:var(--ink);padding:10px 12px;border-radius:8px;font:inherit}
+  input:focus,select:focus{outline:1px solid var(--accent);border-color:var(--accent)}
+  button{cursor:pointer}
+  ul.list{list-style:none;margin:0;padding:0}
+  li.row{border-bottom:1px solid var(--line);padding:14px 20px;
+         display:grid;grid-template-columns:1fr;gap:6px}
+  @media(min-width:760px){
+    li.row{grid-template-columns:1.4fr .9fr .8fr .8fr 1.4fr;align-items:center;gap:14px}
+  }
+  .co{font-weight:600;font-size:15px}
+  .co small{display:block;color:var(--mute);font-weight:400;font-size:12px;margin-top:2px}
+  .pill{display:inline-block;padding:2px 8px;border-radius:999px;
+        font-size:11px;border:1px solid var(--line);color:var(--mute);margin-right:4px}
+  .pill.good{color:var(--good);border-color:#274d3f;background:#10231c}
+  .pill.warn{color:var(--warn);border-color:#4d3a1f;background:#22180c}
+  .pill.bad {color:var(--bad);border-color:#4d2227;background:#22100f}
+  .pill.gold{color:var(--gold);border-color:#4d3f1c;background:#221c0c}
+  details{margin-top:6px}
+  details summary{cursor:pointer;color:var(--mute);font-size:13px;list-style:none}
+  details summary::-webkit-details-marker{display:none}
+  details[open] summary{color:var(--accent)}
+  .jobs{margin:8px 0 0;padding:0;list-style:none;display:grid;gap:10px}
+  .jobs li{font-size:13px;color:var(--mute);border-left:2px solid var(--line);padding:2px 0 2px 10px}
+  .jobs a{color:var(--accent);text-decoration:none}
+  .jobs a:hover{text-decoration:underline}
+  .draft-btn{margin-top:4px;padding:4px 10px;font-size:12px;border-radius:6px;
+             border:1px solid var(--accent);background:transparent;color:var(--accent)}
+  .draft-btn:hover{background:#10231c}
+  .draft-btn.copied{background:var(--accent);color:#0e1116}
+  .empty{padding:40px 20px;text-align:center;color:var(--mute)}
+  .num{font-variant-numeric:tabular-nums}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Job <span>Radar</span></h1>
+  <span class="stamp" id="stamp"></span>
+</header>
+
+<section class="stats" id="stats"></section>
+<div id="banner" class="banner" hidden></div>
+
+<section class="controls">
+  <input id="q" placeholder="Search company, title, or location…" autocomplete="off" />
+  <select id="status">
+    <option value="">All companies</option>
+    <option value="day_one">⭐ Day-One PERM (best)</option>
+    <option value="hiring_sponsor">🟢 Hiring &amp; sponsor</option>
+    <option value="hiring_any">Hiring (any)</option>
+    <option value="sponsor">Sponsors PERM</option>
+    <option value="avoid">🔴 Recent layoffs</option>
+  </select>
+  <select id="loc"><option value="">Any location</option></select>
+  <select id="sort">
+    <option value="default">Sort: day-one → roles → PERM</option>
+    <option value="jobs">Sort: most open roles</option>
+    <option value="perm">Sort: most PERM filings</option>
+    <option value="name">Sort: company A–Z</option>
+  </select>
+  <button id="reset">Reset</button>
+</section>
+
+<ul class="list" id="list"></ul>
+<div id="empty" class="empty" hidden>No matches. Loosen your filters.</div>
+
+<script>
+const $ = (s)=>document.querySelector(s);
+let DATA = {companies:[],stats:{},generated_at:"",has_resume:false};
+let RESUME = "";
+
+const PROMPT_TEMPLATE = (ctx) => `You are helping me apply for a software engineering role. Generate tailored application materials.
+
+COMPANY:        ${ctx.company}
+ROLE:           ${ctx.title}
+LOCATION:       ${ctx.location || "—"}
+APPLY LINK:     ${ctx.url}
+PERM SPONSOR:   ${ctx.perm_count} certified PERM filings${ctx.fy ? " (FY"+ctx.fy+")" : ""}
+DAY-ONE PERM:   ${ctx.day_one ? "Yes" : "Unknown / No"}${ctx.day_one_notes ? " — "+ctx.day_one_notes : ""}
+LAYOFF STATUS:  ${ctx.layoff_note}
+
+--- JOB DESCRIPTION ---
+${ctx.jd || "(JD not captured — please open the apply link and paste the JD here before sending.)"}
+--- END JD ---
+
+--- MY BASE RESUME (markdown) ---
+${RESUME || "(resume.md not provided — paste your resume here.)"}
+--- END RESUME ---
+
+Produce in this exact order:
+
+1. **Tailored resume bullets (5-7)** — rewrite my most relevant bullets to match the JD's language and priorities. Lead with metrics. Mirror ATS keywords.
+
+2. **Cover letter (≤220 words)** — open with a specific reason I want this role at this company (their product, recent launch, tech stack). One paragraph on fit. One on impact. No "I am writing to apply for…" filler.
+
+3. **Three likely interview questions + answers** — STAR format, ≤80 words each, using my real experience from the resume.
+
+4. **ATS keyword checklist** — 10 must-include terms from the JD that should appear verbatim in my application.
+
+5. **One concern + how to address it** — what's the weakest match between me and this JD, and how do I get ahead of it.
+
+Keep it tight. No filler. Markdown formatting.`;
+
+async function load(){
+  const r = await fetch("companies.json",{cache:"no-store"});
+  DATA = await r.json();
+  if(DATA.has_resume){
+    try { RESUME = await (await fetch("../resume.md",{cache:"no-store"})).text(); } catch(e){}
+    if(!RESUME){ try { RESUME = await (await fetch("resume.md",{cache:"no-store"})).text(); } catch(e){} }
+  }
+  if(!DATA.has_resume){
+    const b = $("#banner"); b.hidden = false;
+    b.innerHTML = "⚠️ <code>resume.md</code> is empty or missing. Fill it in once and commit — application prompts will inline it automatically.";
+  }
+  $("#stamp").textContent = "Updated " + new Date(DATA.generated_at).toLocaleString();
+  const s = DATA.stats;
+  $("#stats").innerHTML =
+    `<span><b>${s.companies}</b> companies</span>
+     <span>⭐ <b>${s.day_one}</b> day-one PERM</span>
+     <span>🟢 <b>${s.hiring}</b> hiring & safe</span>
+     <span>📄 <b>${s.sponsors}</b> sponsor PERM</span>
+     <span>🔴 <b>${s.avoid}</b> recent layoffs</span>
+     <span><b>${s.open_roles}</b> open Android roles</span>`;
+  const locs = new Set();
+  for(const c of DATA.companies) for(const j of c.jobs) if(j.location) locs.add(j.location);
+  [...locs].sort().forEach(l=>{
+    const o=document.createElement("option"); o.value=l; o.textContent=l; $("#loc").appendChild(o);
+  });
+  render();
+}
+
+function render(){
+  const q = $("#q").value.trim().toLowerCase();
+  const status = $("#status").value;
+  const loc = $("#loc").value;
+  const sort = $("#sort").value;
+
+  let rows = DATA.companies.filter(c=>{
+    if(status==="day_one" && !c.day_one) return false;
+    if(status==="hiring_sponsor" && !(c.jobs.length && c.perm_count>0 && !c.avoid)) return false;
+    if(status==="hiring_any" && !c.jobs.length) return false;
+    if(status==="sponsor" && !(c.perm_count>0)) return false;
+    if(status==="avoid" && !c.avoid) return false;
+    if(loc && !c.jobs.some(j=>j.location===loc)) return false;
+    if(q){
+      const hay = [c.company, ...c.jobs.map(j=>j.title+" "+j.location)].join(" ").toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  rows.sort((a,b)=>{
+    if(sort==="name") return a.company.localeCompare(b.company);
+    if(sort==="perm") return b.perm_count - a.perm_count;
+    if(sort==="jobs") return b.jobs.length - a.jobs.length;
+    if(a.day_one !== b.day_one) return a.day_one ? -1 : 1;
+    if(b.jobs.length !== a.jobs.length) return b.jobs.length - a.jobs.length;
+    return b.perm_count - a.perm_count;
+  });
+
+  const list = $("#list"); list.innerHTML="";
+  for(const c of rows){
+    const pills = [];
+    if(c.day_one) pills.push(`<span class="pill gold" title="${esc(c.day_one_notes)}">⭐ day-one PERM</span>`);
+    if(c.avoid) pills.push(`<span class="pill bad">layoffs ${c.layoffs[0]?.layoff_date||""}</span>`);
+    else if(c.jobs.length && c.perm_count>0) pills.push(`<span class="pill good">hiring · sponsors</span>`);
+    else if(c.jobs.length) pills.push(`<span class="pill warn">hiring</span>`);
+    else if(c.perm_count>0) pills.push(`<span class="pill">sponsor</span>`);
+
+    const li=document.createElement("li"); li.className="row";
+    li.innerHTML = `
+      <div class="co">${esc(c.company)}<small>${esc(c.layoffs[0]?.industry||"")}</small></div>
+      <div>${pills.join("")}</div>
+      <div class="num">${c.perm_count? c.perm_count+" PERM" : '<span class="pill">no PERM</span>'}</div>
+      <div class="num">${c.jobs.length} role${c.jobs.length===1?"":"s"}</div>
+      <div>
+        ${c.jobs.length? `<details><summary>View roles</summary>
+            <ul class="jobs">${c.jobs.slice(0,25).map((j,i)=>
+              `<li><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+                   <div>${esc(j.location||"—")} · ${esc(j.ats||"")}</div>
+                   <button class="draft-btn" data-co="${esc(c.company)}" data-i="${i}">📋 Draft application</button>
+              </li>`).join("")}</ul></details>`
+          : `<span class="pill">no Android roles</span>`}
+      </div>`;
+
+    // wire draft buttons
+    li.querySelectorAll(".draft-btn").forEach(btn=>{
+      btn.addEventListener("click",(e)=>{
+        const j = c.jobs[+btn.dataset.i];
+        const layoff_note = c.avoid
+          ? `⚠️ Company had layoffs ${c.layoffs[0]?.layoff_date} (${c.layoffs[0]?.laid_off||"?"} affected) — address stability concerns`
+          : "No recent layoffs on file";
+        const prompt = PROMPT_TEMPLATE({
+          company:c.company, title:j.title, location:j.location, url:j.url,
+          perm_count:c.perm_count, fy:c.fy,
+          day_one:c.day_one, day_one_notes:c.day_one_notes,
+          layoff_note, jd:j.jd,
+        });
+        navigator.clipboard.writeText(prompt).then(()=>{
+          btn.textContent = "✓ Copied — paste into Claude";
+          btn.classList.add("copied");
+          setTimeout(()=>{btn.textContent="📋 Draft application"; btn.classList.remove("copied")},2500);
+        });
+      });
+    });
+
+    list.appendChild(li);
+  }
+  $("#empty").hidden = rows.length>0;
+}
+
+function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
+
+["#q","#status","#loc","#sort"].forEach(s=>$(s).addEventListener("input",render));
+$("#reset").addEventListener("click",()=>{
+  $("#q").value=""; $("#status").value=""; $("#loc").value=""; $("#sort").value="default"; render();
+});
+
+load().catch(e=>{$("#empty").hidden=false; $("#empty").textContent="Failed to load companies.json — run build.py first."});
+</script>
+</body>
+</html>

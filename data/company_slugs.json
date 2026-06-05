@@ -1,0 +1,7 @@
+{
+  "_comment": "Supplemental seeds. Auto-discovery (fetchers/discover.py) finds most slugs from the PERM sponsor list; this file just adds extras the auto-discovery missed. Also: 'extra_names' lets you add company names to probe.",
+  "greenhouse": ["anthropic", "openai", "figma"],
+  "lever": [],
+  "ashby": ["linear", "vercel"],
+  "extra_names": []
+}
