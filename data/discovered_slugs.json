@@ -1,0 +1,94 @@
+{
+  "discovered": [
+    {
+      "company": "LinkedIn Corporation",
+      "ats": "greenhouse",
+      "slug": "linkedin"
+    },
+    {
+      "company": "Capital One Services LLC",
+      "ats": "lever",
+      "slug": "capital"
+    },
+    {
+      "company": "Stripe Inc",
+      "ats": "greenhouse",
+      "slug": "stripe"
+    },
+    {
+      "company": "Airbnb Inc",
+      "ats": "greenhouse",
+      "slug": "airbnb"
+    },
+    {
+      "company": "Pinterest Inc",
+      "ats": "greenhouse",
+      "slug": "pinterest"
+    },
+    {
+      "company": "Lyft Inc",
+      "ats": "greenhouse",
+      "slug": "lyft"
+    },
+    {
+      "company": "Databricks Inc",
+      "ats": "greenhouse",
+      "slug": "databricks"
+    },
+    {
+      "company": "Snowflake Inc",
+      "ats": "ashby",
+      "slug": "snowflake"
+    },
+    {
+      "company": "Block Inc",
+      "ats": "greenhouse",
+      "slug": "block"
+    },
+    {
+      "company": "Reddit Inc",
+      "ats": "greenhouse",
+      "slug": "reddit"
+    },
+    {
+      "company": "Robinhood Markets Inc",
+      "ats": "greenhouse",
+      "slug": "robinhood"
+    },
+    {
+      "company": "Figma Inc",
+      "ats": "greenhouse",
+      "slug": "figma"
+    },
+    {
+      "company": "Instacart",
+      "ats": "greenhouse",
+      "slug": "instacart"
+    },
+    {
+      "company": "Plaid Inc",
+      "ats": "ashby",
+      "slug": "plaid"
+    },
+    {
+      "company": "Discord Inc",
+      "ats": "greenhouse",
+      "slug": "discord"
+    },
+    {
+      "company": "Notion Labs Inc",
+      "ats": "ashby",
+      "slug": "notion"
+    },
+    {
+      "company": "Dropbox Inc",
+      "ats": "greenhouse",
+      "slug": "dropbox"
+    },
+    {
+      "company": "Asana Inc",
+      "ats": "greenhouse",
+      "slug": "asana"
+    }
+  ]
+}
