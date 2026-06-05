@@ -2,10 +2,11 @@
 
 Score = (weighted skills the JD asks for that the resume also has) /
         (weighted skills the JD asks for) * 100
-plus small bonuses/penalties for company-level signals.
 
 Designed so scores are intuitive: 85% means the resume covers 85% of
 what the JD requires. Numbers don't shift when new roles are added.
+Company-level signals (day-one PERM, layoffs) are surfaced as pills/filters
+in the dashboard and do not affect this score.
 """
 from __future__ import annotations
 import re, pathlib
@@ -70,33 +71,44 @@ def _present(phrase: str, text: str) -> bool:
     return re.search(pat, text) is not None
 
 
-def _score_one(resume_text: str, jd_text: str, title: str) -> int:
+def _score_one(resume_text: str, jd_text: str, title: str) -> tuple[int, dict]:
     rt = resume_text.lower()
     jt = (jd_text + " " + title).lower()
 
     earned, possible = 0.0, 0.0
+    matched, missing = [], []
     for skill, w in SKILLS.items():
         if _present(skill, jt):
             possible += w
             if _present(skill, rt):
                 earned += w
+                matched.append(skill)
+            else:
+                missing.append(skill)
 
     if possible < 3:
-        # JD too sparse to score reliably (e.g. nearly empty descriptionPlain)
-        # Fall back to title-only check: if title says "android" + "engineer",
-        # give it a default 50; otherwise 30.
         if "android" in jt and ("engineer" in jt or "developer" in jt):
-            return 50
-        return 30
+            return 50, {"note": "JD too sparse; title-based fallback (android engineer)."}
+        return 30, {"note": "JD too sparse; generic fallback."}
 
     base = (earned / possible) * 100
+    penalties = []
 
-    # Penalties for stack mismatches
     for skill, pen in HARD_REQUIREMENTS.items():
         if _present(skill, jt) and not _present(skill, rt):
             base -= pen
+            if pen > 0:
+                penalties.append(f"JD requires {skill} (not in resume, -{pen}pts)")
 
-    return max(0, min(100, round(base)))
+    score = max(0, min(100, round(base)))
+    reasons = {
+        "matched": matched,
+        "missing": missing,
+        "penalties": penalties,
+        "bonuses": [],
+        "calc": f"Skill match: {earned:.1f} / {possible:.1f} = {score}%",
+    }
+    return score, reasons
 
 
 def score_jobs(companies: list[dict]) -> None:
@@ -106,16 +118,11 @@ def score_jobs(companies: list[dict]) -> None:
         for c in companies:
             for j in c["jobs"]:
                 j["match"] = 0
+                j["match_reasons"] = {"note": "No resume.md content."}
         return
 
     for c in companies:
-        # Company-level adjustment (small, +/- a few points)
-        adj = 0
-        if c.get("day_one"):     adj += 5
-        if c.get("perm_count", 0) >= 500: adj += 3
-        elif c.get("perm_count", 0) >= 100: adj += 1
-        if c.get("avoid"):       adj -= 10
-
         for j in c["jobs"]:
-            base = _score_one(resume_text, j.get("jd", ""), j.get("title", ""))
-            j["match"] = max(0, min(100, base + adj))
+            score, reasons = _score_one(resume_text, j.get("jd", ""), j.get("title", ""))
+            j["match"] = score
+            j["match_reasons"] = reasons
