@@ -1,62 +1,121 @@
-"""Score each role 0-100 against resume.md using keyword overlap + IDF."""
-from __future__ import annotations
-import re, math, pathlib, collections
+"""Skill-weighted job scoring against resume.md.
 
-STOP = set("""
-a an and or but if then else for of to in on at by with from as is are was were
-be been being have has had do does did will would could should may might can
-this that these those i me my we our you your they them their it its he she
-""".split())
+Score = (weighted skills the JD asks for that the resume also has) /
+        (weighted skills the JD asks for) * 100
+plus small bonuses/penalties for company-level signals.
+
+Designed so scores are intuitive: 85% means the resume covers 85% of
+what the JD requires. Numbers don't shift when new roles are added.
+"""
+from __future__ import annotations
+import re, pathlib
 
 ROOT = pathlib.Path(__file__).parent.parent
 RESUME = ROOT / "resume.md"
 
+# Weighted skill dictionary, tuned for Android engineering roles.
+# Key = lowercase phrase to match in JD/resume text. Value = importance.
+SKILLS: dict[str, float] = {
+    # --- core platform (highest weight) ---
+    "android": 4, "kotlin": 4, "jetpack compose": 4, "compose": 3,
+    "android sdk": 3, "android studio": 2,
 
-def tokens(text: str) -> list[str]:
-    text = text.lower()
-    return [t for t in re.findall(r"[a-z][a-z0-9+#.]{1,}", text)
-            if t not in STOP and len(t) > 2]
+    # --- architecture & async ---
+    "mvvm": 3, "mvi": 2, "mvp": 1, "viper": 1,
+    "coroutines": 3, "flow": 2.5, "stateflow": 2, "livedata": 1.5,
+    "viewmodel": 2, "repository pattern": 1.5, "clean architecture": 1.5,
+    "hilt": 2, "dagger": 2, "koin": 1, "dependency injection": 2,
+
+    # --- libraries / jetpack ---
+    "retrofit": 2, "okhttp": 1.5, "room": 1.5, "realm": 1, "sqlite": 1,
+    "datastore": 1, "workmanager": 1.5, "navigation": 1, "lifecycle": 1,
+    "paging": 1, "glide": 1, "coil": 1, "picasso": 0.5,
+    "exoplayer": 1.5, "camerax": 1, "media3": 1,
+    "firebase": 1, "crashlytics": 1, "analytics": 1,
+
+    # --- languages ---
+    "java": 1.5, "swift": 0.5, "rxjava": 1.5, "rxkotlin": 1,
+    "c#": 0.5, "python": 0.5, "sql": 0.5,
+
+    # --- testing ---
+    "junit": 1.5, "mockk": 1, "mockito": 1, "robolectric": 1,
+    "espresso": 1, "turbine": 1, "ui testing": 1, "unit testing": 1,
+
+    # --- tools / workflow ---
+    "gradle": 1, "ci/cd": 1.5, "github actions": 0.5, "jenkins": 0.5,
+    "git": 0.5, "perforce": 0.5, "jira": 0.3, "confluence": 0.3,
+    "agile": 0.3, "scrum": 0.3, "code review": 1,
+
+    # --- product / scale signals (often in JD bullets) ---
+    "consumer": 1, "scale": 1, "millions of users": 1.5,
+    "performance": 1, "modular": 1, "modularization": 1,
+
+    # --- AI/agentic (your differentiator) ---
+    "ai": 0.5, "llm": 0.5, "agent": 0.5, "mcp": 1,
+}
+
+# Penalty terms — if the JD requires these and the resume lacks them,
+# subtract a flat percentage. Strong domain mismatches.
+HARD_REQUIREMENTS: dict[str, float] = {
+    "ios": 0,        # iOS-only roles aren't relevant; will be filtered separately
+    "react native": 5,
+    "flutter": 5,
+    "xamarin": 3,
+}
+
+
+def _present(phrase: str, text: str) -> bool:
+    # word-ish boundary match; phrase may contain spaces or special chars
+    pat = r"(?<![a-z0-9])" + re.escape(phrase) + r"(?![a-z0-9])"
+    return re.search(pat, text) is not None
+
+
+def _score_one(resume_text: str, jd_text: str, title: str) -> int:
+    rt = resume_text.lower()
+    jt = (jd_text + " " + title).lower()
+
+    earned, possible = 0.0, 0.0
+    for skill, w in SKILLS.items():
+        if _present(skill, jt):
+            possible += w
+            if _present(skill, rt):
+                earned += w
+
+    if possible < 3:
+        # JD too sparse to score reliably (e.g. nearly empty descriptionPlain)
+        # Fall back to title-only check: if title says "android" + "engineer",
+        # give it a default 50; otherwise 30.
+        if "android" in jt and ("engineer" in jt or "developer" in jt):
+            return 50
+        return 30
+
+    base = (earned / possible) * 100
+
+    # Penalties for stack mismatches
+    for skill, pen in HARD_REQUIREMENTS.items():
+        if _present(skill, jt) and not _present(skill, rt):
+            base -= pen
+
+    return max(0, min(100, round(base)))
 
 
 def score_jobs(companies: list[dict]) -> None:
     """Mutate companies in place, adding 'match' (0-100) to each job."""
     resume_text = RESUME.read_text() if RESUME.exists() else ""
-    resume_terms = collections.Counter(tokens(resume_text))
-    if not resume_terms:
+    if not resume_text.strip():
         for c in companies:
             for j in c["jobs"]:
                 j["match"] = 0
         return
 
-    # Build IDF across all JDs so common words ("software", "engineer") count less
-    jd_docs = []
     for c in companies:
-        for j in c["jobs"]:
-            jd_docs.append(set(tokens(j.get("jd", "") + " " + j["title"])))
-    N = max(len(jd_docs), 1)
-    df = collections.Counter()
-    for doc in jd_docs:
-        for t in doc:
-            df[t] += 1
-    idf = {t: math.log((N + 1) / (df[t] + 1)) + 1 for t in df}
+        # Company-level adjustment (small, +/- a few points)
+        adj = 0
+        if c.get("day_one"):     adj += 5
+        if c.get("perm_count", 0) >= 500: adj += 3
+        elif c.get("perm_count", 0) >= 100: adj += 1
+        if c.get("avoid"):       adj -= 10
 
-    # Score each role
-    raw = []
-    for c in companies:
         for j in c["jobs"]:
-            jd_terms = set(tokens(j.get("jd", "") + " " + j["title"]))
-            overlap = jd_terms & set(resume_terms)
-            s = sum(idf.get(t, 1) * math.log(1 + resume_terms[t]) for t in overlap)
-            # Bonuses
-            if c.get("day_one"): s += 8
-            if c.get("perm_count", 0) > 100: s += 4
-            if c.get("avoid"): s -= 15
-            raw.append((c, j, s))
-
-    # Normalize to 0-100
-    if raw:
-        lo = min(s for _, _, s in raw)
-        hi = max(s for _, _, s in raw)
-        span = hi - lo or 1
-        for c, j, s in raw:
-            j["match"] = round((s - lo) / span * 100)
+            base = _score_one(resume_text, j.get("jd", ""), j.get("title", ""))
+            j["match"] = max(0, min(100, base + adj))
