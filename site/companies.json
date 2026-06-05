@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T02:19:19.405145Z",
+  "generated_at": "2026-06-05T02:25:07.540013Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -20,7 +20,22 @@
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:08-04:00",
-          "match": 78
+          "match": 72,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "lifecycle",
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 6.5 / 9.0 = 72%"
+          }
         },
         {
           "title": "Staff Android Engineer, Brand Ad Formats",
@@ -29,7 +44,22 @@
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:08-04:00",
-          "match": 78
+          "match": 72,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "lifecycle",
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 6.5 / 9.0 = 72%"
+          }
         },
         {
           "title": "Staff Android Engineer, Brand Ad Formats",
@@ -38,7 +68,22 @@
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:08-04:00",
-          "match": 78
+          "match": 72,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "lifecycle",
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 6.5 / 9.0 = 72%"
+          }
         },
         {
           "title": "Staff Android Engineer (Clients Platform)",
@@ -47,7 +92,25 @@
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:07-04:00",
-          "match": 100
+          "match": 95,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "coroutines",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "code review"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 20.5 / 21.5 = 95%"
+          }
         },
         {
           "title": "Staff Android Engineer (Clients Platform)",
@@ -56,7 +119,25 @@
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:07-04:00",
-          "match": 100
+          "match": 95,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "coroutines",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "code review"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 20.5 / 21.5 = 95%"
+          }
         },
         {
           "title": "Staff Android Engineer (Clients Platform)",
@@ -65,7 +146,25 @@
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:07-04:00",
-          "match": 100
+          "match": 95,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "coroutines",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "code review"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 20.5 / 21.5 = 95%"
+          }
         },
         {
           "title": "Staff Android Engineer (Clients Platform)",
@@ -74,7 +173,25 @@
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:07-04:00",
-          "match": 100
+          "match": 95,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "coroutines",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "code review"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 20.5 / 21.5 = 95%"
+          }
         },
         {
           "title": "Staff Android Engineer, Home Experience",
@@ -83,7 +200,19 @@
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The Home Experience team is responsible for one of the highest traffic pages on the platform: the Home feed on the Reddit apps and website. Home is both a destination and entrypoint for almost all Reddit journeys, and we know a smooth, intuitive, and delightful experience is critical to Reddit\u2019s success and appeal. You\u2019ll be working with the immense scale of hundreds of millions of users to help them explore Reddit and provide them with excellent feeds. This role can be remote within the United States, Canada, or Europe, or can be a hybrid model if near an office. Offices are located in San Francisco, Los Angeles, Chicago, New York City, Toronto, London, Amsterdam, Madrid and Berlin.&nbsp; What You\u2019ll Do: Be the technical lead for a high-caliber, inclusive team of engineers across the organization. Work cross-functionally, collaborate and partner with product, design, and other engineering counterparts to design and build novel products and features that our users will love. Work alongside a team of thoughtful, fast-moving, and motivated engineers. Drive step-function improvements in developer workflows, implement best practices, and mentor engineers across the organization.. Participate in the full development cycle: design, development, test, experimentation, analysis, and launch. You\u2019ll be writing and reviewing code and design docs, giving feedback on product specs and mocks, and ensuring successful delivery of key projects. You will be a main driver in the planning, development, and implementation across Reddit\u2019s Android architecture in conjunction with numerous partner teams, identifying and delivering on major opportunities. Enable a culture of metrics led execution, with a focus on operational excellence and system observability. Partner cross-functionally and with senior leadership on our strategic roadmap, driving engineering and product bets that will bring Home to the next level. Who You Might Be: 8+ years of experience as a software engineer developing user-facing applications Fluency working with ",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:41:03-04:00",
-          "match": 83
+          "match": 77,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 6.5 = 77%"
+          }
         }
       ],
       "perm_count": 200,
@@ -103,7 +232,21 @@
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the team Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team\u2019s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. Stripe was founded to make it easier for developers to accept payments. We\u2019ve solved a small part of that problem, but our ambition is to go much further.&nbsp; What you\u2019ll do Android engineers on this team will build and enhance applications, services, and the OS that run on the physical Terminal devices.&nbsp; Building the frameworks for other engineers, both internal and external to Stripe, to develop on our custom platform with ease. Responsibilities Design, build and maintain Android apps and SDKs in Kotlin Develop Android payment applications for a variety of devices and form factors Work with engineers, product managers, designers, and stakeholders across the company to bring new features and products to Stripe\u2019s mobile users Collaborate with Android developers who work on the Stripe mobile apps and Stripe Terminal to set best practices for Android development across the company Work with user research and product design to understand users and address their needs &nbsp; Who you are We\u2019re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements 2+ years of experience in Android Development Experience working with at least 1 of the following: Kotlin, Java, Swift, Objective-C, Go, Python Preferred qualifications Payments expertise or knowledge Backend infrastructure or services experience Listens well and internalize the best ideas from all over the organization while also setting a vision that others are excited to get behind You prefer simple solutions and designs over complex ones, and have a good intuition for what is lasting and sc",
           "ats": "greenhouse",
           "posted_at": "2026-05-21T09:34:32-04:00",
-          "match": 98
+          "match": 90,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "java"
+            ],
+            "missing": [
+              "swift",
+              "python"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 9.5 / 10.5 = 90%"
+          }
         },
         {
           "title": "Android Engineer, Terminal Developer Productivity",
@@ -112,7 +255,17 @@
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the team Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team\u2019s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments \u2013 building for Unified Commerce. With Terminal, businesses can unify their in-person and online experiences, unlocking payments use cases that are right for their business model \u2013 whether it\u2019s creating a modern retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event. Within Terminal, the Developer Productivity team empowers mobile, full-stack and embedded/firmware engineers to ship high-quality products quickly and safely. We build tools, processes and infrastructure that accelerate engineers across multiple teams. Our work is critical to supporting Stripe\u2019s in-person payment products and, ultimately, to helping increase the GDP of the internet. We own a diverse tech stack, including build and developer productivity tooling for mobile engineers; release tooling that enables Terminal releases across SDKs, Android apps and firmware; and test automation infrastructure that helps product engineers ensure the quality and reliability of what they ship. As an engineer on this team, you\u2019ll shape and deliver major pieces of this tooling and infrastructure and help raise the bar for developer experience across Terminal. What you\u2019ll do Responsibilities Design, build and maintain tools, libraries and infrastructure that improve the productivity of Terminal engineers across mobile, backend and embedded systems. Collaborate closely with mobile engineers to understand their workflows and pain points and translate them into practical short-term and long-term solutions. Contribute to and improve our build, CI/CD and test automation systems for Terminal SDKs, Android apps and firmware. Work with stakeholders across Terminal to prioritize work, balance competing needs a",
           "ats": "greenhouse",
           "posted_at": "2026-05-21T09:34:52-04:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "ci/cd"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.5 / 5.5 = 100%"
+          }
         },
         {
           "title": "Android Engineer, Terminal Global Payments",
@@ -121,7 +274,16 @@
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the team Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team\u2019s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. Stripe was founded to make it easier for developers to accept payments. We\u2019ve solved a small part of that problem, but our ambition is to go much further.&nbsp; &nbsp; Engineers on the Terminal Global Payments team will build and enhance the Payments Platform including the applications and services that run on the physical Terminal devices and expanding access to local payment methods, meeting our merchants/gateways where their in-person payment needs are. Your work will also include building the frameworks for other engineers, both internal and external to Stripe, to develop on our custom platform with ease. As part of this role, you will focus on working on Terminal\u2019s Android devices and Tap to Pay development, with opportunities to build on Stripe\u2019s backend payments infrastructure as well. What you'll do Responsibilities Design and develop end-to-end payment features spanning mobile applications, device-level integrations and backend services for a variety of devices and form factors. Collaborate closely with the Terminal backend and infrastructure teams to design and implement scalable payments solutions across Stripe's services. Support the development of mobile device testing infrastructure and automation frameworks&nbsp; Work with engineers, product managers, designers, and stakeholders across the company to deliver complete features. Work with user research and product design to understand users and address their needs across the full stack. Who you are We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Have a strong tech",
           "ats": "greenhouse",
           "posted_at": "2026-05-27T01:02:34-04:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 4.0 / 4.0 = 100%"
+          }
         },
         {
           "title": "Android Engineer, Terminal OS Platform",
@@ -130,7 +292,17 @@
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the team Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team\u2019s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. Stripe was founded to make it easier for developers to accept payments. We\u2019ve solved a small part of that problem, but our ambition is to go much further.&nbsp; Android engineers on the Terminal team will build and enhance the Device Platform including the applications and services that run on the physical Terminal devices.&nbsp; This also includes building the frameworks for other engineers, both internal and external to stripe, to develop on our custom platform with ease. What you\u2019ll do Responsibilities Design, build and maintain Android apps and SDKs in Kotlin Develop Android payment applications for a variety of devices and form factors Work with engineers, product managers, designers, and stakeholders across the company to bring new features and products to Stripe\u2019s mobile users Collaborate with Android developers who work on the Stripe mobile apps and Stripe Terminal to set best practices for Android development across the company Work with user research and product design to understand users and address their needs Who you are We\u2019re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Have a strong technical background, with 2-6 years of experience in Android development.&nbsp; Listen well and internalize the best ideas from all over the organization&nbsp; Prefer simple solutions and designs over complex ones, and have a good intuition for what is lasting and scalable Thrive in a collaborative environment involving different stakeholders and subject matter experts Can put yourself in the shoes of your users and be a steward of cra",
           "ats": "greenhouse",
           "posted_at": "2026-05-21T09:35:00-04:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 8.0 / 8.0 = 100%"
+          }
         },
         {
           "title": "Mobile Engineer, Treasury",
@@ -139,7 +311,10 @@
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the team The Direct Surfaces Team\u2019s mission is to make it delightful for users to manage their money. We\u2019re rebuilding and unbundling the core of Stripe so that no matter what the business, the location or use-case there is a single place that can fulfil all financial needs: Stripe Treasury . This is a 0 \u2192 1 new business at Stripe so if that sounds exciting we\u2019d love to hear from you! What you\u2019ll do Engineers at Stripe are comfortable working on new products under fluid conditions, seamlessly balancing tactical and strategic considerations all in service of our users Responsibilities Deliver a world class mobile experience for Treasury users Scope and lead technical projects, laying the groundwork for our products to iteratively evolve and scale Design, build, expand and maintain mobile specific view cross-platform components, backing APIs and their services Work with our partners to design and launch new features and capabilities Align our technical decisions with Stripe\u2019s broad strategic initiatives, while also advocating for needs specific to emerging new businesses Work with engineers across the company to understand when existing infrastructure can be leveraged vs. when building a bespoke solution is prudent Develop and execute against both short- and long-term roadmaps&nbsp; Make effective tradeoffs that consider business priorities, user experience, and a sustainable technical foundation Who you are We\u2019re looking for software engineers with experience distributing products via mobile who have an eye for detail and are happy delivering changes at any layer of the technical stack. Minimum requirements Have a strong technical background, including 3+ years of industry experience Have experience building mobile applications including working beyond just the client Understand good practices when building and working with UIs and APIs Measure your success in terms of business impact, not lines of code Internalize the best ideas from across",
           "ats": "greenhouse",
           "posted_at": "2026-06-03T13:34:19-04:00",
-          "match": 38
+          "match": 30,
+          "match_reasons": {
+            "note": "JD too sparse; generic fallback."
+          }
         }
       ],
       "perm_count": 600,
@@ -159,7 +334,20 @@
           "jd": "About the Team The ChatGPT organization at OpenAI supports our mission by innovating across multiple core domains \u2014 from Growth and Personalization to Search Infrastructure and beyond. We\u2019re scaling teams that build experiences, tools, and systems that power ChatGPT on every platform where users engage. About the Role We\u2019re hiring an Android Software Engineer to lead development of new Android experiences for ChatGPT. In this role, you will: Design and develop new features and capabilities for ChatGPT\u2019s Android app. Establish strong engineering standards for performance, reliability, and code quality. Collaborate with cross-functional partners to craft experiences that resonate with users. Shape technical decisions and define long-term architecture for mobile platforms. Mentor and influence peers through code reviews and shared ownership. You might thrive in this role if you: You have strong expertise in Android (Kotlin/Java), modern architecture patterns, and Jetpack. You\u2019re passionate about mobile UX and system performance. You enjoy working in dynamic, cross-functional environments. We are open to hiring in San Fransisco, New York and Seattle. About OpenAI OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. For additional information, please see OpenAI\u2019s Affirmative Action and Equal Employment Opportunity Policy Statement . Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reas",
           "ats": "ashby",
           "posted_at": "2026-02-25T17:12:38.342+00:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "java",
+              "performance",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 11.0 / 11.0 = 100%"
+          }
         },
         {
           "title": "Android Engineer, Applied Foundations ",
@@ -168,7 +356,23 @@
           "jd": "About the Team OpenAI\u2019s Applications Engineering organization builds and operates the products that bring our cutting-edge research to millions of users and developers worldwide. The Applied Foundations team owns the core product and platform layers that make those experiences possible \u2014 from identity & access, to safety to payments & commerce across all of our apps. Our teams span product engineering, infrastructure, and safety, working together to deliver technology that is reliable, secure, and trusted at global scale. About the Role You will be a Senior Android engineer on OpenAI\u2019s Applied Foundations team, building the core mobile experiences that power how users sign up, manage their account, family features, pay for services, stay safe, and interact with OpenAI\u2019s products with confidence. This role is about creating high-quality products as well as reusable Android foundations that product teams across different OpenAI apps depend on to ship quickly while meeting the highest standards for security, reliability, and user trust. You\u2019ll own complex client-side systems spanning UI, networking, local state, payment integrations and Apple platform integrations, and work closely with backend, product, and safety partners to shape the architecture that supports OpenAI\u2019s mobile ecosystem at global scale. You might thrive in this role if you: Have 4+ years of professional software engineering experience. Have a proven track record of building high-quality Android applications in production. Are fluent in Kotlin (and/or Java) and familiar with Android development tools and architecture components. Prioritize performance, security, and user experience in mobile development. Enjoy working cross-functionally to bring ambitious product ideas to life. Care deeply about performance, security, and user experience. About OpenAI OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orient",
           "ats": "ashby",
           "posted_at": "2026-01-20T21:18:26.922+00:00",
-          "match": 95
+          "match": 89,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "java",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 12.0 / 13.5 = 89%"
+          }
         },
         {
           "title": "Android Engineer, Ad Formats",
@@ -177,7 +381,19 @@
           "jd": "About the Team The Monetization team is a new cross-functional group working across engineering, product, research, and design to build the foundational systems that will help OpenAI scale access to intelligence responsibly. Our mission is to develop user-first, privacy-preserving monetization products, including next-generation ads experiences, that strengthen user trust, unlock economic opportunity, and support OpenAI\u2019s long-term innovation. Monetization plays a critical role in enabling OpenAI to continue pushing the boundaries of AI capabilities while ensuring the benefits of AGI are broadly shared. We believe monetization must be aligned with user value, uphold rigorous privacy and safety standards, and sustain a healthy ecosystem of developers, advertisers, and businesses. This team operates in a greenfield environment and moves quickly through prototyping, experimentation, and iterative deployment. We partner closely with Product, Design, and Research to bring new ad experiences into real-world systems across OpenAI surfaces at global scale, including thoughtfully integrating them into the core ChatGPT experience. About the Role We\u2019re looking for an Android Engineer to help build the native Android experiences and client-side systems that power how ads are structured, rendered, and delivered across OpenAI\u2019s ads ecosystem. This role sits within the Ads Formats team, which owns the creative rendering and presentation layer for next-generation ads experiences across different surfaces and media types. You\u2019ll help build the Android infrastructure and tooling that support formats such as text, image, video, native, conversational, and interactive ads, while ensuring they render reliably and perform efficiently across platforms. You\u2019ll work closely with backend, Product, Design, Research, and Safety partners to shape Android architecture that supports user-first, privacy-preserving monetization experiences within ChatGPT and OpenAI\u2019s broader mobile ecosystem. In this role, you will Build and ship ads format experiences on Android, including text, image, video, native, conversational, and interactive ad surfaces. Design and maintain shared Android frameworks and primitives for ad rendering, creative presentation, media handling, format validation, and policy-aware UX patterns. Own complex Android systems end-to-end across UI architecture, networking, local persistence/state, observability, rendering performance, and release processes. Build robust integrat",
           "ats": "ashby",
           "posted_at": "2026-02-12T20:17:57.953+00:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 6.5 / 6.5 = 100%"
+          }
         },
         {
           "title": "Android Engineer, ChatGPT Mobile Infrastructure",
@@ -186,7 +402,22 @@
           "jd": "About the Team We\u2019re building the core Kotlin-based platform\u2014from architecture to CI\u2014that powers ChatGPT, Sora, and other fast-evolving Android apps. Android is a key platform for ChatGPT, and our focus is helping teams iterate quickly without sacrificing performance or reliability. About the Role We\u2019re hiring Staff+ engineers with backgrounds across the Android platform, including specialists in performance, build/CI, or AI developer productivity. Whether you focus on UI frameworks or automated testing, your impact will be seen in reduced friction, lower complexity, fewer regressions, and improved performance. If you're rethinking how to scale Android development in the era of advanced AI tools, this role is for you. We are hiring in San Francisco, New York, and Seattle, and may consider remote candidates. In this role, you may: Build and evolve core Kotlin frameworks used across multiple apps and platforms (e.g., caching, state management, observability, navigation, component systems). Enhance app performance (startup, responsiveness, memory, battery life) through profiling, monitoring, regression prevention, or architectural improvements. Increase reliability by reducing crashes, improving error handling, and driving release process improvements. Collaborate closely with product engineering teams to identify pain points and emerging infrastructure needs. Develop internal tooling and automation (CI, testing, guardrails, Codex agent skills, and systems) to accelerate engineering velocity. Turn real-world constraints into simple abstractions: intuitive APIs, enforceable contracts, safe defaults. You might thrive in this role if you: Bring strong expertise in Android development (Kotlin, modern architecture patterns, Jetpack). Gravitate toward platform challenges: frameworks, architecture, performance, or creating tools that empower other engineers. Take ownership by identifying key risks/opportunities, driving projects to completion, and adapting quickly. Care about measurement: instrument thoroughly, define metrics, run experiments, and iterate based on data. Communicate and collaborate effectively\u2014aligning on interfaces, navigating tradeoffs, and driving cross-team execution. Think in systems, fight entropy, and enjoy ambiguous challenges. About OpenAI OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and see",
           "ats": "ashby",
           "posted_at": "2026-03-01T23:05:32.641+00:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "navigation",
+              "scale",
+              "performance",
+              "ai",
+              "agent"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 12.0 / 12.0 = 100%"
+          }
         }
       ],
       "perm_count": 150,
@@ -206,7 +437,22 @@
           "jd": "About Anthropic Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role: We're looking for seasoned Android engineers to join our Claude mobile team and help build apps that harness the transformative power of advanced language models. Our mission is to unlock the potential of advanced AI through elegant, user-friendly mobile applications that put unprecedented capabilities at users' fingertips. You will work with a talented team of engineers, researchers, design and Product teams to design and implement key components of our products. Join us in this exciting mission to transform how people engage with technology and unlock new realms of human potential. Key Responsibilities: Architect and implement cutting-edge Android applications Develop novel solutions leveraging AI technologies Optimize performance at all levels of the mobile stack Champion best practices in mobile development Obsessive attention to detail and app experience Contribute to backend systems as neede Minimum Qualifications: Expertise in Kotlin, Jetpack Compose, Android SDK and the broader Android ecosystem Proficiency with the latest mobile platform capabilities and intricacies Practical experience with full-stack development and comfort working with backend technologies A track record of shipping impactful, high-adoption mobile applications Strong communication and mentorship skills Thrive in a fast-paced, collaborative environment and enjoy working closely with cross functional partners and teammates Preferred Qualifications: 0-to-1 experience building successful products in early-stage environments Experience building applications that utilize modern ML/AI technology 3D graphics, visual effects, and audio and video streaming on mobile A vision for the future of human-machine interaction and a drive to make that vision a reality The annual compensation range for this role is listed below.&nbsp; For sales roles, the range provided is the role\u2019s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Annual Salary: $320,000 &mdash; $405,000 USD Logistics Minimum education: Bachelor\u2019s degree or an equivalent combination",
           "ats": "greenhouse",
           "posted_at": "2026-05-01T20:00:41-04:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "android sdk",
+              "performance",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 19.5 / 19.5 = 100%"
+          }
         }
       ],
       "perm_count": 90,
@@ -388,7 +634,19 @@
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role Our group is building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers &amp; sharp problem-solvers. Individuals who are wired to make an impact. Robinhood is where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. We\u2019re excited to invite talented and motivated Android Engineers to join our award-winning team to help expand Robinhood\u2019s mobile experience for our customers. The Futures Engineering team builds and operates the end-to-end futures trading platform at Robinhood. They own the systems that allow customers to trade futures products safely, reliably, and at scale\u2014from market connectivity and order execution to risk controls, margining, and real-time customer experience.&nbsp;This is a mission-critical, highly regulated engineering space where correctness, performance, and trust matter as much as speed. As an Android Engineer on the Futures Engineering team , you\u2019ll build customer-facing mobile experiences that enable safe, intuitive futures trading on top of real-time, high-stakes financial systems. You\u2019ll collaborate closely with backend, product, design, and risk partners to deliver performant, reliable features while helping translate complex trading concepts into simple, trusted Android workflows. This team is based in our New York, NY &nbsp;office, with in-person attendance expected at least 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you'll do Work with a fast-growing team to revolutionize finance at speed and scale Build smooth, stable, and elegant products with Kotlin and the newest Android APIs Own features from inception to design, implementation, and launch Work cross-functionally with Product Designers, Product Managers, Backend Developers, and Data team Work with Kotlin, A",
           "ats": "greenhouse",
           "posted_at": "2026-06-04T14:14:25-04:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "scale",
+              "performance"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 10.0 / 10.0 = 100%"
+          }
         },
         {
           "title": "Android Engineer",
@@ -397,7 +655,27 @@
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role Our group is building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers &amp; sharp problem-solvers. Individuals who are wired to make an impact. Robinhood is where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. We\u2019re excited to invite talented and motivated Android Engineers to join our award-winning team to help expand Robinhood\u2019s mobile experience for our customers. Learn more about some of our available teams below! The Acquisition team is mainly responsible for acquiring and onboarding new users to Robinhood through 3 main avenues: dot-com site, referrals &amp; incentives, and onboarding. The&nbsp; Equities Engineering team designs and operates the high-performance trading systems that power stock execution, clearing, and market data\u2014enabling fast, reliable, and trusted investing experiences for millions of Robinhood customers. The International Brokerage Engineering team builds the platforms and trading systems that power Robinhood\u2019s global expansion. They design scalable, compliant, and high-performance infrastructure to deliver seamless investing experiences to customers across new markets and asset classes. These teams are based in our Menlo Park, CA office, with in-person attendance expected at least 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you'll do Work with a fast-growing team to revolutionize finance at speed and scale Build smooth, stable, and elegant products with Kotlin and the newest Android APIs Own features from inception to design, implementation, and launch Work cross-functionally with Product Designers, Product Managers, Backend Developers, and Data team Work with Kotlin, Android SDK &amp; Jetpack Compose, MVVM, Coroutines &amp; Flow (preferred) OR RxJava, and Ret",
           "ats": "greenhouse",
           "posted_at": "2026-05-22T12:11:47-04:00",
-          "match": 96
+          "match": 95,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "android sdk",
+              "mvvm",
+              "coroutines",
+              "flow",
+              "scale",
+              "performance"
+            ],
+            "missing": [
+              "rxjava"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 28.5 / 30.0 = 95%"
+          }
         },
         {
           "title": "Senior Android Engineer",
@@ -406,7 +684,24 @@
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. As a Senior Android Engineer , you will design, develop, and enhance user-facing features across the Robinhood app. You\u2019ll work with Kotlin and Jetpack Compose, improve performance and stability, mentor peers, and help shape the future of our mobile platform! This role is based in our Menlo Park, CA or New York City, NY office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you\u2019ll do Build intuitive, elegant, and stable mobile experiences using Kotlin, Jetpack Compose, and modern Android APIs Lead the full lifecycle of product features \u2014 from ideation and technical design to implementation, testing, and release Collaborate closely with Product Managers, Designers, Backend Engineers, and Data Scientists to create impactful solutions Champion engineering best practices that ensure code quality, scalability, and maintainability Mentor junior developers and help elevate team standards and collaboration What you bring 5+ years of professional experience developing Android applications Proficiency with Kotlin and/or Java, and a strong grasp of Android ",
           "ats": "greenhouse",
           "posted_at": "2026-05-22T12:11:47-04:00",
-          "match": 89
+          "match": 88,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "java",
+              "performance"
+            ],
+            "missing": [
+              "lifecycle",
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 17.5 / 20.0 = 88%"
+          }
         },
         {
           "title": "Senior Android Engineer",
@@ -415,7 +710,19 @@
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. Join us in building the future of finance. Our mission is to democratize finance for all.&nbsp; An estimated $124 trillion of assets &nbsp;will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. Robinhood has been tapped as the brokerage and initial trustee for the federal Trump Accounts program, and this team is building the standalone platform that will bring that experience to life for the next generation of Americans. You\u2019ll join a fast-moving, high-impact group working from 0\u21921 to develop the product and infrastructure behind a new web and app experience, partnering across product, data, and infrastructure to deliver a secure, intuitive, and reliable customer offering. As a Senior Android Engineer on Trump Accounts, you\u2019d help build the standalone mobile experience from the ground up, owning features from concept through launch and translating complex account and investing workflows into clear, intuitive product experiences. You\u2019d work closely with product, design, backend, data, and platform partners to ship high-quality Android features with a strong bar for performance, reliability, safety, and correctness in a highly regul",
           "ats": "greenhouse",
           "posted_at": "2026-06-04T11:57:43-04:00",
-          "match": 78
+          "match": 77,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "performance"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 6.5 = 77%"
+          }
         }
       ],
       "perm_count": 190,
@@ -435,7 +742,27 @@
           "jd": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $100B in annualized spend flows in and out of 50,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role As an Android Engineer at Ramp, you\u2019ll enhance our successful and rapidly growing mobile app. You will improve the core platform that thousands of businesses rely on while also building the future of automated finance by integrating AI and intelligent agents into the mobile experience. This is a chance to grow your skills on a proven product and define the next generation of fintech. Check out our Engineering Blog for more on our tech stack, mission and values! What You\u2019ll Do Design, build, and launch new products to Ramp\u2019s Android app Help establish engineering processes, tools, and systems that allow us to scale the code base and productivity Conduct code reviews and set engineering standards Work with Product and Design to identify key features that will make the app successful Work alongside Product and other cross-functional teams to understand customer feedback and continuously improve our product What You Need Minimum 1 year of experience in mobile development Proficiency in Kotlin and Compose for Android development Experience launching at least one mobile app and/or several features that reached a large number of users Desire to work in a fast-paced environment, continuously grow, and master your craft Strong understanding of mobile design patterns and best practices Nice to Haves Experience with web apps (React, TypeScript) Experience with backend technologies (Python, Flask, SQL, OpenAPI) Experience with our mobile stack in addition to Kotlin and Compose: MVVM, coroutines, flows, gradle, OpenAPI & Buildkite Experi",
           "ats": "ashby",
           "posted_at": "2025-07-31T21:58:34.674+00:00",
-          "match": 98
+          "match": 98,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "compose",
+              "mvvm",
+              "coroutines",
+              "flow",
+              "sql",
+              "gradle",
+              "scale",
+              "ai"
+            ],
+            "missing": [
+              "python"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 22.5 / 23.0 = 98%"
+          }
         },
         {
           "title": "Mobile Engineer, iOS",
@@ -444,7 +771,22 @@
           "jd": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $100B in annualized spend flows in and out of 50,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role As an iOS Engineer at Ramp, you\u2019ll enhance our successful and rapidly growing mobile app. You will improve the core platform that thousands of businesses rely on while also building the future of automated finance by integrating AI and intelligent agents into the mobile experience. This is a chance to grow your skills on a proven product and define the next generation of fintech. Check out our Engineering Blog for more on our tech stack, mission, and values! What You\u2019ll Do Design, build, and launch new products to Ramp\u2019s iOS app. Help establish engineering processes, tools, and systems that allow us to scale the code base and productivity. Conduct code reviews and set engineering standards. Work with Product and Design to identify key features that will make the app successful. Work alongside Product and other cross-functional teams to understand customer feedback and continuously improve our product. What You Need Minimum 1 year of experience in mobile development. Proficiency in Swift and SwiftUI for iOS development. Experience launching at least one mobile app and/or several features that reached a large number of users. Desire to work in a fast-paced environment, continuously grow, and master your craft. Strong understanding of mobile design patterns and best practices. Nice to Haves Experience with web apps (React, TypeScript). Experience with backend technologies (Python, Flask, SQL, OpenAPI). Experience with our mobile stack in addition to Swift and SwiftUI: Swift Concurrency, The Composable Architecture, Bazel, OpenA",
           "ats": "ashby",
           "posted_at": "2025-07-31T21:50:51.242+00:00",
-          "match": 82
+          "match": 82,
+          "match_reasons": {
+            "matched": [
+              "flow",
+              "sql",
+              "scale",
+              "ai"
+            ],
+            "missing": [
+              "swift",
+              "python"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 4.5 / 5.5 = 82%"
+          }
         },
         {
           "title": "Software Engineer Internship, Android ",
@@ -453,7 +795,17 @@
           "jd": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $100B in annualized spend flows in and out of 50,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. Check out our Engineering Blog and Emerging Talent Blog for more on our tech stack, mission and values! About the Role Ramp is, at its core, an engineering company, and is on a mission to build the best engineering team in NYC and SF! We are rapidly scaling our mobile app, and our ideal candidate will contribute to building the next iteration of Ramp on Mobile with our world-class team. We are looking for an Android intern for our 12 or 16-week Fall Program (August/September 2026 - December 2026) who is excited to be a part of our early story and help us build a diverse and vibrant tech community. We hire engineers with a broad set of technical skills who are highly cross-functional and eager to solve a wide range of engineering challenges. Our ideal candidate has a strong sense of ownership and enjoys owning projects from inception to scaling them in production. We value people who take pride in their work and show an aptitude for learning quickly, whether they\u2019re familiar with our stack or not. As an intern, you\u2019ll be working with a nimble team of committed and talented engineers and having a large, long-term impact on technical design and engineering culture. What You'll Do Design, build, and launch new products on Ramp\u2019s Android App Work with Product and Design to plan and identify key features to make the app successful Work with other engineers to build all the necessary services to support the app Have a large, long-term impact on technical design and engineering culture Ship products and services in cross-functional teams Establish",
           "ats": "ashby",
           "posted_at": "2025-08-07T20:49:38.961+00:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "flow"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 6.5 / 6.5 = 100%"
+          }
         }
       ],
       "perm_count": 80,
@@ -473,7 +825,24 @@
           "jd": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. The Trust &amp; Safety function at Lyft is dedicated to keeping every Lyft ride safe for both riders and drivers. We build and maintain the tools, features, and systems that deter bad actors, protect vulnerable populations, and reinforce trust across the platform. As an Android Engineer working on Trust &amp; Safety, you'll work at the intersection of product, design, engineering, and policy to ship high-impact safety features to millions of users. Responsibilities: Build and maintain Android features that directly protect riders and drivers. Partner closely with product managers, designers, data scientists, and backend engineers to translate safety concepts into polished, reliable user experiences. Critically evaluate proposed designs and product specs - identify logic gaps, edge cases, and potential abuse vectors before they reach production. Navigate tradeoffs thoughtfully in a fast-paced environment with many concurrent high-priority projects. Contribute to discussions around OKR planning and help find creative approaches to achieving team goals. Analyze internal systems and processes and identify opportunities for improvement and automation.&nbsp; Share knowledge through brown bags, tech talks, and engineering best practices.&nbsp; Participate in code, product, and design reviews to ensure quality and consistency. Keep up-to-date with Android, broader industry developments, and the latest AI tools to enhance productivity and engineering workflows.&nbsp; Experience: Experience shipping large-scale Android applications. Proficiency in Kotlin; Java experience is a plus but not required. Experience with architecture paradigms like unidirectional and reactive programming, and other patterns commonly used in the industry. Experience with Jetpack Compose, unit and snapshot testing, and creating shared components. Strong product sense - you care about usability, good design, and how features affect real people's safety. A critical and creative thinker who can spot flaws in proposed solutions and suggest better alternatives. Comfortable working in a highly cross-functional environment where regular collaboration with product and design partners is the norm, not the exception. Interest in growing into a technical leadership role over time, with the appetite and potential to take on greater scope",
           "ats": "greenhouse",
           "posted_at": "2026-06-04T05:10:14-04:00",
-          "match": 93
+          "match": 92,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "java",
+              "scale",
+              "ai"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 18.0 / 19.5 = 92%"
+          }
         },
         {
           "title": "Senior Android Engineer, Mobile Foundations",
@@ -482,7 +851,18 @@
           "jd": "At Lyft, our mission is to serve and connect. We start with our own community by creating an open, inclusive, and diverse organization. Our Mobile Foundations team is dedicated to building software that addresses challenges at a large scale, ensuring that our mobile applications are stable, scalable, and efficient. As a Mobile Engineer on the Mobile Foundations team, you will create and maintain foundational systems that all Lyft mobile engineers rely on, enabling teams across Lyft to deliver rich experiences that connect people and places. You will build scalable infrastructure, helping developers move fast and innovate, while ensuring Lyft's mobile developer experience remains at the forefront. Your work will have a multiplicative effect across Engineering and contribute directly to Lyft's overall stability. Our apps are used by millions of people, and we take great pride in our work, which means adhering to excellent development practices, careful code architecture, and an organization built around rapid releases. Our codebase is Kotlin, utilizing modern design patterns and coding standards. We rely on third-party libraries and actively contribute back to the community, including the Kotlin language itself. Who are you: An enthusiastic and experienced mobile developer looking to use your engineering skills to improve developers\u2019 ability to ship new features quickly. You get excited about new Kotlin features and compile improvements. You find delight in building the foundations and frameworks to accelerate the development of others, hiding away the complexities of the system. You are a diplomat who looks at the landscape and aligns engineers from different teams around a common pattern. You are excited about scaling millions of lines of Kotlin code to hundreds of mobile developers. You take initiative to identify and improve processes and solve problems proactively. You take pride in writing clean, maintainable, and scalable code with well-designed APIs, prioritizing clear design principles for reliability. Responsibilities: Develop and maintain reliable mobile infrastructure, including networking, architecture, and UI frameworks ( Lyft Product Language ), to enable Lyft Android engineers to deliver high-quality mobile experiences. Collaborate with cross-functional partners (designers, iOS engineers, Web engineers, and other Mobile Infrastructure teams) to strategically define the future of mobile UI and architecture, ensuring an innovative mobile develo",
           "ats": "greenhouse",
           "posted_at": "2026-06-04T05:10:14-04:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "scale"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 9.0 / 9.0 = 100%"
+          }
         }
       ],
       "perm_count": 460,
@@ -502,7 +882,18 @@
           "jd": "About Applied Intuition Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at applied.co . We are an in-office company, and our expectation is that employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home before heading to the office, or leaving earlier when needed to accommodate family commitments. Meet our engineers on the Vehicle OS team! Vehicle OS is a flexible suite of products that help vehicle manufacturers develop, deploy, and update complete vehicle software and AI applications. Learn more about what the team is building, the team culture, and why it\u2019s one of the most exciting projects at Applied Intuition. About the role As a Android Platform Engineer on the Vehicle OS team, you will orchestrate the development of a universal software foundation that enables automakers to deliver next-generation vehicle intelligence and software at scale. Working across application, middleware, and hardware layers, you\u2019ll collaborate with diverse teams to ensure seamless integration and rapid deployment, ultimately driving the transition to a software-defined future for the automotive industry. At Applied Intuition, you will: Develop and maintain the Android/Android Automotive OS middleware systems from front-end to the Hardware Abstraction Layer Work across our entire stack to develop new products, features, and tools Design efficient and effective solutions to a wide range of engineering challenges Ship complex software in fast-paced environments alongside domain experts acro",
           "ats": "ashby",
           "posted_at": "2025-07-04T00:27:24.676+00:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.5 / 5.5 = 100%"
+          }
         },
         {
           "title": "Embedded AI Engineer \u2013 Android Automotive (On-Device Intelligence)",
@@ -511,7 +902,20 @@
           "jd": "About Applied Intuition Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at applied.co . We are an in-office company, and our expectation is that employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home before heading to the office, or leaving earlier when needed to accommodate family commitments. About the role We are building on-device intelligence for a next-generation Android Automotive platform. This role owns the end-to-end lifecycle of embedded ML systems, ensuring models behave predictably and safely in production environments under real-world constraints such as latency, thermal limits, and functional safety. At Applied Intuition, you will: Deploy and run production-grade ML inference and learning systems on Android Automotive (AAOS) Implement on-device multimodal LLMs, including schema design and safe dispatch to local vehicle APIs Integrate models using TensorFlow Lite, ONNX Runtime, or specialized vendor SDKs Profile and optimize models for strict latency, memory, power, and thermal budgets Instrument runtime performance across CPU, GPU, and NPU acceleration layers Design safety boundaries and guardrails for model outputs, including tool-call allowlists and fallback logic Interface directly with vehicle signals, sensors, and system services using C++ and JNI We\u2019re looking for someone who has: BS, MS, or PhD in Computer Science, Electrical Engineering, or a related technical field 3+ years of experience shipping ML inference on embedded, mobile, or automotive",
           "ats": "ashby",
           "posted_at": "2026-04-08T15:42:25.703+00:00",
-          "match": 86
+          "match": 85,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "lifecycle"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.5 / 6.5 = 85%"
+          }
         }
       ],
       "perm_count": 400,
@@ -531,7 +935,19 @@
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
           "posted_at": "2026-06-02T11:18:03-04:00",
-          "match": 83
+          "match": 82,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "ai"
+            ],
+            "missing": [
+              "consumer"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 4.5 / 5.5 = 82%"
+          }
         },
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
@@ -540,7 +956,19 @@
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
           "posted_at": "2026-06-02T11:18:03-04:00",
-          "match": 83
+          "match": 82,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "ai"
+            ],
+            "missing": [
+              "consumer"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 4.5 / 5.5 = 82%"
+          }
         }
       ],
       "perm_count": 370,
@@ -560,7 +988,17 @@
           "jd": "Client Platform is an R&D studio that empowers hundreds of client developers to work efficiently on performance and stability in the Spotify apps, ultimately enabling them to deliver an awesome experience to Spotify users.\n\u00a0\nWe make this happen by providing observability and tools that collect performance and stability measurements and data, serving it to the feature squads in a clear and actionable way. We collaborate closely with our internal customers to understand needs and build a platform that fits. At times, we team up directly with feature squads to integrate our tooling and use it to identify and implement improvements directly in the app.\n\u00a0\nRight now we are working on our next generation observability platform, which will gather different observations from the clients into one view, enabling engineers to understand what is happening at any given time, to find bottlenecks and better act on bugs and regressions.\n",
           "ats": "lever",
           "posted_at": "2025-11-26T09:46:59Z",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "performance"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 5.0 = 100%"
+          }
         },
         {
           "title": "Senior Android Engineer - Data Platform",
@@ -569,7 +1007,17 @@
           "jd": "Mission Statement\nThe Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nAbout the Team\nYou\u2019ll join the Data Platform within the Platform mission, where we build the foundations that help Spotify teams better understand and serve our listeners. Our work enables engineers and data scientists to explore user behavior at scale and make smarter, faster decisions.\nAs part of a collaborative and distributed engineering team, you\u2019ll help shape the tools and SDKs that power data-driven product development across Spotify.\n",
           "ats": "lever",
           "posted_at": "2026-04-13T14:42:55Z",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 5.0 = 100%"
+          }
         }
       ],
       "perm_count": 170,
@@ -589,7 +1037,10 @@
           "jd": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale. Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term. About the role: Samsara is looking for a Staff Mobile Engineer to join our Mobile Platform team . This team builds the foundational frameworks and architectures that enable over 20 engineering teams to efficiently develop our Driver and Fleet applications, which serve millions of daily users. You will be instrumental in building the scalable mobile platform infrastructure that supports our high-availability applications, directly influencing the development velocity and technical capabilities of our entire mobile engineering organization. This is a remote position open to candidates residing in the US and Canada You should apply if: You want to impact the industries that run our world : The software, firmware, and hardware you build will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely. You want to build for scale : With over 2.3 million IoT devices deployed to our global customers, you will work on a range of new and mature technologies driving scalable innovation for customers across industries driving the world's physical operations. You are a life-long learner : We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go. You believe customers are more than a number : Samsara engineers enjoy a rare closeness to the end user and you will",
           "ats": "greenhouse",
           "posted_at": "2026-06-04T11:27:07-04:00",
-          "match": 31
+          "match": 30,
+          "match_reasons": {
+            "note": "JD too sparse; generic fallback."
+          }
         },
         {
           "title": "Staff Mobile Engineer - Mobile Platform",
@@ -598,7 +1049,10 @@
           "jd": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale. Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term. About the role: Samsara is looking for a Staff Mobile Engineer to join our Mobile Platform team . This team builds the foundational frameworks and architectures that enable over 20 engineering teams to efficiently develop our Driver and Fleet applications, which serve millions of daily users. You will be instrumental in building the scalable mobile platform infrastructure that supports our high-availability applications, directly influencing the development velocity and technical capabilities of our entire mobile engineering organization. This is a remote position open to candidates residing in the US and Canada You should apply if: You want to impact the industries that run our world : The software, firmware, and hardware you build will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely. You want to build for scale : With over 2.3 million IoT devices deployed to our global customers, you will work on a range of new and mature technologies driving scalable innovation for customers across industries driving the world's physical operations. You are a life-long learner : We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go. You believe customers are more than a number : Samsara engineers enjoy a rare closeness to the end user and you will",
           "ats": "greenhouse",
           "posted_at": "2026-06-04T11:27:07-04:00",
-          "match": 31
+          "match": 30,
+          "match_reasons": {
+            "note": "JD too sparse; generic fallback."
+          }
         }
       ],
       "perm_count": 120,
@@ -618,7 +1072,23 @@
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart\u2019s Growth Lifecycle Incentives team builds coupon experiences, one of the company\u2019s core revenue drivers. We own the end-to-end experience for coupon storing, serving, ranking, and merchandising in app, web and CRM, partnering closely with Product, Data Science and Machine Learning Engineers, Retailer Managers to deliver features that make the coupon more valuable and accessible.&nbsp; We\u2019re looking for a Senior Android Engineer to design and deliver fast, reliable, and delightful Android experiences that directly impact how users interact with coupons every day. You\u2019ll own high-visibility features end to end, collaborate closely with backend, iOS, design, product, data, and retailer partners, and help raise the bar for code quality, performance, and user experience across our Android surfaces. You\u2019ll join a team of 18 engineers operating in a fast-paced environment. If you thrive on tackling complex problems, balancing new feature work with retailer-driven requests and technical debt, and rolling up your sleeves to deliver impact, this role is for you. About the Job Design, build, and maintain Android features using Kotlin, Jetpack Compose, modern Android components and composable declarative state management architecture. Implement pixel-perfect UIs that faithfully match designs and scale across devices, with a focus on accessibility a",
           "ats": "greenhouse",
           "posted_at": "2026-05-18T18:41:18-04:00",
-          "match": 95
+          "match": 94,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "scale",
+              "performance"
+            ],
+            "missing": [
+              "lifecycle"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 17.0 / 18.0 = 94%"
+          }
         }
       ],
       "perm_count": 170,
@@ -638,7 +1108,10 @@
           "jd": "Employee Applicant Privacy Notice Who we are: Shape a brighter financial future with us. Together with our members, we\u2019re changing the way people think about and interact with personal finance. We\u2019re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we\u2019re at the forefront. We\u2019re proud to come to work every day knowing that what we do has a direct impact on people\u2019s lives, with our core values guiding us every step of the way. Join us to invest in yourself, your career, and the financial world. The Role We are seeking a Senior Frontend Mobile Engineer to join our team. SoFi Invest is SoFi\u2019s new investment platform that includes our market-leading robo-advisor, and online brokerage (stock, ETF, and mutual funds trading) products. On our team, you will be in the middle of it all \u2013 implementing functionality, architecting our system, squashing bugs, maintaining the health of our code, and continually growing as an engineer. The ideal candidate is both forward-thinking and hands-on, has a strong sense of ownership and drive for delivery, and is a good mentor and co-worker. At SoFi, we pride ourselves on the collaboration between Product, Design and Engineering and so you will be involved in the entire product lifecycle, from ideation through building, deploying and continual improvement and evolution. At SoFi, you\u2019ll become part of a new kind of finance company whose ambition is to help our members achieve financial independence and reach their goals. We aim to be at the center of our members\u2019 financial lives, and to help every member get their money right. We created student loan refinancing, addressing the biggest financial challenge of a new generation through a modern approach to lending and personal finance. Next we are redefining how members grow their wealth through algorithmic trading and AI. You will build the interfaces that millions of our members use to build and invest in automated trading strategies \u2014 bringing \"quant-grade\" tools to the everyday investor. SoFi has achieved significant growth, with ambitious plans ahead, but to continue this growth we need great talent. And that starts with you. Key Responsibilities Produce well-designed, scalable, and reusable code on schedule Independently design and build large features, breaking work into subtasks where necessary Maintain a ",
           "ats": "greenhouse",
           "posted_at": "2026-06-01T16:00:43-04:00",
-          "match": 31
+          "match": 30,
+          "match_reasons": {
+            "note": "JD too sparse; generic fallback."
+          }
         }
       ],
       "perm_count": 150,
@@ -658,7 +1131,24 @@
           "jd": "We\u2019re in an unbelievably exciting area of tech and are fundamentally reshaping the data storage industry. Here, you lead with innovative thinking, grow along with us, and join the smartest team in the industry. This type of work\u2014work that changes the world\u2014is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us. THE ROLE This role is for an individual contributor joining one of our five Pure Protect engineering teams within the Digital Experience (DX) organization. The product has been running for ~3 years and operates like a startup within DX. The teams are primarily composed of senior-level engineers who take full ownership of their workstreams \u2014 from early requirements definition (in close collaboration with Product Managers) to final delivery. Strong communication and collaboration skills are essential, as engineers work autonomously in a highly cross-functional environment. WHAT YOU'LL DO Own the end-to-end design, development, and operation of mission-critical processing services , ensuring seamless, secure, and compliant data flow between edge devices and the Pure1 cloud platform. Partner with Product and Architecture teams to translate complex requirements into scalable, resilient architectural designs that drive significant organizational impact from initial concept through to production deployment. Drive continuous innovation by experimenting with new technologies, platform ecosystems, and architectural patterns to improve system performance, security, and cost-effectiveness for petabytes of real-time data. Maintain a quality-first mindset throughout the entire software development lifecycle, emphasizing comprehensive unit testing, thorough code reviews, and robust Continuous Integration/Continuous Deployment (CI/CD) pipelines. Lead the resolution of complex inter-operability issues between new and existing system components, ensuring the platform remains highly available and universally accessible for customers across the globe. WHAT YOU BRING Demonstrated experience in architecting, implementing, and testing various product components within large-scale, complex distributed systems. Proficiency in a modern backend programming language (Java, Kotlin) , with a proven ability to write secure, high-performance, and maintainable code. Understanding of distributed systems principles, networking infrastructure, and Linux operating environments. Hands-on experience with major cl",
           "ats": "greenhouse",
           "posted_at": "2026-05-28T09:42:46-04:00",
-          "match": 85
+          "match": 85,
+          "match_reasons": {
+            "matched": [
+              "kotlin",
+              "flow",
+              "java",
+              "ci/cd",
+              "scale",
+              "performance"
+            ],
+            "missing": [
+              "lifecycle",
+              "unit testing"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 11.5 / 13.5 = 85%"
+          }
         }
       ],
       "perm_count": 90,
@@ -678,7 +1168,18 @@
           "jd": "&nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. &nbsp; All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . &nbsp; AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process. About the Team The Identity Engineering team is responsible for safeguarding customer accounts by enabling secure login and authentication. We operate under the principle of \"Frictionless Security\", ensuring that all Gusto users have seamless yet secure access to their designated entities. At our core, Login and Authentication are our products, but Secured Login and Authentication is our business. Our focus is not just on enabling access but on delivering a security-first experience that protects every customer interaction. About the Role We're looking for a talented and motivated Mobile Engineer with 8+ years of experience to join our Identity Engineering team. In this role, you'll play a key part in developing seamless and secure login and authentication experiences that protect our customers' most sensitive data. You'll build and scale secure, frictionless authentication solutions, own and enhance shared services that power Identity across Gusto's platform, and stay ahead of best practices, tooling, and advancements in Identity security. Collaboration is key\u2014you'll work closely with teams across Payroll, Benefits, HR, Security, System Design, and Infrastructure to deliver scalable, high-impact solutions. If you're passionate about building elegant, scalable solutions and strengthening a high-performing mobile team, we'd love to have you on board! &nbsp; Here's what you'll do day-to-day: Architect, build, test, and refine Gusto's native Android app and supporting mobile web-views Build, iterate, and refine experiences that allow users",
           "ats": "greenhouse",
           "posted_at": "2026-05-19T16:45:22-04:00",
-          "match": 100
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.5 / 5.5 = 100%"
+          }
         }
       ],
       "perm_count": 80,
