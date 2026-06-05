@@ -20,6 +20,42 @@ NEG = re.compile(r"\b(manager|director|designer|recruiter|intern)\b", re.I)
 
 UA = {"User-Agent": "job-radar/1.0 (+github actions)"}
 
+_US_STATES = re.compile(
+    r"\b(CA|NY|WA|TX|MA|IL|CO|GA|FL|OR|VA|NC|NJ|PA|OH|MI|AZ|MN|WI|MO|IN|TN|MD|"
+    r"CT|NV|UT|KS|AR|MS|NM|NE|ID|HI|ME|MT|RI|DE|SD|ND|AK|VT|WY|WV|DC)\b"
+)
+_CA_PROVINCES = re.compile(r"\b(ON|BC|QC|AB|MB|SK|NS|NB|NL|PE)\b")
+_US_CITIES = re.compile(
+    r"\b(San Francisco|New York|Seattle|Austin|Boston|Chicago|Denver|Atlanta|"
+    r"Los Angeles|Portland|San Jose|San Diego|Dallas|Houston|Phoenix|"
+    r"Minneapolis|Detroit|Pittsburgh|Philadelphia|Miami|Nashville|Raleigh|"
+    r"Washington|Remote)\b",
+    re.I,
+)
+_US_COUNTRY = re.compile(r"\b(United States|USA|U\.S\.A|U\.S\.|US)\b", re.I)
+_CANADA = re.compile(r"\bCanada\b", re.I)
+_EXCLUDE = re.compile(
+    r"\b(India|UK|Britain|Germany|France|Spain|Brazil|Mexico|Japan|China|"
+    r"Singapore|Australia|Israel|Ireland|Netherlands|Poland|Argentina|Colombia|"
+    r"EMEA|APAC|Europe|Asia|Africa|Latin America|South America)\b",
+    re.I,
+)
+
+
+def _is_us_or_canada(location: str) -> bool:
+    if not location or not location.strip():
+        return True
+    if _EXCLUDE.search(location):
+        return False
+    if _US_COUNTRY.search(location) or _US_STATES.search(location) or _US_CITIES.search(location):
+        return True
+    if _CANADA.search(location) or _CA_PROVINCES.search(location):
+        return True
+    loc = location.strip().lower()
+    if loc == "remote":
+        return True
+    return True  # permissive for ambiguous
+
 
 def _strip_html(s: str) -> str:
     s = html.unescape(s or "")
@@ -127,6 +163,7 @@ def fetch():
         futs = [pool.submit(FETCHERS[ats], slug, name) for ats, slug, name in targets]
         for fut in cf.as_completed(futs):
             jobs.extend(fut.result())
+    jobs = [j for j in jobs if _is_us_or_canada(j.get("location", ""))]
     return jobs
 
 
