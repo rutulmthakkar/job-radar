@@ -1,4 +1,4 @@
-﻿"""Merge layoffs + sponsors + day-one + jobs into site/companies.json."""
+"""Merge layoffs + sponsors + day-one + jobs into site/companies.json."""
 from __future__ import annotations
 import json, pathlib, datetime as dt
 from fetchers import layoffs, perm_sponsors, jobs, day_one_perm

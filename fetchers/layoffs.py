@@ -1,4 +1,4 @@
-﻿"""Fetch recent layoffs. Fails soft if source is unreachable."""
+"""Fetch recent layoffs. Fails soft if source is unreachable."""
 from __future__ import annotations
 import csv, io, datetime as dt, requests
 

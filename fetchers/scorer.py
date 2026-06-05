@@ -1,4 +1,4 @@
-﻿"""Score each role 0-100 against resume.md using keyword overlap + IDF."""
+"""Score each role 0-100 against resume.md using keyword overlap + IDF."""
 from __future__ import annotations
 import re, math, pathlib, collections
 

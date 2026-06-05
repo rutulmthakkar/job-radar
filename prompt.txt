@@ -1,0 +1,107 @@
+You are working on a job-radar dashboard deployed to GitHub Pages at
+https://rutulmthakkar.github.io/job-radar/. The pipeline is `build.py`
+calling modules in `fetchers/`. Two GitHub Actions workflows run it:
+`daily-build` and `weekly-discovery`. There are four things wrong. Fix
+each one in order, committing per fix, then trigger a rebuild and
+verify it goes green.
+
+---
+
+## Fix 1: Strip UTF-8 BOMs
+
+Multiple files were written by PowerShell `Set-Content -Encoding UTF8`,
+which prepends a BOM. This is breaking CSV parsing (`KeyError: 'company'`).
+Strip BOMs from every `.py`, `.csv`, `.md`, `.json`, `.html`, and `.yml`
+file in the repo. Verify by checking the first bytes of `build.py` and
+`data/perm_sponsors.csv` — they should not start with `0xEF 0xBB 0xBF`.
+
+---
+
+## Fix 2: Filter jobs to US + Canada only
+
+In `fetchers/jobs.py`, after each ATS fetcher (`_greenhouse`, `_lever`,
+`_ashby`) returns its job list, filter out any role whose `location`
+field doesn't look US- or Canada-based.
+
+Build a small helper `_is_us_or_canada(location: str) -> bool`:
+
+- Return True if the string contains a US state code (CA, NY, WA, TX, MA,
+  IL, CO, GA, FL, OR, VA, NC, NJ, PA, OH, MI, AZ, MN, WI, MO, IN, TN, MD,
+  CT, NV, UT, KS, AR, MS, NM, NE, ID, HI, ME, MT, RI, DE, SD, ND, AK, VT,
+  WY, WV, DC) or US city names (San Francisco, New York, Seattle, Austin,
+  Boston, Chicago, Denver, Atlanta, Los Angeles, Portland, etc.), or any
+  variant of "United States", "USA", "US".
+- Return True if it contains "Canada" or a Canadian province code (ON,
+  BC, QC, AB, MB, SK, NS, NB, NL, PE).
+- Return True for "Remote" alone, but False for "Remote, India" or
+  "Remote - EMEA" or anything that names a non-US/non-CA country.
+- Return False if the string explicitly names a non-US/CA country
+  (India, UK, Britain, Germany, France, Spain, Brazil, Mexico, Japan,
+  China, Singapore, Australia, Israel, Ireland, Netherlands, Poland,
+  Argentina, Colombia, etc.).
+- When empty/ambiguous, return True (be permissive).
+
+Apply the filter in `fetch()` before returning.
+
+---
+
+## Fix 3: Restore layoffs data
+
+`fetchers/layoffs.py` 404s because the layoffs.fyi Google Sheet ID rotated.
+Investigate options in this order; use whichever you can verify works:
+
+1. Visit https://layoffs.fyi and inspect page source for the current
+   sheet ID — update `SHEET_CSV`.
+2. If no usable sheet, fall back to scraping the layoffs.fyi HTML table
+   directly (it's a Next.js site; the data may be in a `__NEXT_DATA__`
+   script tag).
+3. As a backup, fetch California WARN data from
+   https://edd.ca.gov/en/jobs_and_training/layoff_services_warn (look
+   for a downloadable CSV or XLSX).
+
+Keep the 90-day filter. Keep it fail-soft. Document which source you
+chose in a comment at the top of `layoffs.py`. If nothing works
+cleanly, leave the fail-soft behavior and tell me exactly what failed.
+
+---
+
+## Fix 4: Add Google careers adapter
+
+Google doesn't use Greenhouse/Lever/Ashby. Investigate
+`https://www.google.com/about/careers/applications/jobs/results/` and
+similar endpoints. The page makes XHR calls to a JSON endpoint with
+parameters like `q`, `location`, `page`. Find the actual endpoint by
+inspecting network traffic patterns or trying known variants.
+
+Add a `_google()` fetcher in `fetchers/jobs.py` that:
+- Hits the endpoint with `q=android` and `location=United States`
+- Parses JSON, extracts title/location/URL/description for each role
+- Applies the same `KEYWORDS` / `NEG` regex filter the other adapters use
+- Applies the new `_is_us_or_canada` filter
+- Returns the same job dict shape (`company`, `company_slug`, `ats`,
+  `title`, `location`, `url`, `jd`, `updated`)
+
+Hardcode `company = "Google"`, `ats = "google"`. Add Google as a permanent
+entry in `_load_targets()` so it always runs.
+
+If you can't get the endpoint working reliably (rate limits, 403s, schema
+unclear): DON'T ship broken code. Document what you tried, leave the fix
+as a stub, and surface Google via a manual entry instead (add a
+`careers_links` map for big employers without ATS support, render them in
+the dashboard with a "Search Google careers" link).
+
+---
+
+## After each fix
+
+1. `git add -A && git commit -m "fix: <one-line summary>"`
+2. After fix 1, push and run `gh workflow run daily-build` to confirm
+   the build no longer crashes on the BOM.
+3. After fixes 2, 3, 4: push, run `gh workflow run weekly-discovery` if
+   targets changed, then `gh workflow run daily-build`, then
+   `gh run watch`.
+4. If a run fails, `gh run view --log-failed`, fix, push, re-run.
+
+When all four are done, give me a summary: company count, role count,
+sample of US/Canada roles, layoff source you ended up using, and whether
+Google scraping worked or fell back to manual.
