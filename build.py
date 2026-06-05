@@ -56,6 +56,8 @@ def main():
                 "layoffs": [ev], "avoid": True,
             }
 
+    from fetchers.scorer import score_jobs
+    score_jobs(list(by_co.values()))
     companies = sorted(
         by_co.values(),
         key=lambda r: (not r["day_one"], -len(r["jobs"]), -r["perm_count"]),

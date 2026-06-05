@@ -85,6 +85,7 @@
   </select>
   <select id="loc"><option value="">Any location</option></select>
   <select id="sort">
+    <option value="match">Sort: best match for me</option>
     <option value="default">Sort: day-one → roles → PERM</option>
     <option value="jobs">Sort: most open roles</option>
     <option value="perm">Sort: most PERM filings</option>
@@ -182,6 +183,11 @@ function render(){
   });
 
   rows.sort((a,b)=>{
+    if(sort==="match"){
+      const bestA = Math.max(0, ...a.jobs.map(j=>j.match||0));
+      const bestB = Math.max(0, ...b.jobs.map(j=>j.match||0));
+      return bestB - bestA;
+    }
     if(sort==="name") return a.company.localeCompare(b.company);
     if(sort==="perm") return b.perm_count - a.perm_count;
     if(sort==="jobs") return b.jobs.length - a.jobs.length;
@@ -209,6 +215,7 @@ function render(){
         ${c.jobs.length? `<details><summary>View roles</summary>
             <ul class="jobs">${c.jobs.slice(0,25).map((j,i)=>
               `<li><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+       <span class="pill ${j.match>=70?'good':j.match>=40?'warn':''}" style="margin-left:6px">${j.match||0}% match</span>
                    <div>${esc(j.location||"—")} · ${esc(j.ats||"")}</div>
                    <button class="draft-btn" data-co="${esc(c.company)}" data-i="${i}">📋 Draft application</button>
               </li>`).join("")}</ul></details>`
