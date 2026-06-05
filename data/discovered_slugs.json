@@ -89,6 +89,126 @@
       "company": "Asana Inc",
       "ats": "greenhouse",
       "slug": "asana"
+    },
+    {
+      "company": "Twilio Inc",
+      "ats": "greenhouse",
+      "slug": "twilio"
+    },
+    {
+      "company": "Cloudflare Inc",
+      "ats": "greenhouse",
+      "slug": "cloudflare"
+    },
+    {
+      "company": "MongoDB Inc",
+      "ats": "greenhouse",
+      "slug": "mongodb"
+    },
+    {
+      "company": "Confluent Inc",
+      "ats": "ashby",
+      "slug": "confluent"
+    },
+    {
+      "company": "Datadog Inc",
+      "ats": "greenhouse",
+      "slug": "datadog"
+    },
+    {
+      "company": "Pure Storage",
+      "ats": "greenhouse",
+      "slug": "purestorage"
+    },
+    {
+      "company": "Applied Materials",
+      "ats": "ashby",
+      "slug": "applied"
+    },
+    {
+      "company": "Roblox Corporation",
+      "ats": "greenhouse",
+      "slug": "roblox"
+    },
+    {
+      "company": "Spotify USA Inc",
+      "ats": "lever",
+      "slug": "spotify"
+    },
+    {
+      "company": "Disney Streaming",
+      "ats": "greenhouse",
+      "slug": "disney"
+    },
+    {
+      "company": "Carvana",
+      "ats": "greenhouse",
+      "slug": "carvana"
+    },
+    {
+      "company": "Affirm Inc",
+      "ats": "greenhouse",
+      "slug": "affirm"
+    },
+    {
+      "company": "Chime",
+      "ats": "greenhouse",
+      "slug": "chime"
+    },
+    {
+      "company": "SoFi Technologies",
+      "ats": "greenhouse",
+      "slug": "sofi"
+    },
+    {
+      "company": "Brex Inc",
+      "ats": "greenhouse",
+      "slug": "brex"
+    },
+    {
+      "company": "Ramp Business",
+      "ats": "ashby",
+      "slug": "ramp"
+    },
+    {
+      "company": "Gusto Inc",
+      "ats": "greenhouse",
+      "slug": "gusto"
+    },
+    {
+      "company": "Samsara Inc",
+      "ats": "greenhouse",
+      "slug": "samsara"
+    },
+    {
+      "company": "Palantir Technologies",
+      "ats": "lever",
+      "slug": "palantir"
+    },
+    {
+      "company": "SpaceX",
+      "ats": "greenhouse",
+      "slug": "spacex"
+    },
+    {
+      "company": "Anthropic",
+      "ats": "greenhouse",
+      "slug": "anthropic"
+    },
+    {
+      "company": "OpenAI",
+      "ats": "ashby",
+      "slug": "openai"
+    },
+    {
+      "company": "Scale AI",
+      "ats": "greenhouse",
+      "slug": "scaleai"
+    },
+    {
+      "company": "Mistral AI",
+      "ats": "lever",
+      "slug": "mistral"
     }
   ]
 }
