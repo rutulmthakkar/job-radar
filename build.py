@@ -1,8 +1,9 @@
-"""Merge layoffs + sponsors + day-one + jobs into site/companies.json."""
+﻿"""Merge layoffs + sponsors + day-one + jobs into site/companies.json."""
 from __future__ import annotations
 import json, pathlib, datetime as dt
 from fetchers import layoffs, perm_sponsors, jobs, day_one_perm
 from fetchers.perm_sponsors import normalize
+from fetchers.scorer import score_jobs
 
 ROOT = pathlib.Path(__file__).parent
 OUT  = ROOT / "site" / "companies.json"
@@ -20,6 +21,26 @@ def main():
     jb = jobs.fetch();             print(f"  {len(jb)} Android roles")
 
     by_co = {}
+
+    # Seed with every PERM sponsor and every day-one filer so they always appear
+    for key, info in sp.items():
+        by_co[key] = {
+            "company": info["company"], "jobs": [],
+            "perm_count": info["perm_count"], "fy": info["fy"],
+            "day_one": key in d1,
+            "day_one_notes": d1.get(key, {}).get("notes", ""),
+            "layoffs": [], "avoid": False,
+        }
+    for key, info in d1.items():
+        if key not in by_co:
+            by_co[key] = {
+                "company": info.get("notes", "").split(";")[0] or key.title(),
+                "jobs": [], "perm_count": 0, "fy": "",
+                "day_one": True, "day_one_notes": info["notes"],
+                "layoffs": [], "avoid": False,
+            }
+
+    # Attach scraped Android jobs
     for j in jb:
         key = normalize(j["company"])
         rec = by_co.setdefault(key, {
@@ -33,31 +54,21 @@ def main():
             "url": j["url"], "jd": j.get("jd", ""), "ats": j.get("ats",""),
         })
 
-    for key, rec in by_co.items():
-        if key in sp:
-            rec["perm_count"] = sp[key]["perm_count"]
-            rec["fy"] = sp[key]["fy"]
-        if key in d1:
-            rec["day_one"] = True
-            rec["day_one_notes"] = d1[key]["notes"]
-
+    # Apply layoffs
     for ev in lo:
         key = normalize(ev["company"])
-        if key in by_co:
-            by_co[key]["layoffs"].append(ev)
-            by_co[key]["avoid"] = True
-        else:
-            by_co[key] = {
-                "company": ev["company"], "jobs": [],
-                "perm_count": sp.get(key, {}).get("perm_count", 0),
-                "fy": sp.get(key, {}).get("fy", ""),
-                "day_one": key in d1,
-                "day_one_notes": d1.get(key, {}).get("notes", ""),
-                "layoffs": [ev], "avoid": True,
-            }
+        rec = by_co.setdefault(key, {
+            "company": ev["company"], "jobs": [],
+            "perm_count": 0, "fy": "",
+            "day_one": key in d1,
+            "day_one_notes": d1.get(key, {}).get("notes", ""),
+            "layoffs": [], "avoid": False,
+        })
+        rec["layoffs"].append(ev)
+        rec["avoid"] = True
 
-    from fetchers.scorer import score_jobs
     score_jobs(list(by_co.values()))
+
     companies = sorted(
         by_co.values(),
         key=lambda r: (not r["day_one"], -len(r["jobs"]), -r["perm_count"]),
@@ -67,11 +78,11 @@ def main():
         "generated_at": dt.datetime.utcnow().isoformat() + "Z",
         "has_resume": RESUME.exists() and len(RESUME.read_text().strip()) > 50,
         "stats": {
-            "companies": len(companies),
-            "hiring":    sum(1 for c in companies if c["jobs"] and not c["avoid"]),
-            "sponsors":  sum(1 for c in companies if c["perm_count"] > 0),
-            "day_one":   sum(1 for c in companies if c["day_one"]),
-            "avoid":     sum(1 for c in companies if c["avoid"]),
+            "companies":  len(companies),
+            "hiring":     sum(1 for c in companies if c["jobs"] and not c["avoid"]),
+            "sponsors":   sum(1 for c in companies if c["perm_count"] > 0),
+            "day_one":    sum(1 for c in companies if c["day_one"]),
+            "avoid":      sum(1 for c in companies if c["avoid"]),
             "open_roles": sum(len(c["jobs"]) for c in companies),
         },
         "companies": companies,

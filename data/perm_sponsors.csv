@@ -1,4 +1,4 @@
-company,perm_count,fy
+﻿company,perm_count,fy
 Google LLC,7200,2024
 Amazon.com Services LLC,5800,2024
 Meta Platforms Inc,3400,2024
@@ -30,6 +30,23 @@ Snowflake Inc,400,2024
 ServiceNow Inc,390,2024
 Block Inc,370,2024
 PayPal Inc,360,2024
+JPMorgan Chase,800,2024
+Goldman Sachs,500,2024
+Morgan Stanley,400,2024
+Citigroup,450,2024
+Bank of America,350,2024
+Wells Fargo,300,2024
+Deloitte Consulting,1800,2024
+Accenture,2100,2024
+Infosys Limited,2400,2024
+Tata Consultancy Services,2200,2024
+Wipro Limited,1100,2024
+Cognizant Technology,1600,2024
+HCL America,900,2024
+EY,1200,2024
+PwC,1100,2024
+KPMG,900,2024
+McKinsey & Company,400,2024
 Reddit Inc,200,2024
 Robinhood Markets Inc,190,2024
 Figma Inc,180,2024
@@ -39,3 +56,63 @@ Discord Inc,140,2024
 Notion Labs Inc,120,2024
 Dropbox Inc,110,2024
 Asana Inc,100,2024
+GitHub Inc,140,2024
+Atlassian,180,2024
+Twilio Inc,160,2024
+Cloudflare Inc,200,2024
+MongoDB Inc,170,2024
+Confluent Inc,130,2024
+HashiCorp Inc,110,2024
+Datadog Inc,150,2024
+Splunk Inc,140,2024
+Workday Inc,220,2024
+Intuit Inc,260,2024
+Autodesk Inc,200,2024
+VMware Inc,400,2024
+Dell Technologies,500,2024
+Hewlett Packard Enterprise,400,2024
+NetApp Inc,180,2024
+Pure Storage,90,2024
+Western Digital,150,2024
+Micron Technology,300,2024
+Applied Materials,400,2024
+Texas Instruments,350,2024
+Broadcom Inc,300,2024
+AMD Inc,320,2024
+Marvell Technology,180,2024
+Synopsys Inc,250,2024
+Cadence Design Systems,220,2024
+Roblox Corporation,160,2024
+Unity Technologies,140,2024
+Electronic Arts,180,2024
+Activision Blizzard,150,2024
+Niantic Inc,80,2024
+Spotify USA Inc,170,2024
+Netflix Inc,250,2024
+Disney Streaming,200,2024
+Warner Bros Discovery,150,2024
+Paramount Global,120,2024
+Wayfair LLC,180,2024
+eBay Inc,200,2024
+Etsy Inc,90,2024
+Chewy Inc,100,2024
+Carvana,80,2024
+Zillow Group,150,2024
+Opendoor Technologies,70,2024
+Affirm Inc,130,2024
+Chime,100,2024
+SoFi Technologies,150,2024
+Brex Inc,90,2024
+Ramp Business,80,2024
+Rippling People Center,110,2024
+Gusto Inc,80,2024
+ServiceTitan,90,2024
+Samsara Inc,120,2024
+Palantir Technologies,250,2024
+Anduril Industries,80,2024
+SpaceX,180,2024
+Anthropic,90,2024
+OpenAI,150,2024
+Scale AI,80,2024
+Mistral AI,30,2024
+Hugging Face,40,2024
