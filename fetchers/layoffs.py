@@ -1,20 +1,23 @@
-"""Fetch recent layoffs from layoffs.fyi public Google Sheet."""
+﻿"""Fetch recent layoffs. Fails soft if source is unreachable."""
 from __future__ import annotations
 import csv, io, datetime as dt, requests
 
-# layoffs.fyi publishes a public Google Sheet. The CSV export URL is stable.
-# If it breaks, replace with the current sheet ID from layoffs.fyi.
+# layoffs.fyi sheet IDs rotate occasionally. If this 404s, find the current
+# ID by viewing source on https://layoffs.fyi and update SHEET_CSV.
 SHEET_CSV = (
     "https://docs.google.com/spreadsheets/d/"
     "1Bnu1ndKMU0FX-tlKKLztpYffuwApiOLKQt48BalkkVo/export?format=csv&gid=137811653"
 )
-
-CUTOFF_DAYS = 90  # avoid-list window
+CUTOFF_DAYS = 90
 
 
 def fetch() -> list[dict]:
-    r = requests.get(SHEET_CSV, timeout=30)
-    r.raise_for_status()
+    try:
+        r = requests.get(SHEET_CSV, timeout=30)
+        r.raise_for_status()
+    except Exception as e:
+        print(f"  ⚠ layoffs source unavailable ({e}); continuing with empty list")
+        return []
     reader = csv.DictReader(io.StringIO(r.text))
     cutoff = dt.date.today() - dt.timedelta(days=CUTOFF_DAYS)
     out = []
@@ -38,8 +41,3 @@ def fetch() -> list[dict]:
             "source": "layoffs.fyi",
         })
     return out
-
-
-if __name__ == "__main__":
-    import json
-    print(json.dumps(fetch()[:5], indent=2))
