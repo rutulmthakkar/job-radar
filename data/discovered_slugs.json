@@ -31,6 +31,11 @@
       "slug": "lyft"
     },
     {
+      "company": "Coinbase Inc",
+      "ats": "greenhouse",
+      "slug": "coinbase"
+    },
+    {
       "company": "Databricks Inc",
       "ats": "greenhouse",
       "slug": "databricks"
@@ -141,11 +146,6 @@
       "slug": "disney"
     },
     {
-      "company": "Carvana",
-      "ats": "greenhouse",
-      "slug": "carvana"
-    },
-    {
       "company": "Affirm Inc",
       "ats": "greenhouse",
       "slug": "affirm"
@@ -184,6 +184,11 @@
       "company": "Palantir Technologies",
       "ats": "lever",
       "slug": "palantir"
+    },
+    {
+      "company": "Anduril Industries",
+      "ats": "greenhouse",
+      "slug": "andurilindustries"
     },
     {
       "company": "SpaceX",
