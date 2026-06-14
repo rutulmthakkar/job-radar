@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T15:00:58.013894Z",
+  "generated_at": "2026-06-14T15:07:33.566436Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -17,30 +17,6 @@
           "title": "Staff Android Engineer, Brand Ad Formats",
           "location": "Chicago, IL",
           "url": "https://job-boards.greenhouse.io/reddit/jobs/7847270",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
-          "ats": "greenhouse",
-          "posted_at": "2026-05-14T13:35:08-04:00",
-          "match": 72,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 6.5 / 9.0 = 72%"
-          }
-        },
-        {
-          "title": "Staff Android Engineer, Brand Ad Formats",
-          "location": "Remote - United States",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7847266",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:08-04:00",
@@ -86,36 +62,33 @@
           }
         },
         {
-          "title": "Staff Android Engineer (Clients Platform)",
-          "location": "Chicago, IL",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7833379",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
+          "title": "Staff Android Engineer, Brand Ad Formats",
+          "location": "Remote - United States",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/7847266",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-05-14T13:35:07-04:00",
-          "match": 95,
+          "posted_at": "2026-05-14T13:35:08-04:00",
+          "match": 72,
           "match_reasons": {
             "matched": [
               "android",
-              "kotlin",
-              "jetpack compose",
-              "compose",
-              "coroutines",
               "scale",
               "performance",
               "ai"
             ],
             "missing": [
-              "code review"
+              "lifecycle",
+              "millions of users"
             ],
             "penalties": [],
             "bonuses": [],
-            "calc": "Skill match: 20.5 / 21.5 = 95%"
+            "calc": "Skill match: 6.5 / 9.0 = 72%"
           }
         },
         {
           "title": "Staff Android Engineer (Clients Platform)",
-          "location": "San Francisco, CA",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7833378",
+          "location": "New York City, NY",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/7833380",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:07-04:00",
@@ -168,8 +141,35 @@
         },
         {
           "title": "Staff Android Engineer (Clients Platform)",
-          "location": "New York City, NY",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7833380",
+          "location": "San Francisco, CA",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/7833378",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
+          "ats": "greenhouse",
+          "posted_at": "2026-05-14T13:35:07-04:00",
+          "match": 95,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "coroutines",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "code review"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 20.5 / 21.5 = 95%"
+          }
+        },
+        {
+          "title": "Staff Android Engineer (Clients Platform)",
+          "location": "Chicago, IL",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/7833379",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:07-04:00",
