@@ -146,6 +146,11 @@
       "slug": "disney"
     },
     {
+      "company": "Carvana",
+      "ats": "greenhouse",
+      "slug": "carvana"
+    },
+    {
       "company": "Affirm Inc",
       "ats": "greenhouse",
       "slug": "affirm"
