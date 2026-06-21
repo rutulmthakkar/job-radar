@@ -56,7 +56,7 @@ def probe(name: str) -> dict | None:
 def discover() -> dict:
     names: list[str] = []
     if SPONSORS.exists():
-        with SPONSORS.open() as f:
+        with SPONSORS.open(encoding="utf-8-sig") as f:
             names += [row["company"] for row in csv.DictReader(f)]
     if MANUAL.exists():
         m = json.loads(MANUAL.read_text())
