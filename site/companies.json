@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T16:38:38.881790Z",
+  "generated_at": "2026-06-30T15:28:21.258615Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 44
+    "open_roles": 43
   },
   "companies": [
     {
@@ -17,30 +17,6 @@
           "title": "Staff Android Engineer, Brand Ad Formats",
           "location": "New York City, NY",
           "url": "https://job-boards.greenhouse.io/reddit/jobs/7847274",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
-          "ats": "greenhouse",
-          "posted_at": "2026-05-14T13:35:08-04:00",
-          "match": 72,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 6.5 / 9.0 = 72%"
-          }
-        },
-        {
-          "title": "Staff Android Engineer, Brand Ad Formats",
-          "location": "Chicago, IL",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7847270",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:08-04:00",
@@ -86,30 +62,27 @@
           }
         },
         {
-          "title": "Staff Android Engineer (Clients Platform)",
-          "location": "New York City, NY",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7833380",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
+          "title": "Staff Android Engineer, Brand Ad Formats",
+          "location": "Chicago, IL",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/7847270",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-05-14T13:35:07-04:00",
-          "match": 95,
+          "posted_at": "2026-05-14T13:35:08-04:00",
+          "match": 72,
           "match_reasons": {
             "matched": [
               "android",
-              "kotlin",
-              "jetpack compose",
-              "compose",
-              "coroutines",
               "scale",
               "performance",
               "ai"
             ],
             "missing": [
-              "code review"
+              "lifecycle",
+              "millions of users"
             ],
             "penalties": [],
             "bonuses": [],
-            "calc": "Skill match: 20.5 / 21.5 = 95%"
+            "calc": "Skill match: 6.5 / 9.0 = 72%"
           }
         },
         {
@@ -143,6 +116,33 @@
           "title": "Staff Android Engineer (Clients Platform)",
           "location": "Chicago, IL",
           "url": "https://job-boards.greenhouse.io/reddit/jobs/7833379",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
+          "ats": "greenhouse",
+          "posted_at": "2026-05-14T13:35:07-04:00",
+          "match": 95,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "coroutines",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "code review"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 20.5 / 21.5 = 95%"
+          }
+        },
+        {
+          "title": "Staff Android Engineer (Clients Platform)",
+          "location": "New York City, NY",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/7833380",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The&nbsp; Android Platform team sets the technical direction for Android at Reddit. We design, build, and support the Android app and its development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer , you will be a technical leader for the Android organization, focusing on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experience, and App Architecture. What you\u2019ll do: \u2022 Own and shape the architecture of Reddit\u2019s Android App to scale for the next 100M+ DAUs. \u2022 Improve Android developer experience by designing tools, workflows, and CI integrations that make it fast and safe to develop and release code. \u2022 Define and operationalize guardrails (lint/static analysis, tests, and AI-assisted reviews) that catch common issues early. \u2022 Build and evolve Android client health and observability foundations (events, traces, dashboards) so teams can improve user experiences. \u2022 Apply AI thoughtfully to engineering workflows (e.g., code review, static analysis) for improved productivity. \u2022 Mentor and Support Android engineers through design reviews, documentation, and education on platform capabilities. What we expect from you: \u2022 8+ years of Software development experience with at least 4+ years in designing/developing Android applications. \u2022 Experience working in a large codebase serving 100+ engineers and millions of DAUs. \u2022 Mastery of modern Android development (Jetpack Compose, Kotlin Coroutines). \u2022 Strong background in Android platform/infrastructure : shared libraries, startup/session orchestration, or core networking/caching. \u2022 Practical experience applying AI to engineering workflows with clear, measurable benefit. \u2022 Proven ability to lead cross-functional initiatives and influence technical direction across multiple teams. Benefits: Comprehensive Healthcare Benefits and Income Replacement Programs 401k with Employer Match Global Benefit programs that fit your lifestyle, from workspace to pr",
           "ats": "greenhouse",
           "posted_at": "2026-05-14T13:35:07-04:00",
@@ -711,27 +711,6 @@
       "jobs": [
         {
           "title": "Android Engineer",
-          "location": "New York, NY",
-          "url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758",
-          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role Our group is building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers &amp; sharp problem-solvers. Individuals who are wired to make an impact. Robinhood is where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. We\u2019re excited to invite talented and motivated Android Engineers to join our award-winning team to help expand Robinhood\u2019s mobile experience for our customers. The Futures Engineering team builds and operates the end-to-end futures trading platform at Robinhood. They own the systems that allow customers to trade futures products safely, reliably, and at scale\u2014from market connectivity and order execution to risk controls, margining, and real-time customer experience.&nbsp;This is a mission-critical, highly regulated engineering space where correctness, performance, and trust matter as much as speed. As an Android Engineer on the Futures Engineering team , you\u2019ll build customer-facing mobile experiences that enable safe, intuitive futures trading on top of real-time, high-stakes financial systems. You\u2019ll collaborate closely with backend, product, design, and risk partners to deliver performant, reliable features while helping translate complex trading concepts into simple, trusted Android workflows. This team is based in our New York, NY &nbsp;office, with in-person attendance expected at least 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you'll do Work with a fast-growing team to revolutionize finance at speed and scale Build smooth, stable, and elegant products with Kotlin and the newest Android APIs Own features from inception to design, implementation, and launch Work cross-functionally with Product Designers, Product Managers, Backend Developers, and Data team Work with Kotlin, A",
-          "ats": "greenhouse",
-          "posted_at": "2026-06-24T16:17:10-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "scale",
-              "performance"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 10.0 / 10.0 = 100%"
-          }
-        },
-        {
-          "title": "Android Engineer",
           "location": "Menlo Park, CA",
           "url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role Our group is building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers &amp; sharp problem-solvers. Individuals who are wired to make an impact. Robinhood is where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. We\u2019re excited to invite talented and motivated Android Engineers to join our award-winning team to help expand Robinhood\u2019s mobile experience for our customers. Learn more about some of our available teams below! The Acquisition team is mainly responsible for acquiring and onboarding new users to Robinhood through 3 main avenues: dot-com site, referrals &amp; incentives, and onboarding. The&nbsp; Equities Engineering team designs and operates the high-performance trading systems that power stock execution, clearing, and market data\u2014enabling fast, reliable, and trusted investing experiences for millions of Robinhood customers. The International Brokerage Engineering team builds the platforms and trading systems that power Robinhood\u2019s global expansion. They design scalable, compliant, and high-performance infrastructure to deliver seamless investing experiences to customers across new markets and asset classes. These teams are based in our Menlo Park, CA office, with in-person attendance expected at least 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you'll do Work with a fast-growing team to revolutionize finance at speed and scale Build smooth, stable, and elegant products with Kotlin and the newest Android APIs Own features from inception to design, implementation, and launch Work cross-functionally with Product Designers, Product Managers, Backend Developers, and Data team Work with Kotlin, Android SDK &amp; Jetpack Compose, MVVM, Coroutines &amp; Flow (preferred) OR RxJava, and Ret",
@@ -757,6 +736,27 @@
             "penalties": [],
             "bonuses": [],
             "calc": "Skill match: 28.5 / 30.0 = 95%"
+          }
+        },
+        {
+          "title": "Android Engineer",
+          "location": "New York, NY",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758",
+          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role Our group is building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers &amp; sharp problem-solvers. Individuals who are wired to make an impact. Robinhood is where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. We\u2019re excited to invite talented and motivated Android Engineers to join our award-winning team to help expand Robinhood\u2019s mobile experience for our customers. The Futures Engineering team builds and operates the end-to-end futures trading platform at Robinhood. They own the systems that allow customers to trade futures products safely, reliably, and at scale\u2014from market connectivity and order execution to risk controls, margining, and real-time customer experience.&nbsp;This is a mission-critical, highly regulated engineering space where correctness, performance, and trust matter as much as speed. As an Android Engineer on the Futures Engineering team , you\u2019ll build customer-facing mobile experiences that enable safe, intuitive futures trading on top of real-time, high-stakes financial systems. You\u2019ll collaborate closely with backend, product, design, and risk partners to deliver performant, reliable features while helping translate complex trading concepts into simple, trusted Android workflows. This team is based in our New York, NY &nbsp;office, with in-person attendance expected at least 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you'll do Work with a fast-growing team to revolutionize finance at speed and scale Build smooth, stable, and elegant products with Kotlin and the newest Android APIs Own features from inception to design, implementation, and launch Work cross-functionally with Product Designers, Product Managers, Backend Developers, and Data team Work with Kotlin, A",
+          "ats": "greenhouse",
+          "posted_at": "2026-06-24T16:17:10-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "scale",
+              "performance"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 10.0 / 10.0 = 100%"
           }
         },
         {
@@ -995,8 +995,8 @@
       "jobs": [
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "Bay Area, CA, United States of America",
-          "url": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
+          "location": "New York, NY, United States of America",
+          "url": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
           "posted_at": "2026-06-09T16:56:05-04:00",
@@ -1016,8 +1016,8 @@
         },
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "New York, NY, United States of America",
-          "url": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
+          "location": "Bay Area, CA, United States of America",
+          "url": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
           "posted_at": "2026-06-09T16:56:05-04:00",
@@ -1037,60 +1037,6 @@
         }
       ],
       "perm_count": 370,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Spotify USA Inc",
-      "jobs": [
-        {
-          "title": "Android Engineer - Advertising",
-          "location": "New York, NY",
-          "url": "https://jobs.lever.co/spotify/a0fa7da3-4c3c-4fa2-97bd-7d6eb01eb9e5",
-          "jd": "Our mission on the Advertising Product & Technology team is to build a next generation advertising platform that aligns with our unique value proposition for audio and video. We work to scale the user experience for hundreds of millions of fans and hundreds of thousands of advertisers. This scale brings unique challenges as well as tremendous opportunities for our artists and creators.\n\n\nSell what you love. For us and millions of users across the globe, that\u2019s Spotify. Join the Sales team and you\u2019ll build the relationships that help grow our business in existing markets and beyond. We don\u2019t just sell creative solutions to our clients and partners, we help to shape them; using our expert knowledge of ad products, sales channels and the industry to impact the way the world experiences music and podcasts.\nOur Advertising Product & Technology team is building the next generation advertising platform for audio and video at Spotify. We create thoughtful, non-interruptive ad experiences that power free listening for hundreds of millions of fans around the world. From display to video, our work lives across some of the most highly trafficked surfaces in the app\u2014helping connect listeners, creators, and advertisers in meaningful ways.\n",
-          "ats": "lever",
-          "posted_at": "2026-03-18T18:07:05Z",
-          "match": 77,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale"
-            ],
-            "missing": [
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.0 / 6.5 = 77%"
-          }
-        },
-        {
-          "title": "Android Engineer - Experience",
-          "location": "London",
-          "url": "https://jobs.lever.co/spotify/2193db3f-77c5-43b8-b030-8f92c9882bf1",
-          "jd": "We design Spotify\u2019s consumer experience\u2014end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints\u2014from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nThe Stream Reporting team is responsible for capturing and processing the consumption signals that power some of Spotify\u2019s most important experiences and business functions. Our systems help ensure accurate royalty reporting, support experimentation and analytics, and provide trusted data that informs recommendations and personalization across Spotify.\nWe\u2019re looking for an Android Engineer to join a highly collaborative team working at the intersection of mobile development, data, and platform systems. This is an opportunity to build software that operates at Spotify scale and helps power experiences used by millions of listeners every day. You\u2019ll help shape how listening and engagement signals are captured across Spotify\u2019s mobile experiences and transformed into trusted datasets used throughout the company.\n\u00a0\n",
-          "ats": "lever",
-          "posted_at": "2026-06-23T11:29:45Z",
-          "match": 71,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale"
-            ],
-            "missing": [
-              "analytics",
-              "consumer"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.0 / 7.0 = 71%"
-          }
-        }
-      ],
-      "perm_count": 170,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1198,6 +1144,39 @@
       "avoid": false
     },
     {
+      "company": "Spotify USA Inc",
+      "jobs": [
+        {
+          "title": "Android Engineer - Experience",
+          "location": "London",
+          "url": "https://jobs.lever.co/spotify/2193db3f-77c5-43b8-b030-8f92c9882bf1",
+          "jd": "We design Spotify\u2019s consumer experience\u2014end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints\u2014from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nThe Stream Reporting team is responsible for capturing and processing the consumption signals that power some of Spotify\u2019s most important experiences and business functions. Our systems help ensure accurate royalty reporting, support experimentation and analytics, and provide trusted data that informs recommendations and personalization across Spotify.\nWe\u2019re looking for an Android Engineer to join a highly collaborative team working at the intersection of mobile development, data, and platform systems. This is an opportunity to build software that operates at Spotify scale and helps power experiences used by millions of listeners every day. You\u2019ll help shape how listening and engagement signals are captured across Spotify\u2019s mobile experiences and transformed into trusted datasets used throughout the company.\n\u00a0\n",
+          "ats": "lever",
+          "posted_at": "2026-06-23T11:29:45Z",
+          "match": 71,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale"
+            ],
+            "missing": [
+              "analytics",
+              "consumer"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 7.0 = 71%"
+          }
+        }
+      ],
+      "perm_count": 170,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Roblox Corporation",
       "jobs": [
         {
@@ -1237,7 +1216,7 @@
           "url": "https://www.asana.com/jobs/apply/6200340?gh_jid=6200340",
           "jd": "The Mobile team\u2019s mission is to enable teams to work together effortlessly - even when they are away from their desktops. We partner closely with Product Designers, PMs, and other product engineering teams to continuously improve the Asana experience for our customers on-the-go. We work hard to maintain a codebase and a culture that is a joy to work in by combining tried and true mobile best practices with many of the innovative opportunities that our in-house frameworks provide. Software Engineers at Asana are quickly trusted to own major parts of both the codebase and our processes through the Areas of Responsibility system. We expect you to thrive in defining and solving problems, with mutual support from your peers. This role is based in our Warsaw office with an office-centric hybrid schedule. The standard in-office days are Monday, Tuesday, and Thursday. Most Asanas have the option to work from home on Wednesdays. Working from home on Fridays depends on the type of work you do, and your recruiter can share more about the in-office requirements. Our employees in Poland are employed under a contract of employment. What you\u2019ll achieve Build and ship high-quality features for our global Android user base in collaboration with Product and Design partners. Contribute to and help grow Asana's Android community by sharing knowledge and best practices across teams. Make improvements, and advocate for code quality, test coverage, addressing technical debt, and user experience. Craft well-documented, well-structured, and well-tested code. Help others on the team improve by providing thoughtful feedback in code/design reviews, and mentoring others in areas you are knowledgeable in. Enable Asana\u2019s Mobile teams to leverage the latest practices, tooling and SDKs. Contribute to Asana-wide cross-platform feature launches. Own and contribute to AoRs (Areas of Responsibility). &nbsp;About you 3+ years of experience developing, releasing, and maintaining high-quality Android applications. Ideally using Kotlin. Aware of the latest developments in the Android ecosystem. Committed to leave code better than you found it. Passion for crafting a delightful end-user experience. Demonstrated strength as a communicator and collaborator. Good judgment for balancing scrappiness and long-term code maintainability. At Asana, we're committed to building teams that include a variety of backgrounds, perspectives, and skills, as this is critical to helping us achieve our mission. If you",
           "ats": "greenhouse",
-          "posted_at": "2026-06-29T12:04:46-04:00",
+          "posted_at": "2026-06-29T13:12:36-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
