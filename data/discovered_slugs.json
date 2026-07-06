@@ -2,7 +2,7 @@
   "discovered": [
     {
       "company": "LinkedIn Corporation",
-      "ats": "greenhouse",
+      "ats": "lever",
       "slug": "linkedin"
     },
     {
@@ -189,6 +189,11 @@
       "company": "Palantir Technologies",
       "ats": "lever",
       "slug": "palantir"
+    },
+    {
+      "company": "Anduril Industries",
+      "ats": "greenhouse",
+      "slug": "andurilindustries"
     },
     {
       "company": "SpaceX",
