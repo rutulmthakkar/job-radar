@@ -2,7 +2,7 @@
   "discovered": [
     {
       "company": "LinkedIn Corporation",
-      "ats": "lever",
+      "ats": "greenhouse",
       "slug": "linkedin"
     },
     {
@@ -214,11 +214,6 @@
       "company": "Scale AI",
       "ats": "greenhouse",
       "slug": "scaleai"
-    },
-    {
-      "company": "Mistral AI",
-      "ats": "lever",
-      "slug": "mistral"
     }
   ]
 }
