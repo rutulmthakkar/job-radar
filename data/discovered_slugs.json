@@ -26,11 +26,6 @@
       "slug": "pinterest"
     },
     {
-      "company": "Lyft Inc",
-      "ats": "greenhouse",
-      "slug": "lyft"
-    },
-    {
       "company": "Coinbase Inc",
       "ats": "greenhouse",
       "slug": "coinbase"
@@ -189,11 +184,6 @@
       "company": "Palantir Technologies",
       "ats": "lever",
       "slug": "palantir"
-    },
-    {
-      "company": "Anduril Industries",
-      "ats": "greenhouse",
-      "slug": "andurilindustries"
     },
     {
       "company": "SpaceX",
