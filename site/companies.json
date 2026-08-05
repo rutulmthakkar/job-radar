@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:23:53.866778Z",
+  "generated_at": "2026-08-05T15:12:55.742373Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 37
+    "open_roles": 36
   },
   "companies": [
     {
@@ -120,6 +120,26 @@
       "jobs": [
         {
           "title": "Software Engineer II, Android",
+          "location": "San Francisco, CA, US; Remote, US",
+          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4916795",
+          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . &nbsp;As the iOS Tech Lead you'll be responsible for the technical direction, strategy and health of our iOS platform.&nbsp; You'll ensure that our technology can deliver on the business/product requirements necessary to make Pinterest successful.&nbsp; This means working with other leads to set and execute a long-term strategy for iOS, aligning the strategy with other clients where it makes sense and communicating to leadership our current status and path to having a world-class iOS platform.&nbsp; You'll also foster a healthy iOS community where all iOS engineers can learn best practices, collaborate effectively and understand our technical direction. &nbsp; What you\u2019ll do:&nbsp; Be the technical point of contact for decisions that impact the whole iOS platform and for cross-functional partners like recruiting, business development and legal&nbsp; Develop strong partnerships with product teams to understand and proactively address future technology needs and current developer pain points Champion and drive large-scale, cross-functional initiatives that improve the iOS platform Leverage AI to accelerate delivery and increase overall efficiency of large scale migrations and refactoring initiatives while remaining accountable for final decisions and deliverables. Act as the ultimate \u201ccustomer representative\u201d for engineers on iOS includi",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-03T14:41:27-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.5 / 5.5 = 100%"
+          }
+        },
+        {
+          "title": "Software Engineer II, Android",
           "location": "Toronto, ON, CA",
           "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
           "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users Partner with design, product, and backend teams to build end to end functionality Put on your Pinner hat to suggest new product ideas and features Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features y",
@@ -138,26 +158,6 @@
             "penalties": [],
             "bonuses": [],
             "calc": "Skill match: 5.5 / 7.0 = 79%"
-          }
-        },
-        {
-          "title": "Software Engineer II, Android",
-          "location": "San Francisco, CA, US; Remote, US",
-          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4916795",
-          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . &nbsp;As the iOS Tech Lead you'll be responsible for the technical direction, strategy and health of our iOS platform.&nbsp; You'll ensure that our technology can deliver on the business/product requirements necessary to make Pinterest successful.&nbsp; This means working with other leads to set and execute a long-term strategy for iOS, aligning the strategy with other clients where it makes sense and communicating to leadership our current status and path to having a world-class iOS platform.&nbsp; You'll also foster a healthy iOS community where all iOS engineers can learn best practices, collaborate effectively and understand our technical direction. &nbsp; What you\u2019ll do:&nbsp; Be the technical point of contact for decisions that impact the whole iOS platform and for cross-functional partners like recruiting, business development and legal&nbsp; Develop strong partnerships with product teams to understand and proactively address future technology needs and current developer pain points Champion and drive large-scale, cross-functional initiatives that improve the iOS platform Leverage AI to accelerate delivery and increase overall efficiency of large scale migrations and refactoring initiatives while remaining accountable for final decisions and deliverables. Act as the ultimate \u201ccustomer representative\u201d for engineers on iOS includi",
-          "ats": "greenhouse",
-          "posted_at": "2026-08-03T14:41:27-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "ai"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.5 / 5.5 = 100%"
           }
         },
         {
@@ -365,30 +365,6 @@
             "penalties": [],
             "bonuses": [],
             "calc": "Skill match: 6.5 / 6.5 = 100%"
-          }
-        },
-        {
-          "title": "Android Engineer, ChatGPT Mobile Infrastructure",
-          "location": "San Francisco",
-          "url": "https://jobs.ashbyhq.com/openai/76ab9863-fc86-4ecf-9cc2-759cdd6b64b7",
-          "jd": "About the Team We\u2019re building the core Kotlin-based platform\u2014from architecture to CI\u2014that powers ChatGPT, Sora, and other fast-evolving Android apps. Android is a key platform for ChatGPT, and our focus is helping teams iterate quickly without sacrificing performance or reliability. About the Role We\u2019re hiring Staff+ engineers with backgrounds across the Android platform, including specialists in performance, build/CI, or AI developer productivity. Whether you focus on UI frameworks or automated testing, your impact will be seen in reduced friction, lower complexity, fewer regressions, and improved performance. If you're rethinking how to scale Android development in the era of advanced AI tools, this role is for you. We are hiring in San Francisco, New York, and Seattle, and may consider remote candidates. In this role, you may: Build and evolve core Kotlin frameworks used across multiple apps and platforms (e.g., caching, state management, observability, navigation, component systems). Enhance app performance (startup, responsiveness, memory, battery life) through profiling, monitoring, regression prevention, or architectural improvements. Increase reliability by reducing crashes, improving error handling, and driving release process improvements. Collaborate closely with product engineering teams to identify pain points and emerging infrastructure needs. Develop internal tooling and automation (CI, testing, guardrails, Codex agent skills, and systems) to accelerate engineering velocity. Turn real-world constraints into simple abstractions: intuitive APIs, enforceable contracts, safe defaults. You might thrive in this role if you: Bring strong expertise in Android development (Kotlin, modern architecture patterns, Jetpack). Gravitate toward platform challenges: frameworks, architecture, performance, or creating tools that empower other engineers. Take ownership by identifying key risks/opportunities, driving projects to completion, and adapting quickly. Care about measurement: instrument thoroughly, define metrics, run experiments, and iterate based on data. Communicate and collaborate effectively\u2014aligning on interfaces, navigating tradeoffs, and driving cross-team execution. Think in systems, fight entropy, and enjoy ambiguous challenges. About OpenAI OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and see",
-          "ats": "ashby",
-          "posted_at": "2026-03-01T23:05:32.641+00:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "navigation",
-              "scale",
-              "performance",
-              "ai",
-              "agent"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 12.0 / 12.0 = 100%"
           }
         }
       ],
@@ -663,7 +639,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/8100160?t=gh_src=&gh_jid=8100160",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. &nbsp; About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. The Crypto expansion team is building Robinhood products for new regions, extending crypto and adjacent financial experiences to customers around the world. The team owns all critical parts of the app across onboarding, funding, account setup, trading product integrations, and platform capabilities required to operate in new jurisdictions. This team sits at the intersection of building an internationalization platform and region specific product execution, to help Robinhood be successful in new markets. Recent work in expansion effort has included Canada, Europe launches with multi-currency wallet capabilities, local funding rails, translations infrastructure, and new onboarding experiences for each region As a Senior Android Engineer on the Crypto Expansions team, you\u2019ll help launch Robinhood\u2019s crypto and adjacent financial products in new regions by building critical Android experiences end to end. You\u2019ll work across onboarding, local funding rails, account setup, multi-currency wallet capabilities, trading surfaces, and translations infrastructure, balancing region-specific execution with long-term platform thinking. You\u2019ll play a key role in delivering reliable, intuitive mobile experiences that make Robinhood successful in global markets. This role is based in our Menlo Park,",
           "ats": "greenhouse",
-          "posted_at": "2026-07-31T19:33:35-04:00",
+          "posted_at": "2026-08-04T13:36:55-04:00",
           "match": 77,
           "match_reasons": {
             "matched": [
@@ -967,8 +943,8 @@
       "jobs": [
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "Bay Area, CA, United States of America",
-          "url": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
+          "location": "New York, NY, United States of America",
+          "url": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
           "posted_at": "2026-08-03T14:30:09-04:00",
@@ -988,8 +964,8 @@
         },
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "New York, NY, United States of America",
-          "url": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
+          "location": "Bay Area, CA, United States of America",
+          "url": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
           "posted_at": "2026-08-03T14:30:09-04:00",
@@ -1058,7 +1034,7 @@
           "url": "https://careers.roblox.com/jobs/7528070?gh_jid=7528070",
           "jd": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences\u2013 all created by our global community of developers and creators.&nbsp; At Roblox, we\u2019re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We\u2019re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.&nbsp; A career at Roblox means you\u2019ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone. You Have: Experience:&nbsp; You have 5+ years of experience delivering projects that include complex user workflows.&nbsp; Domain Knowledge: You have Android and C++ expertise You are highly skilled at performance tuning, and debugging and fixing production problems. Domain Knowledge: You have some&nbsp; iOS, and Windows experience. You love to pick up new technologies as the landscape evolves. Versatility: You can adapt to any situation when the need arises and come up with the right solution. A keen interest in developing audio expertise and knowledge, professional audio experience is not required. Creativity: You take a creative and strategic approach to solving hard problems. Bringing real-time interactivity to build an immersive 3D world should get you thinking about many problems to solve\u2026 and make you excited as a result. Professionalism: You take pride in delivering a high quality product and user experience. Skills: C++ programming Experience designing refining and tuning algorithms Troubleshooting bugs and performance issues Background: You have a BS in a STEM related field or equivalent experience. Bonus: Console programming experience (PlayStation, Xbox, etc.) Bonus: Systems-level Bluetooth experience Bonus: Experience working on a product that\u2019s used at a massive scale (millions of DAUs) Bonus: Server experience or experience designing/interacting with server APIs Bonus: Experience with neighboring domains like Computer Graphics or Physics You Will: Develop new functionality, pipelines, and workflows, and enhance existing ones. Help implement our next generation real time immersive audio simulation platform. Adapt performance for the best quality on all platforms from",
           "ats": "greenhouse",
-          "posted_at": "2026-08-04T02:43:40-04:00",
+          "posted_at": "2026-08-05T02:43:47-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
