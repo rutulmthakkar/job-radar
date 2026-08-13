@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:20:21.336924Z",
+  "generated_at": "2026-08-13T14:21:33.666267Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 38
+    "open_roles": 37
   },
   "companies": [
     {
@@ -147,26 +147,6 @@
         },
         {
           "title": "Sr. Software Engineer, Android",
-          "location": "San Francisco, CA, US; Remote, US",
-          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5432095",
-          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . Pinterest is looking for inquisitive, well-rounded Android engineers to join both our Platform and Product teams. You\u2019ll collaborate closely with product managers, designers, and backend engineers to advance the boundaries of mobile technology and user experiences. Whether you\u2019re building robust frameworks, creating innovative features, or prototyping new tools and ideas, your work will enable both Pinterest developers and engage millions of Pinners worldwide. We value courageous, creative thinkers\u2014engineers ready to propose bold ideas, drive initiatives from vision to launch, and deliver at Pinterest scale. The Platform team drives the core foundations that power Pinterest Mobile, focusing on frameworks, developer productivity, and advancing stability and velocity across the organization. Within Platform, the Builds and Client Testing group develops industry-leading tools and systems that enable fast, reliable builds for both iOS and Android, as well as comprehensive testing coverage across iOS, Android, and Web clients. By streamlining the processes to develop, validate, and ship code with confidence, the team ensures exceptional software quality while boosting productivity and innovation for engineers across Pinterest. Upcoming projects include expanding AI-powered capabilities for mobile developers, strengthening the health of our ",
-          "ats": "greenhouse",
-          "posted_at": "2026-07-28T16:24:14-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "ai"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.5 / 5.5 = 100%"
-          }
-        },
-        {
-          "title": "Sr. Software Engineer, Android",
           "location": "Toronto, ON, CA",
           "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5773689",
           "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . &nbsp; We are looking for inquisitive, well-rounded Android engineers to join our platform Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Support millions of users and enable colleagues by ensuring excellence in core pieces that are shared throughout the application Identify app-wide challenges; propose, test, and ship solutions Drive changes that improve the entire app such as modularization, implementing image/video loading, RTL text, dependency injection, and reusable UI components Enable developers to work more effectively by improving app architecture, testing capabilities and release cycles Solve hard-to-see user pain points that often affect the entire app such as performance, monitoring crash rates and solving user metric anomalies Grow as ",
@@ -188,115 +168,29 @@
             "bonuses": [],
             "calc": "Skill match: 7.5 / 10.0 = 75%"
           }
-        }
-      ],
-      "perm_count": 520,
-      "fy": "2024",
-      "day_one": true,
-      "day_one_notes": "Day-one historically",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Reddit Inc",
-      "jobs": [
+        },
         {
-          "title": "Senior Android Engineer, Design System",
-          "location": "Remote - United States",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/8055374",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . This is an Android role on Reddit\u2019s Design System Team. The mission of the Design System Team is to deliver a cohesive, modern and accessible experience across all of Reddit\u2019s platforms.&nbsp; As a Senior Android engineer on the Design System Team, you will help evolve Reddit\u2019s cross-platform design system and UI architecture that powers experiences across the company. You will build reusable components, improve platform capabilities, and help establish frontend patterns that enable product teams to ship high-quality experiences efficiently. This role has broad scope and impact, helping shape the future of frontend development at Reddit. What You\u2019ll Do : Evolve Reddit\u2019s cross-platform design system by expanding its capabilities and developing higher-level reusable components that accelerate product development while maintaining consistency and quality. Collaborate cross-functionally with product teams, designers, and engineers to ensure the design system and UI infrastructure effectively support real product needs. Improve performance at scale , contributing to Android architecture, rendering patterns, and performance-focused development practices that make performance a built-in feature of the platform. Advance accessibility across the platform , building accessible components, patterns, tooling, and documentation that help teams adopt accessibility best practices by default. Strengthen developer experience , contributing to shared tooling, documentation, and platform improvements that help engineers build reliable, consistent UI across Reddit\u2019s products. You Have: 6+ years of software engineering experience, with a track record of leading cross-functional projects and delivering solutions with broad product impact. Experience building and maintaining shared UI infrastructure, such as design systems, component libraries, or frontend infrastructure used across multiple teams. Strong experience with modern Android development using Kotlin and Jetpack Compose, with expertise in UI architecture, scalable componen",
+          "title": "Sr. Software Engineer, Android",
+          "location": "San Francisco, CA, US; Remote, US",
+          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5432095",
+          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . Pinterest is looking for inquisitive, well-rounded Android engineers to join both our Platform and Product teams. You\u2019ll collaborate closely with product managers, designers, and backend engineers to advance the boundaries of mobile technology and user experiences. Whether you\u2019re building robust frameworks, creating innovative features, or prototyping new tools and ideas, your work will enable both Pinterest developers and engage millions of Pinners worldwide. We value courageous, creative thinkers\u2014engineers ready to propose bold ideas, drive initiatives from vision to launch, and deliver at Pinterest scale. The Platform team drives the core foundations that power Pinterest Mobile, focusing on frameworks, developer productivity, and advancing stability and velocity across the organization. Within Platform, the Builds and Client Testing group develops industry-leading tools and systems that enable fast, reliable builds for both iOS and Android, as well as comprehensive testing coverage across iOS, Android, and Web clients. By streamlining the processes to develop, validate, and ship code with confidence, the team ensures exceptional software quality while boosting productivity and innovation for engineers across Pinterest. Upcoming projects include expanding AI-powered capabilities for mobile developers, strengthening the health of our ",
           "ats": "greenhouse",
-          "posted_at": "2026-07-20T15:00:38-04:00",
+          "posted_at": "2026-07-28T16:24:14-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
               "android",
-              "kotlin",
-              "jetpack compose",
-              "compose",
               "scale",
-              "performance"
+              "ai"
             ],
             "missing": [],
             "penalties": [],
             "bonuses": [],
-            "calc": "Skill match: 17.0 / 17.0 = 100%"
-          }
-        },
-        {
-          "title": "Staff Android Engineer, Brand Ad Formats",
-          "location": "Remote - United States",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7847266",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
-          "ats": "greenhouse",
-          "posted_at": "2026-05-14T13:35:08-04:00",
-          "match": 72,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 6.5 / 9.0 = 72%"
-          }
-        },
-        {
-          "title": "Staff Android Engineer, Brand Ad Formats",
-          "location": "Chicago, IL",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7847270",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
-          "ats": "greenhouse",
-          "posted_at": "2026-05-14T13:35:08-04:00",
-          "match": 72,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 6.5 / 9.0 = 72%"
-          }
-        },
-        {
-          "title": "Staff Android Engineer, Brand Ad Formats",
-          "location": "New York City, NY",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/7847274",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
-          "ats": "greenhouse",
-          "posted_at": "2026-05-14T13:35:08-04:00",
-          "match": 72,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 6.5 / 9.0 = 72%"
+            "calc": "Skill match: 5.5 / 5.5 = 100%"
           }
         }
       ],
-      "perm_count": 200,
+      "perm_count": 520,
       "fy": "2024",
       "day_one": true,
       "day_one_notes": "Day-one historically",
@@ -380,6 +274,64 @@
       "fy": "2024",
       "day_one": true,
       "day_one_notes": "Day-one (small team, verify)",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Reddit Inc",
+      "jobs": [
+        {
+          "title": "Senior Android Engineer, Design System",
+          "location": "Remote - United States",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/8055374",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . This is an Android role on Reddit\u2019s Design System Team. The mission of the Design System Team is to deliver a cohesive, modern and accessible experience across all of Reddit\u2019s platforms.&nbsp; As a Senior Android engineer on the Design System Team, you will help evolve Reddit\u2019s cross-platform design system and UI architecture that powers experiences across the company. You will build reusable components, improve platform capabilities, and help establish frontend patterns that enable product teams to ship high-quality experiences efficiently. This role has broad scope and impact, helping shape the future of frontend development at Reddit. What You\u2019ll Do : Evolve Reddit\u2019s cross-platform design system by expanding its capabilities and developing higher-level reusable components that accelerate product development while maintaining consistency and quality. Collaborate cross-functionally with product teams, designers, and engineers to ensure the design system and UI infrastructure effectively support real product needs. Improve performance at scale , contributing to Android architecture, rendering patterns, and performance-focused development practices that make performance a built-in feature of the platform. Advance accessibility across the platform , building accessible components, patterns, tooling, and documentation that help teams adopt accessibility best practices by default. Strengthen developer experience , contributing to shared tooling, documentation, and platform improvements that help engineers build reliable, consistent UI across Reddit\u2019s products. You Have: 6+ years of software engineering experience, with a track record of leading cross-functional projects and delivering solutions with broad product impact. Experience building and maintaining shared UI infrastructure, such as design systems, component libraries, or frontend infrastructure used across multiple teams. Strong experience with modern Android development using Kotlin and Jetpack Compose, with expertise in UI architecture, scalable componen",
+          "ats": "greenhouse",
+          "posted_at": "2026-07-20T15:00:38-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "scale",
+              "performance"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 17.0 / 17.0 = 100%"
+          }
+        },
+        {
+          "title": "Staff Android Engineer, Brand Ad Formats",
+          "location": "Remote - United States",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-13T08:31:01-04:00",
+          "match": 72,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "lifecycle",
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 6.5 / 9.0 = 72%"
+          }
+        }
+      ],
+      "perm_count": 200,
+      "fy": "2024",
+      "day_one": true,
+      "day_one_notes": "Day-one historically",
       "layoffs": [],
       "avoid": false
     },
@@ -628,7 +580,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/7739588?t=gh_src=&gh_jid=7739588",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. At Robinhood, Quality Engineering (QE) is a critical function within our broader engineering organization. We serve as the final line of defense for product quality\u2014empowering teams to ship confidently by embedding robust test strategies, running critical end-to-end checks, and maintaining automation systems that scale with our product velocity. Our mission is to uphold a high bar for customer experience, especially during P0 launches, through a mix of technical expertise, test execution, and cross-functional collaboration. As a Quality Engineer, you will support high-impact product launches by designing test strategies, executing manual and automated testing, and partnering with our contractor team on regression test cycles. This role requires someone who thrives in fast-paced environments, cares deeply about the customer experience, and is eager to shape the test infrastructure behind Robinhood\u2019s iOS, Android, and Web apps. This role is based in our Toronto office, with in-person attendance expected at least 3 days per week.&nbsp; At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you\u2019ll do Own the quality of new features, including test planning, execution, and feedback throughout the development cycle Define and implement test strategies for P0 product launches, including both frontend and backend validation Perform manual and automated testing, with a focus on end-to-end functionality Automate mobile/web E2E test cases Build test coverage that accurately reflects the user experience",
           "ats": "greenhouse",
-          "posted_at": "2026-08-06T23:35:35-04:00",
+          "posted_at": "2026-08-12T12:32:53-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -745,6 +697,30 @@
             "penalties": [],
             "bonuses": [],
             "calc": "Skill match: 5.0 / 5.0 = 100%"
+          }
+        },
+        {
+          "title": "Staff Android Engineer",
+          "location": "Menlo Park, CA",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730",
+          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. The Trading Products team creates the experiences that bring Robinhood\u2019s trading ecosystem to life for customers every day. Team Experience is responsible for making those journeys feel fast, intuitive, and dependable\u2014so customers can engage with sophisticated trading products through simple, well-crafted mobile experiences. This role is based in our Menlo Park, CA office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you\u2019ll do Define and drive the technical direction for Android experiences across high-impact product areas, building intuitive, elegant, and reliable mobile systems using Kotlin, Jetpack Compose, and modern Android APIs. Lead complex, ambiguous initiatives end to end\u2014from early product and technical strategy through architecture, implementation, experimentation, launch, and long-term evolution. Partner closely with Product Managers, Designers, Backend Engineers, and Data Scientists to shape roadmaps, influence product decisions, and deliver solutions that create meaningful customer and business impact. Establish and uphold enginee",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-12T14:03:08-04:00",
+          "match": 91,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "performance"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 16.0 / 17.5 = 91%"
           }
         }
       ],
@@ -1100,7 +1076,7 @@
           "url": "https://careers.roblox.com/jobs/7528070?gh_jid=7528070",
           "jd": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences\u2013 all created by our global community of developers and creators.&nbsp; At Roblox, we\u2019re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We\u2019re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.&nbsp; A career at Roblox means you\u2019ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone. You Have: Experience:&nbsp; You have 5+ years of experience delivering projects that include complex user workflows.&nbsp; Domain Knowledge: You have Android and C++ expertise You are highly skilled at performance tuning, and debugging and fixing production problems. Domain Knowledge: You have some&nbsp; iOS, and Windows experience. You love to pick up new technologies as the landscape evolves. Versatility: You can adapt to any situation when the need arises and come up with the right solution. A keen interest in developing audio expertise and knowledge, professional audio experience is not required. Creativity: You take a creative and strategic approach to solving hard problems. Bringing real-time interactivity to build an immersive 3D world should get you thinking about many problems to solve\u2026 and make you excited as a result. Professionalism: You take pride in delivering a high quality product and user experience. Skills: C++ programming Experience designing refining and tuning algorithms Troubleshooting bugs and performance issues Background: You have a BS in a STEM related field or equivalent experience. Bonus: Console programming experience (PlayStation, Xbox, etc.) Bonus: Systems-level Bluetooth experience Bonus: Experience working on a product that\u2019s used at a massive scale (millions of DAUs) Bonus: Server experience or experience designing/interacting with server APIs Bonus: Experience with neighboring domains like Computer Graphics or Physics You Will: Develop new functionality, pipelines, and workflows, and enhance existing ones. Help implement our next generation real time immersive audio simulation platform. Adapt performance for the best quality on all platforms from",
           "ats": "greenhouse",
-          "posted_at": "2026-08-12T02:44:39-04:00",
+          "posted_at": "2026-08-13T02:48:48-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
