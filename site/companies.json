@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:41:48.740060Z",
+  "generated_at": "2026-08-19T13:43:09.791415Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 38
+    "open_roles": 37
   },
   "companies": [
     {
@@ -19,7 +19,7 @@
           "url": "https://stripe.com/jobs/search?gh_jid=8074125",
           "jd": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career.&nbsp; About the team Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team\u2019s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model\u2014whether it\u2019s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.&nbsp; What we are looking for: As an Android BSP Engineer, you will be responsible for the kernel and driver level system development, which includes building, troubleshooting, and writing automated tests for the Android system on our embedded payments platforms. This team works closely with partner teams throughout the hardware and software product lifecycle, from hardware manufacturing to Android app teams. We also work with external vendors on part selection and initial hardware bring-up. What you\u2019ll do: Bring up new devices and lead debugging and performance tuning exercises that span multiple hardware/firmware/software teams. Design, implement, and maintain drivers and Android services that operate efficiently in a constrained environment and meet the reliability and security requirements of the industry. Own the definition of one or more work streams focused on hardware bring-up, peripheral drivers and communication, and power and performance management and optimization. Analyze bug reports and manage the defect resolution process (disposition issues, resolve issues, and report issue status). Interact with global teams with excellent communication skills to provide support information Routinely perform code reviews to ensure high quality designs and implementation Assist in ensuring quality and timeliness of product/feature development. Work closely with QA staff to ensure appropriate test cases are created, maintained, and executed. Proactively solve ",
           "ats": "greenhouse",
-          "posted_at": "2026-08-06T12:10:16-04:00",
+          "posted_at": "2026-08-18T18:00:18-04:00",
           "match": 83,
           "match_reasons": {
             "matched": [
@@ -40,7 +40,7 @@
           "url": "https://stripe.com/jobs/search?gh_jid=7543559",
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the team Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team\u2019s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. Stripe was founded to make it easier for developers to accept payments. We\u2019ve solved a small part of that problem, but our ambition is to go much further.&nbsp; What you\u2019ll do You'll build and enhance applications, services, and the OS that run on the physical Terminal devices.&nbsp; You'll also build the frameworks for other engineers, both internal and external to Stripe, to develop on our custom platform with ease. Responsibilities Design, build, and maintain Android apps and SDKs in Kotlin Develop Android payment applications for a variety of devices and form factors Work with engineers, product managers, designers, and stakeholders across the company to bring new features and products to mobile users Collaborate with Android developers who work on the Stripe mobile apps and Stripe Terminal to set best practices for Android development across the company Work with user research and product design to understand users and address their needs &nbsp; Who you are We\u2019re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements 2+ years of experience in Android development Experience working with at least one of the following-&nbsp;Kotlin, Java, Swift, Objective-C, Go, or Python Preferred qualifications Payments expertise or knowledge Backend infrastructure or services experience Listen well and internalize the best ideas from all over the organization while also setting a vision that others are excited to get behind You prefer simple solutions and designs over complex ones, and have a good intuition for what is lasting and scalable Thrive in a ",
           "ats": "greenhouse",
-          "posted_at": "2026-08-06T12:09:58-04:00",
+          "posted_at": "2026-08-18T17:59:41-04:00",
           "match": 90,
           "match_reasons": {
             "matched": [
@@ -63,7 +63,7 @@
           "url": "https://stripe.com/jobs/search?gh_jid=7557403",
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world's largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team's mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. Stripe was founded to make it easier for developers to accept payments. We've solved a small part of that problem, but our ambition is to go much further. Android engineers on the Terminal team will build and enhance the Device Platform including the applications and services that run on the physical Terminal devices. This also includes building the frameworks for other engineers, both internal and external to Stripe, to develop on our custom platform with ease. What you'll do Responsibilities Design, build, and maintain Android apps and SDKs in Kotlin Develop Android payment applications for a variety of devices and form factors Work with engineers, product managers, designers, and stakeholders across the company to bring new features and products to Stripe's mobile users Collaborate with Android developers who work on the Stripe mobile apps and Stripe Terminal to set best practices for Android development across the company Work with user research and product design to understand users and address their needs Who you are We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Have a strong technical background, with 2\u20136 years of experience in Android development. Listen well and internalize the best ideas from all over the organization. Prefer simple solutions and designs over complex ones, and have a good intuition for what is lasting and scalable. Thrive in a collaborative environment involving different stakeholders and subject matter experts. Put yourself in the shoes of your users and be a steward of crafting great developer an",
           "ats": "greenhouse",
-          "posted_at": "2026-08-06T12:09:58-04:00",
+          "posted_at": "2026-08-18T17:38:40-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -82,7 +82,7 @@
           "url": "https://stripe.com/jobs/search?gh_jid=7978915",
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world's largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Direct Surfaces Team's mission is to make it delightful for users to manage their money. We're rebuilding and unbundling the core of Stripe so that no matter what the business, the location, or the use case there is a single place that can fulfill all financial needs: Stripe Treasury. This is a 0 \u2192 1 new business at Stripe, so if that sounds exciting we'd love to hear from you. What you'll do Engineers at Stripe are comfortable working on new products under fluid conditions, seamlessly balancing tactical and strategic considerations all in service of our users. Responsibilities Deliver a world-class mobile experience for Treasury users, including working with our partners to design and launch new features and capabilities Scope and lead technical projects, laying the groundwork for our products to iteratively evolve and scale&nbsp; Design, build, expand, and maintain mobile-specific view cross-platform components, backing APIs and their services&nbsp; Align our technical decisions with the broad strategic initiatives at Stripe, while also advocating for needs specific to emerging new businesses&nbsp; Work with engineers across the company to understand when to leverage existing infrastructure versus when building a bespoke solution is prudent&nbsp; Make effective tradeoffs that consider business priorities, user experience, and a sustainable technical foundation Who you are We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements Have a strong technical background, including 3+ years of industry experience Have experience building mobile applications including working beyond just the client Understand good practices when building and working with UIs and APIs Measure your success in terms of business impact, not lines of code Internalize the best ideas ",
           "ats": "greenhouse",
-          "posted_at": "2026-08-06T12:10:09-04:00",
+          "posted_at": "2026-08-18T17:57:24-04:00",
           "match": 30,
           "match_reasons": {
             "note": "JD too sparse; generic fallback."
@@ -99,30 +99,6 @@
     {
       "company": "Pinterest Inc",
       "jobs": [
-        {
-          "title": "Software Engineer II, Android",
-          "location": "San Francisco, CA, US; Remote, US",
-          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4916795",
-          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our [Platform / Product] engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. &nbsp; What you\u2019ll do:&nbsp; Contribute to and lead each step of the product development process, from ideation to implementation &nbsp; to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support all Pinners Support millions of users and enable colleagues by ensuring excellence in core pieces that are shared throughout the application Drive changes that improve the entire app such as modularization, implementing image/video loading, RTL text, dependency injection, and reusable UI components Grow as an engineer by working with world-class peers on varied and high",
-          "ats": "greenhouse",
-          "posted_at": "2026-08-06T13:19:00-04:00",
-          "match": 75,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "dependency injection",
-              "scale",
-              "ai"
-            ],
-            "missing": [
-              "millions of users",
-              "modularization"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 7.5 / 10.0 = 75%"
-          }
-        },
         {
           "title": "Software Engineer II, Android",
           "location": "Toronto, ON, CA",
@@ -146,18 +122,18 @@
           }
         },
         {
-          "title": "Sr. Software Engineer, Android",
-          "location": "Toronto, ON, CA",
-          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5773689",
-          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . &nbsp; We are looking for inquisitive, well-rounded Android engineers to join our platform Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Support millions of users and enable colleagues by ensuring excellence in core pieces that are shared throughout the application Identify app-wide challenges; propose, test, and ship solutions Drive changes that improve the entire app such as modularization, implementing image/video loading, RTL text, dependency injection, and reusable UI components Enable developers to work more effectively by improving app architecture, testing capabilities and release cycles Solve hard-to-see user pain points that often affect the entire app such as performance, monitoring crash rates and solving user metric anomalies Grow as ",
+          "title": "Software Engineer II, Android",
+          "location": "San Francisco, CA, US; Remote, US",
+          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4916795",
+          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our [Platform / Product] engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. &nbsp; What you\u2019ll do:&nbsp; Contribute to and lead each step of the product development process, from ideation to implementation &nbsp; to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support all Pinners Support millions of users and enable colleagues by ensuring excellence in core pieces that are shared throughout the application Drive changes that improve the entire app such as modularization, implementing image/video loading, RTL text, dependency injection, and reusable UI components Grow as an engineer by working with world-class peers on varied and high",
           "ats": "greenhouse",
-          "posted_at": "2026-07-28T16:24:14-04:00",
+          "posted_at": "2026-08-06T13:19:00-04:00",
           "match": 75,
           "match_reasons": {
             "matched": [
               "android",
               "dependency injection",
-              "performance",
+              "scale",
               "ai"
             ],
             "missing": [
@@ -188,9 +164,91 @@
             "bonuses": [],
             "calc": "Skill match: 5.5 / 5.5 = 100%"
           }
+        },
+        {
+          "title": "Sr. Software Engineer, Android",
+          "location": "Toronto, ON, CA",
+          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5773689",
+          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . &nbsp; We are looking for inquisitive, well-rounded Android engineers to join our platform Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Support millions of users and enable colleagues by ensuring excellence in core pieces that are shared throughout the application Identify app-wide challenges; propose, test, and ship solutions Drive changes that improve the entire app such as modularization, implementing image/video loading, RTL text, dependency injection, and reusable UI components Enable developers to work more effectively by improving app architecture, testing capabilities and release cycles Solve hard-to-see user pain points that often affect the entire app such as performance, monitoring crash rates and solving user metric anomalies Grow as ",
+          "ats": "greenhouse",
+          "posted_at": "2026-07-28T16:24:14-04:00",
+          "match": 75,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "dependency injection",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "millions of users",
+              "modularization"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 7.5 / 10.0 = 75%"
+          }
         }
       ],
       "perm_count": 520,
+      "fy": "2024",
+      "day_one": true,
+      "day_one_notes": "Day-one historically",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Reddit Inc",
+      "jobs": [
+        {
+          "title": "Senior Android Engineer, Design System",
+          "location": "Remote - United States",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/8055374",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . This is an Android role on Reddit\u2019s Design System Team. The mission of the Design System Team is to deliver a cohesive, modern and accessible experience across all of Reddit\u2019s platforms.&nbsp; As a Senior Android engineer on the Design System Team, you will help evolve Reddit\u2019s cross-platform design system and UI architecture that powers experiences across the company. You will build reusable components, improve platform capabilities, and help establish frontend patterns that enable product teams to ship high-quality experiences efficiently. This role has broad scope and impact, helping shape the future of frontend development at Reddit. What You\u2019ll Do : Evolve Reddit\u2019s cross-platform design system by expanding its capabilities and developing higher-level reusable components that accelerate product development while maintaining consistency and quality. Collaborate cross-functionally with product teams, designers, and engineers to ensure the design system and UI infrastructure effectively support real product needs. Improve performance at scale , contributing to Android architecture, rendering patterns, and performance-focused development practices that make performance a built-in feature of the platform. Advance accessibility across the platform , building accessible components, patterns, tooling, and documentation that help teams adopt accessibility best practices by default. Strengthen developer experience , contributing to shared tooling, documentation, and platform improvements that help engineers build reliable, consistent UI across Reddit\u2019s products. You Have: 6+ years of software engineering experience, with a track record of leading cross-functional projects and delivering solutions with broad product impact. Experience building and maintaining shared UI infrastructure, such as design systems, component libraries, or frontend infrastructure used across multiple teams. Strong experience with modern Android development using Kotlin and Jetpack Compose, with expertise in UI architecture, scalable componen",
+          "ats": "greenhouse",
+          "posted_at": "2026-07-20T15:00:38-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "scale",
+              "performance"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 17.0 / 17.0 = 100%"
+          }
+        },
+        {
+          "title": "Staff Android Engineer, Brand Ad Formats",
+          "location": "Remote - United States",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-19T08:08:18-04:00",
+          "match": 72,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "lifecycle",
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 6.5 / 9.0 = 72%"
+          }
+        }
+      ],
+      "perm_count": 200,
       "fy": "2024",
       "day_one": true,
       "day_one_notes": "Day-one historically",
@@ -245,93 +303,12 @@
             "bonuses": [],
             "calc": "Skill match: 6.5 / 6.5 = 100%"
           }
-        },
-        {
-          "title": "Android Systems Engineer, Consumer Devices",
-          "location": "San Francisco",
-          "url": "https://jobs.ashbyhq.com/openai/b08126cc-8134-45f0-aeb3-4b00e96547de",
-          "jd": "About the Team The Consumer Devices team is building a new generation of AI-native experiences that bring OpenAI\u2019s technology closer to people throughout their day. We are exploring how AI can become deeply integrated into the devices people already use\u2014understanding context, helping users accomplish tasks, coordinating across apps and services, and making use of capabilities that are uniquely available on the device. Our work spans software, devices, platform technologies, and strategic partnerships. We operate as a highly collaborative, fast-moving team focused on turning ambitious ideas into reliable products that can reach people at significant scale. About the Role As an Android Systems Engineer , you will help define and build the Android platform capabilities behind the next generation of AI-powered consumer experiences. This is not a traditional application-only Android role. You will work across the Android stack, using system-level APIs, device capabilities, platform integrations, and OEM-specific functionality to create experiences that would be difficult or impossible to build as a conventional mobile application. You will help determine what becomes possible when an AI assistant is deeply integrated with a mobile device: how it understands what is happening, interacts naturally with the user, connects across apps and services, and helps complete multi-step tasks. You will work closely with product, design, AI, backend, platform, and external device partners to take new concepts from prototype to production. The role requires strong technical judgment, product intuition, and comfort navigating areas where the platform, APIs, and product patterns are still evolving. This role is based in San Francisco, CA. We use a hybrid work model of four days in the office per week and offer relocation assistance to new employees. In this role, you will: Build deeply integrated Android experiences: Design and implement product experiences that take advantage of Android platform capabilities. Work across the Android platform: Develop against Android framework and system APIs, system services, lifecycle and background execution primitives, inter-process communication, permissions, notifications, intents, and other platform capabilities. Unlock device capabilities: Identify and use capabilities such as audio, camera, sensors, connectivity, location, notifications, credentials, and other device signals to enable useful, context-aware AI experiences. Build agentic",
-          "ats": "ashby",
-          "posted_at": "2026-08-06T22:35:47.097+00:00",
-          "match": 73,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle",
-              "consumer"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.5 / 7.5 = 73%"
-          }
         }
       ],
       "perm_count": 150,
       "fy": "2024",
       "day_one": true,
       "day_one_notes": "Day-one (small team, verify)",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Reddit Inc",
-      "jobs": [
-        {
-          "title": "Senior Android Engineer, Design System",
-          "location": "Remote - United States",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/8055374",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . This is an Android role on Reddit\u2019s Design System Team. The mission of the Design System Team is to deliver a cohesive, modern and accessible experience across all of Reddit\u2019s platforms.&nbsp; As a Senior Android engineer on the Design System Team, you will help evolve Reddit\u2019s cross-platform design system and UI architecture that powers experiences across the company. You will build reusable components, improve platform capabilities, and help establish frontend patterns that enable product teams to ship high-quality experiences efficiently. This role has broad scope and impact, helping shape the future of frontend development at Reddit. What You\u2019ll Do : Evolve Reddit\u2019s cross-platform design system by expanding its capabilities and developing higher-level reusable components that accelerate product development while maintaining consistency and quality. Collaborate cross-functionally with product teams, designers, and engineers to ensure the design system and UI infrastructure effectively support real product needs. Improve performance at scale , contributing to Android architecture, rendering patterns, and performance-focused development practices that make performance a built-in feature of the platform. Advance accessibility across the platform , building accessible components, patterns, tooling, and documentation that help teams adopt accessibility best practices by default. Strengthen developer experience , contributing to shared tooling, documentation, and platform improvements that help engineers build reliable, consistent UI across Reddit\u2019s products. You Have: 6+ years of software engineering experience, with a track record of leading cross-functional projects and delivering solutions with broad product impact. Experience building and maintaining shared UI infrastructure, such as design systems, component libraries, or frontend infrastructure used across multiple teams. Strong experience with modern Android development using Kotlin and Jetpack Compose, with expertise in UI architecture, scalable componen",
-          "ats": "greenhouse",
-          "posted_at": "2026-07-20T15:00:38-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "jetpack compose",
-              "compose",
-              "scale",
-              "performance"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 17.0 / 17.0 = 100%"
-          }
-        },
-        {
-          "title": "Staff Android Engineer, Brand Ad Formats",
-          "location": "Remote - United States",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
-          "ats": "greenhouse",
-          "posted_at": "2026-08-18T08:24:16-04:00",
-          "match": 72,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 6.5 / 9.0 = 72%"
-          }
-        }
-      ],
-      "perm_count": 200,
-      "fy": "2024",
-      "day_one": true,
-      "day_one_notes": "Day-one historically",
       "layoffs": [],
       "avoid": false
     },
@@ -1023,7 +1000,7 @@
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158239007?gh_jid=5158239007",
           "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Air Dominance &amp; Strike team at Anduril develops aerial and multi-domain robotic systems. The team is responsible for taking products like Fury (unmanned fighter jet) and Barracuda (air-breathing cruise missile) from concept to product. The team also develops Lattice for Mission Autonomy, Anduril\u2019s premier software platform that enables masses of Fury, Barracuda, and other first and third party robots to collaborate across various missions. We work in close coordination with specialist teams like Perception, Motion Planning, Hardware, and Test Engineering to solve some of the hardest problems facing our customers. We are looking for software engineers and roboticists excited about creating a powerful autonomy software stack that includes computer vision, motion planning, SLAM, controls, estimation, and secure communications. ABOUT THE JOB We are looking for Android Engineers to join our team. As an Android Engineer at Anduril you will be architecting and building out user interface applications from backend to fron",
           "ats": "greenhouse",
-          "posted_at": "2026-08-15T14:09:35-04:00",
+          "posted_at": "2026-08-18T09:51:09-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -1107,7 +1084,7 @@
           "url": "https://careers.roblox.com/jobs/7528070?gh_jid=7528070",
           "jd": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences\u2013 all created by our global community of developers and creators.&nbsp; At Roblox, we\u2019re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We\u2019re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.&nbsp; A career at Roblox means you\u2019ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone. You Have: Experience:&nbsp; You have 5+ years of experience delivering projects that include complex user workflows.&nbsp; Domain Knowledge: You have Android and C++ expertise You are highly skilled at performance tuning, and debugging and fixing production problems. Domain Knowledge: You have some&nbsp; iOS, and Windows experience. You love to pick up new technologies as the landscape evolves. Versatility: You can adapt to any situation when the need arises and come up with the right solution. A keen interest in developing audio expertise and knowledge, professional audio experience is not required. Creativity: You take a creative and strategic approach to solving hard problems. Bringing real-time interactivity to build an immersive 3D world should get you thinking about many problems to solve\u2026 and make you excited as a result. Professionalism: You take pride in delivering a high quality product and user experience. Skills: C++ programming Experience designing refining and tuning algorithms Troubleshooting bugs and performance issues Background: You have a BS in a STEM related field or equivalent experience. Bonus: Console programming experience (PlayStation, Xbox, etc.) Bonus: Systems-level Bluetooth experience Bonus: Experience working on a product that\u2019s used at a massive scale (millions of DAUs) Bonus: Server experience or experience designing/interacting with server APIs Bonus: Experience with neighboring domains like Computer Graphics or Physics You Will: Develop new functionality, pipelines, and workflows, and enhance existing ones. Help implement our next generation real time immersive audio simulation platform. Adapt performance for the best quality on all platforms from",
           "ats": "greenhouse",
-          "posted_at": "2026-08-18T02:44:27-04:00",
+          "posted_at": "2026-08-19T02:48:09-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
