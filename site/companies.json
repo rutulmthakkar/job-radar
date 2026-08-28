@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T22:50:21.982926Z",
+  "generated_at": "2026-08-28T22:54:08.785216Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 40
+    "open_roles": 42
   },
   "companies": [
     {
@@ -309,7 +309,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-08-27T14:24:22-04:00",
+          "posted_at": "2026-08-28T08:11:26-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -807,6 +807,78 @@
       "avoid": false
     },
     {
+      "company": "Lyft Inc",
+      "jobs": [
+        {
+          "title": "Android Software Engineer, Lyft Urban Solutions",
+          "location": "Montreal, Canada",
+          "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
+          "jd": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. Lyft Urban Solutions powers the bike-sharing and scooter-sharing systems that move millions of people in over 60 cities worldwide. We built North America's first automated bike-share system and continue to lead the micromobility revolution. Our systems operate globally - from Citi Bike in New York to BIXI in Montreal, Divvy in Chicago, Capital Bikeshare in DC, and iconic systems in Austin, Barcelona, Bogota, Boston, Buenos Aires, Columbus, Detroit, Dubai, London, Madrid, Mexico City, Monaco, Pittsburgh, Portland, Rio de Janeiro, San Francisco, Toronto, and beyond. We're not just technology providers - we operate these systems, building the software, hardware, and operations that make urban micromobility work at scale. Ready to shape how millions of people move through their cities every day? We're looking for an Android Software Engineer to join the Rider Experience team within Lyft Urban Solutions. Your work will directly power the digital experiences behind our bike-share and scooter-share platforms. You'll build the backend systems that make membership programs, rider features, and real-time experiences feel seamless and fast. We're moving quickly on this hire; the team has ambitious goals for 2026 and needs strong engineers who are ready to ship. Our engineers are sharp, pragmatic problem-solvers who move fast and deploy to production continuously. Responsibilities: Engineering &amp; Delivery Design, develop, deploy, monitor, operate, and maintain elements of our Rider experience, owning components end to end Write reliable, performant, and maintainable code, with comprehensive test coverage Reduce technical debt and contribute to ongoing improvements in tooling and code structure Analyze internal systems and processes to identify opportunities for improvement and automation Participate in code reviews to uphold code quality and share knowledge across the team Produce technical specs, runbooks, and documentation covering requirements, security, and privacy Share knowledge and support team growth through onboarding materials, brown bags, tech talks, and engineering best practices Operations &amp; Quality Rotate on-call, monitoring deployed code for stability and performance, proactively fixing bugs, and keeping dashboards and alerts up to date Support and escalate production incidents as",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-28T11:41:34-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "performance"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 6.0 / 6.0 = 100%"
+          }
+        },
+        {
+          "title": "Ing\u00e9nieur Logiciel Android, Lyft Solutions Urbaines",
+          "location": "Montreal, Canada",
+          "url": "https://app.careerpuck.com/job-board/lyft/job/8743515002?gh_jid=8743515002",
+          "jd": "Chez Lyft, notre mission est de servir et de connecter. Nous nous effor\u00e7ons d'y parvenir en cultivant un environnement de travail inclusif o\u00f9 chaque membre de l'\u00e9quipe a sa place et peut s'\u00e9panouir. Lyft Urban Solutions g\u00e8re les syst\u00e8mes de v\u00e9los et de trottinettes en libre-service qui transportent des millions de personnes dans plus de 60 villes \u00e0 travers le monde. Nous avons cr\u00e9\u00e9 le premier syst\u00e8me de v\u00e9los en libre-service automatis\u00e9 d'Am\u00e9rique du Nord et restons \u00e0 la pointe de la r\u00e9volution de la micromobilit\u00e9. Nos syst\u00e8mes sont pr\u00e9sents partout dans le monde : de Citi Bike \u00e0 New York \u00e0 BIXI \u00e0 Montr\u00e9al, en passant par Divvy \u00e0 Chicago, Capital Bikeshare \u00e0 Washington D.C., et des syst\u00e8mes embl\u00e9matiques \u00e0 Austin, Barcelone, Bogota, Boston, Buenos Aires, Columbus, Detroit, Duba\u00ef, Londres, Madrid, Mexico, Monaco, Pittsburgh, Portland, Rio de Janeiro, San Francisco, Toronto et bien d'autres villes. Nous ne sommes pas de simples fournisseurs de technologies : nous exploitons ces syst\u00e8mes, en d\u00e9veloppant les logiciels, le mat\u00e9riel et les op\u00e9rations qui permettent \u00e0 la micromobilit\u00e9 urbaine de fonctionner \u00e0 grande \u00e9chelle. Envie de contribuer \u00e0 fa\u00e7onner le quotidien de millions de personnes dans leurs villes ? Nous recherchons un(e) ing\u00e9nieur(e) logiciel Android pour rejoindre l'\u00e9quipe Exp\u00e9rience utilisateur au sein de Lyft Urban Solutions. Votre travail contribuera directement \u00e0 l'exp\u00e9rience num\u00e9rique de nos plateformes de v\u00e9los et de trottinettes en libre-service. Vous d\u00e9velopperez les syst\u00e8mes backend qui garantissent une exp\u00e9rience fluide et rapide pour les programmes d'abonnement, les fonctionnalit\u00e9s destin\u00e9es aux utilisateurs et les interactions en temps r\u00e9el. Ce recrutement est urgent ; l'\u00e9quipe a des objectifs ambitieux pour 2026 et recherche des ing\u00e9nieurs comp\u00e9tents, op\u00e9rationnels imm\u00e9diatement. Nos ing\u00e9nieurs sont des personnes brillantes, pragmatiques et capables de r\u00e9soudre les probl\u00e8mes rapidement, assurant ainsi un d\u00e9ploiement continu en production. Responsabilit\u00e9s: Ing\u00e9nierie et livraison Concevoir, d\u00e9velopper, d\u00e9ployer, superviser, exploiter et maintenir les \u00e9l\u00e9ments de l'exp\u00e9rience utilisateur, en prenant en charge l'int\u00e9gralit\u00e9 du processus. \u00c9crire du code fiable, performant et maintenable, avec une couverture de tests compl\u00e8te. R\u00e9duire la dette technique et contribuer \u00e0 l'am\u00e9lioration continue des outils et de la structure du code. Analyser les syst\u00e8mes et processus internes afin d'identifier les opportunit\u00e9s d'am\u00e9lioration et d'automatisati",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-28T11:41:36-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 4.0 / 4.0 = 100%"
+          }
+        },
+        {
+          "title": "Staff Android Engineer - Rider Experience & Mobile Platform",
+          "location": "San Francisco, CA",
+          "url": "https://app.careerpuck.com/job-board/lyft/job/8680013002?gh_jid=8680013002",
+          "jd": "At Lyft, our mission is to improve people\u2019s lives with the world\u2019s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization. As a Staff Android Engineer, &nbsp;on the Rider App group in the Rider org, you will work on one of Lyft\u2019s most critical Rider flows. The Rider App group is responsible not only for the critical flows in the app but also the app platform and quality. We build and iterate on rider facing products that not only ensure a seamless experience for our riders, but also aim to build and deepen Rider-Lyft relationships. As an experienced app developer you will be solving complex problems, delivering significant impact and ensuring excellence for the Rider Android team. This means excellent development practices, scalable and reliable code architecture, and safe, rapid releases. You will not only influence the architecture, platform, processes but also influence the culture and coach, guide engineers across the group.&nbsp; Responsibilities: Work across our product teams to design, build, and release exciting features and products in the Lyft Rider application, used by millions of people every day Define long term roadmap and architecture based on technology and our needs Oversee major changes to our Android architecture Work with Product Managers, Designers, and other Engineers to deliver best in class user experience and collaborate closely with local and global colleagues Continuously discover, evaluate and implement new technologies to maximize developer efficiency Mentor and support other developers on your team with code reviews, design feedback, and advice and guidance Solve complex real-time data transfer and synchronization issues Implement pixel perfect designs with advanced interactions, which are a joy to use Experience: 6+ years of experience as an Android developer Experience with leading a technical team is a bonus Advanced knowledge of Java and Kotlin Familiarity with RxJava Very knowledgeable about architecture and design patterns Worked on and shipped large scale Android applications Great product sense; you care about usability and good design Has worked collaboratively with product managers, designers, and other engineering teams to build complex products Benefits: Great medical, dental, and vision insurance options Mental health benefits Family building benefits In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly te",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-26T16:51:51-04:00",
+          "match": 88,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "java",
+              "scale"
+            ],
+            "missing": [
+              "rxjava"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 10.5 / 12.0 = 88%"
+          }
+        }
+      ],
+      "perm_count": 460,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Spotify USA Inc",
       "jobs": [
         {
@@ -966,11 +1038,11 @@
       "jobs": [
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "Bay Area, CA, United States of America",
-          "url": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
+          "location": "New York, NY, United States of America",
+          "url": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
-          "posted_at": "2026-08-26T15:55:59-04:00",
+          "posted_at": "2026-08-03T14:30:09-04:00",
           "match": 82,
           "match_reasons": {
             "matched": [
@@ -987,11 +1059,11 @@
         },
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "New York, NY, United States of America",
-          "url": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
+          "location": "Bay Area, CA, United States of America",
+          "url": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
-          "posted_at": "2026-08-03T14:30:09-04:00",
+          "posted_at": "2026-08-26T15:55:59-04:00",
           "match": 82,
           "match_reasons": {
             "matched": [
@@ -1019,11 +1091,11 @@
       "jobs": [
         {
           "title": "Senior Android Engineer II, Digital Twin Platform",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "url": "https://instacart.careers/job/?gh_jid=8147300",
+          "location": "United States - Remote",
+          "url": "https://instacart.careers/job/?gh_jid=8147298",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Digital Twin Platform team at Instacart is on a mission to understand exactly what is on store shelves at any given moment. Inventory intelligence is foundational to some of Instacart's most critical products \u2014 from search and logistics to enterprise AI solutions for grocers of all sizes. Our team owns the end-to-end data supply chain, spanning ingestion and integration of partner data sources, collection of in-store inventory observations, model development, serving, and product integrations across the Instacart ecosystem. We're a growing team sitting at the intersection of physical retail and cutting-edge technology, working closely with Caper, Inventory Intelligence, and Fulfillment to bring real-time shelf intelligence to life. If you're curious about what that looks like in practice, you can read more about our work here: Instacart Enterprise AI Solutions for Grocers Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence We're looking for a Senior Android Engineer to help us build the next generation of Android-native applications that power our store view and Connected Stores programs. This is a net new role on a team that is scaling fast \u2014 you'll have real ownership, work on complex and novel technical problems, and see your work directly shape how grocers and shoppers experience Instacart technology in the physical world. ",
           "ats": "greenhouse",
-          "posted_at": "2026-08-24T14:03:48-04:00",
+          "posted_at": "2026-08-24T14:03:40-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -1038,11 +1110,11 @@
         },
         {
           "title": "Senior Android Engineer II, Digital Twin Platform",
-          "location": "United States - Remote",
-          "url": "https://instacart.careers/job/?gh_jid=8147298",
+          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+          "url": "https://instacart.careers/job/?gh_jid=8147300",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Digital Twin Platform team at Instacart is on a mission to understand exactly what is on store shelves at any given moment. Inventory intelligence is foundational to some of Instacart's most critical products \u2014 from search and logistics to enterprise AI solutions for grocers of all sizes. Our team owns the end-to-end data supply chain, spanning ingestion and integration of partner data sources, collection of in-store inventory observations, model development, serving, and product integrations across the Instacart ecosystem. We're a growing team sitting at the intersection of physical retail and cutting-edge technology, working closely with Caper, Inventory Intelligence, and Fulfillment to bring real-time shelf intelligence to life. If you're curious about what that looks like in practice, you can read more about our work here: Instacart Enterprise AI Solutions for Grocers Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence We're looking for a Senior Android Engineer to help us build the next generation of Android-native applications that power our store view and Connected Stores programs. This is a net new role on a team that is scaling fast \u2014 you'll have real ownership, work on complex and novel technical problems, and see your work directly shape how grocers and shoppers experience Instacart technology in the physical world. ",
           "ats": "greenhouse",
-          "posted_at": "2026-08-24T14:03:40-04:00",
+          "posted_at": "2026-08-24T14:03:48-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -1114,40 +1186,6 @@
       "avoid": false
     },
     {
-      "company": "Lyft Inc",
-      "jobs": [
-        {
-          "title": "Staff Android Engineer - Rider Experience & Mobile Platform",
-          "location": "San Francisco, CA",
-          "url": "https://app.careerpuck.com/job-board/lyft/job/8680013002?gh_jid=8680013002",
-          "jd": "At Lyft, our mission is to improve people\u2019s lives with the world\u2019s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization. As a Staff Android Engineer, &nbsp;on the Rider App group in the Rider org, you will work on one of Lyft\u2019s most critical Rider flows. The Rider App group is responsible not only for the critical flows in the app but also the app platform and quality. We build and iterate on rider facing products that not only ensure a seamless experience for our riders, but also aim to build and deepen Rider-Lyft relationships. As an experienced app developer you will be solving complex problems, delivering significant impact and ensuring excellence for the Rider Android team. This means excellent development practices, scalable and reliable code architecture, and safe, rapid releases. You will not only influence the architecture, platform, processes but also influence the culture and coach, guide engineers across the group.&nbsp; Responsibilities: Work across our product teams to design, build, and release exciting features and products in the Lyft Rider application, used by millions of people every day Define long term roadmap and architecture based on technology and our needs Oversee major changes to our Android architecture Work with Product Managers, Designers, and other Engineers to deliver best in class user experience and collaborate closely with local and global colleagues Continuously discover, evaluate and implement new technologies to maximize developer efficiency Mentor and support other developers on your team with code reviews, design feedback, and advice and guidance Solve complex real-time data transfer and synchronization issues Implement pixel perfect designs with advanced interactions, which are a joy to use Experience: 6+ years of experience as an Android developer Experience with leading a technical team is a bonus Advanced knowledge of Java and Kotlin Familiarity with RxJava Very knowledgeable about architecture and design patterns Worked on and shipped large scale Android applications Great product sense; you care about usability and good design Has worked collaboratively with product managers, designers, and other engineering teams to build complex products Benefits: Great medical, dental, and vision insurance options Mental health benefits Family building benefits In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly te",
-          "ats": "greenhouse",
-          "posted_at": "2026-08-26T16:51:51-04:00",
-          "match": 88,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "java",
-              "scale"
-            ],
-            "missing": [
-              "rxjava"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 10.5 / 12.0 = 88%"
-          }
-        }
-      ],
-      "perm_count": 460,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
       "company": "Roblox Corporation",
       "jobs": [
         {
@@ -1156,7 +1194,7 @@
           "url": "https://careers.roblox.com/jobs/7528070?gh_jid=7528070",
           "jd": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences\u2013 all created by our global community of developers and creators.&nbsp; At Roblox, we\u2019re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We\u2019re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.&nbsp; A career at Roblox means you\u2019ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone. You Have: Experience:&nbsp; You have 5+ years of experience delivering projects that include complex user workflows.&nbsp; Domain Knowledge: You have Android and C++ expertise You are highly skilled at performance tuning, and debugging and fixing production problems. Domain Knowledge: You have some&nbsp; iOS, and Windows experience. You love to pick up new technologies as the landscape evolves. Versatility: You can adapt to any situation when the need arises and come up with the right solution. A keen interest in developing audio expertise and knowledge, professional audio experience is not required. Creativity: You take a creative and strategic approach to solving hard problems. Bringing real-time interactivity to build an immersive 3D world should get you thinking about many problems to solve\u2026 and make you excited as a result. Professionalism: You take pride in delivering a high quality product and user experience. Skills: C++ programming Experience designing refining and tuning algorithms Troubleshooting bugs and performance issues Background: You have a BS in a STEM related field or equivalent experience. Bonus: Console programming experience (PlayStation, Xbox, etc.) Bonus: Systems-level Bluetooth experience Bonus: Experience working on a product that\u2019s used at a massive scale (millions of DAUs) Bonus: Server experience or experience designing/interacting with server APIs Bonus: Experience with neighboring domains like Computer Graphics or Physics You Will: Develop new functionality, pipelines, and workflows, and enhance existing ones. Help implement our next generation real time immersive audio simulation platform. Adapt performance for the best quality on all platforms from",
           "ats": "greenhouse",
-          "posted_at": "2026-08-27T14:46:33-04:00",
+          "posted_at": "2026-08-28T14:45:52-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
