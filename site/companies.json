@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T19:24:43.194814Z",
+  "generated_at": "2026-09-01T17:11:15.111873Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 13,
+    "hiring": 14,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 40
+    "open_roles": 41
   },
   "companies": [
     {
@@ -101,6 +101,28 @@
       "jobs": [
         {
           "title": "Software Engineer II, Android",
+          "location": "Toronto, ON, CA",
+          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
+          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users Partner with design, product, and backend teams to build end to end functionality Put on your Pinner hat to suggest new product ideas and features Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features y",
+          "ats": "greenhouse",
+          "posted_at": "2026-07-28T16:24:14-04:00",
+          "match": 79,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "ai"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.5 / 7.0 = 79%"
+          }
+        },
+        {
+          "title": "Software Engineer II, Android",
           "location": "San Francisco, CA, US; Remote, US",
           "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4916795",
           "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our [Platform / Product] engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. &nbsp; What you\u2019ll do:&nbsp; Contribute to and lead each step of the product development process, from ideation to implementation &nbsp; to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support all Pinners Support millions of users and enable colleagues by ensuring excellence in core pieces that are shared throughout the application Drive changes that improve the entire app such as modularization, implementing image/video loading, RTL text, dependency injection, and reusable UI components Grow as an engineer by working with world-class peers on varied and high",
@@ -121,28 +143,6 @@
             "penalties": [],
             "bonuses": [],
             "calc": "Skill match: 7.5 / 10.0 = 75%"
-          }
-        },
-        {
-          "title": "Software Engineer II, Android",
-          "location": "Toronto, ON, CA",
-          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
-          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users Partner with design, product, and backend teams to build end to end functionality Put on your Pinner hat to suggest new product ideas and features Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features y",
-          "ats": "greenhouse",
-          "posted_at": "2026-07-28T16:24:14-04:00",
-          "match": 79,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "ai"
-            ],
-            "missing": [
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.5 / 7.0 = 79%"
           }
         },
         {
@@ -309,7 +309,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-08-31T08:18:40-04:00",
+          "posted_at": "2026-09-01T08:09:41-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -644,9 +644,9 @@
         },
         {
           "title": "Senior Android Engineer, Wallet",
-          "location": "Toronto, Canada",
-          "url": "https://boards.greenhouse.io/robinhood/jobs/8084381?t=gh_src=&gh_jid=8084381",
-          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Robinhood Wallet team\u2019s mission is to democratize access to financial services worldwide by leveraging DeFi protocols and Robinhood Chain! We build secure, intuitive, and decentralized products that enable our users to custody and manage their digital assets. Our team works at the intersection of traditional finance and web3, driving progress in cryptocurrency and blockchain applications. We work closely with product managers, product designers, and backend engineers to deliver highly reliable, high-performance systems for customers worldwide. We pride ourselves on a culture of shared learning, high technical standards, and respectful collaboration. As a&nbsp; Senior Android Developer , you\u2019ll build and own new product features for the Robinhood Wallet Android app. You will develop reliable and secure solutions to deliver a high-quality trading experience for cryptocurrencies and tokenized stocks, including perpetual futures, to customers worldwide. In this role, you will take lead responsibility for designing scalable mobile architectures, defining code standards, and maintaining high-quality codebases. You will collaborate closely with client engineers, backend developers, product designers, and external blockchain partners to deliver secure technical integrations. Additionally, you will mentor other developers and raise our overall engineering standards through design reviews, architecture discussions, and hands-on technical leadership. This role is based in our Toronto, ON office(s), with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen co",
+          "location": "Menlo Park, CA; New York, NY",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8084379?t=gh_src=&gh_jid=8084379",
+          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Robinhood Wallet team\u2019s mission is to democratize access to financial services worldwide by leveraging DeFi protocols and Robinhood Chain! We build secure, intuitive, and decentralized products that enable our users to custody and manage their digital assets. Our team works at the intersection of traditional finance and web3, driving progress in cryptocurrency and blockchain applications. We work closely with product managers, product designers, and backend engineers to deliver highly reliable, high-performance systems for customers worldwide. We pride ourselves on a culture of shared learning, high technical standards, and respectful collaboration. As a&nbsp; Senior Android Engineer , you\u2019ll build and own new product features for the Robinhood Wallet Android app. You will develop reliable and secure solutions to deliver a high-quality trading experience for cryptocurrencies and tokenized stocks, including perpetual futures, to customers worldwide. In this role, you will take lead responsibility for designing scalable mobile architectures, defining code standards, and maintaining high-quality codebases. You will collaborate closely with client engineers, backend developers, product designers, and external blockchain partners to deliver secure technical integrations. Additionally, you will mentor other developers and raise our overall engineering standards through design reviews, architecture discussions, and hands-on technical leadership. This role is based in our Menlo Park, CA or New York, NY office(s), with in-person attendance expected at least 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation",
           "ats": "greenhouse",
           "posted_at": "2026-08-25T14:36:41-04:00",
           "match": 100,
@@ -663,9 +663,9 @@
         },
         {
           "title": "Senior Android Engineer, Wallet",
-          "location": "Menlo Park, CA; New York, NY",
-          "url": "https://boards.greenhouse.io/robinhood/jobs/8084379?t=gh_src=&gh_jid=8084379",
-          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Robinhood Wallet team\u2019s mission is to democratize access to financial services worldwide by leveraging DeFi protocols and Robinhood Chain! We build secure, intuitive, and decentralized products that enable our users to custody and manage their digital assets. Our team works at the intersection of traditional finance and web3, driving progress in cryptocurrency and blockchain applications. We work closely with product managers, product designers, and backend engineers to deliver highly reliable, high-performance systems for customers worldwide. We pride ourselves on a culture of shared learning, high technical standards, and respectful collaboration. As a&nbsp; Senior Android Engineer , you\u2019ll build and own new product features for the Robinhood Wallet Android app. You will develop reliable and secure solutions to deliver a high-quality trading experience for cryptocurrencies and tokenized stocks, including perpetual futures, to customers worldwide. In this role, you will take lead responsibility for designing scalable mobile architectures, defining code standards, and maintaining high-quality codebases. You will collaborate closely with client engineers, backend developers, product designers, and external blockchain partners to deliver secure technical integrations. Additionally, you will mentor other developers and raise our overall engineering standards through design reviews, architecture discussions, and hands-on technical leadership. This role is based in our Menlo Park, CA or New York, NY office(s), with in-person attendance expected at least 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation",
+          "location": "Toronto, Canada",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8084381?t=gh_src=&gh_jid=8084381",
+          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Robinhood Wallet team\u2019s mission is to democratize access to financial services worldwide by leveraging DeFi protocols and Robinhood Chain! We build secure, intuitive, and decentralized products that enable our users to custody and manage their digital assets. Our team works at the intersection of traditional finance and web3, driving progress in cryptocurrency and blockchain applications. We work closely with product managers, product designers, and backend engineers to deliver highly reliable, high-performance systems for customers worldwide. We pride ourselves on a culture of shared learning, high technical standards, and respectful collaboration. As a&nbsp; Senior Android Developer , you\u2019ll build and own new product features for the Robinhood Wallet Android app. You will develop reliable and secure solutions to deliver a high-quality trading experience for cryptocurrencies and tokenized stocks, including perpetual futures, to customers worldwide. In this role, you will take lead responsibility for designing scalable mobile architectures, defining code standards, and maintaining high-quality codebases. You will collaborate closely with client engineers, backend developers, product designers, and external blockchain partners to deliver secure technical integrations. Additionally, you will mentor other developers and raise our overall engineering standards through design reviews, architecture discussions, and hands-on technical leadership. This role is based in our Toronto, ON office(s), with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen co",
           "ats": "greenhouse",
           "posted_at": "2026-08-25T14:36:41-04:00",
           "match": 100,
@@ -1038,11 +1038,11 @@
       "jobs": [
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "New York, NY, United States of America",
-          "url": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
+          "location": "Bay Area, CA, United States of America",
+          "url": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
-          "posted_at": "2026-08-03T14:30:09-04:00",
+          "posted_at": "2026-08-26T15:55:59-04:00",
           "match": 82,
           "match_reasons": {
             "matched": [
@@ -1059,11 +1059,11 @@
         },
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "Bay Area, CA, United States of America",
-          "url": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
+          "location": "New York, NY, United States of America",
+          "url": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
-          "posted_at": "2026-08-26T15:55:59-04:00",
+          "posted_at": "2026-08-03T14:30:09-04:00",
           "match": 82,
           "match_reasons": {
             "matched": [
@@ -1091,11 +1091,11 @@
       "jobs": [
         {
           "title": "Senior Android Engineer II, Digital Twin Platform",
-          "location": "United States - Remote",
-          "url": "https://instacart.careers/job/?gh_jid=8147298",
+          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+          "url": "https://instacart.careers/job/?gh_jid=8147300",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Digital Twin Platform team at Instacart is on a mission to understand exactly what is on store shelves at any given moment. Inventory intelligence is foundational to some of Instacart's most critical products \u2014 from search and logistics to enterprise AI solutions for grocers of all sizes. Our team owns the end-to-end data supply chain, spanning ingestion and integration of partner data sources, collection of in-store inventory observations, model development, serving, and product integrations across the Instacart ecosystem. We're a growing team sitting at the intersection of physical retail and cutting-edge technology, working closely with Caper, Inventory Intelligence, and Fulfillment to bring real-time shelf intelligence to life. If you're curious about what that looks like in practice, you can read more about our work here: Instacart Enterprise AI Solutions for Grocers Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence We're looking for a Senior Android Engineer to help us build the next generation of Android-native applications that power our store view and Connected Stores programs. This is a net new role on a team that is scaling fast \u2014 you'll have real ownership, work on complex and novel technical problems, and see your work directly shape how grocers and shoppers experience Instacart technology in the physical world. ",
           "ats": "greenhouse",
-          "posted_at": "2026-08-24T14:03:40-04:00",
+          "posted_at": "2026-08-24T14:03:48-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -1110,11 +1110,11 @@
         },
         {
           "title": "Senior Android Engineer II, Digital Twin Platform",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "url": "https://instacart.careers/job/?gh_jid=8147300",
+          "location": "United States - Remote",
+          "url": "https://instacart.careers/job/?gh_jid=8147298",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Digital Twin Platform team at Instacart is on a mission to understand exactly what is on store shelves at any given moment. Inventory intelligence is foundational to some of Instacart's most critical products \u2014 from search and logistics to enterprise AI solutions for grocers of all sizes. Our team owns the end-to-end data supply chain, spanning ingestion and integration of partner data sources, collection of in-store inventory observations, model development, serving, and product integrations across the Instacart ecosystem. We're a growing team sitting at the intersection of physical retail and cutting-edge technology, working closely with Caper, Inventory Intelligence, and Fulfillment to bring real-time shelf intelligence to life. If you're curious about what that looks like in practice, you can read more about our work here: Instacart Enterprise AI Solutions for Grocers Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence We're looking for a Senior Android Engineer to help us build the next generation of Android-native applications that power our store view and Connected Stores programs. This is a net new role on a team that is scaling fast \u2014 you'll have real ownership, work on complex and novel technical problems, and see your work directly shape how grocers and shoppers experience Instacart technology in the physical world. ",
           "ats": "greenhouse",
-          "posted_at": "2026-08-24T14:03:48-04:00",
+          "posted_at": "2026-08-24T14:03:40-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -1144,7 +1144,7 @@
           "url": "https://careers.roblox.com/jobs/7528070?gh_jid=7528070",
           "jd": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences\u2013 all created by our global community of developers and creators.&nbsp; At Roblox, we\u2019re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We\u2019re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.&nbsp; A career at Roblox means you\u2019ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone. You Have: Experience:&nbsp; You have 5+ years of experience delivering projects that include complex user workflows.&nbsp; Domain Knowledge: You have Android and C++ expertise You are highly skilled at performance tuning, and debugging and fixing production problems. Domain Knowledge: You have some&nbsp; iOS, and Windows experience. You love to pick up new technologies as the landscape evolves. Versatility: You can adapt to any situation when the need arises and come up with the right solution. A keen interest in developing audio expertise and knowledge, professional audio experience is not required. Creativity: You take a creative and strategic approach to solving hard problems. Bringing real-time interactivity to build an immersive 3D world should get you thinking about many problems to solve\u2026 and make you excited as a result. Professionalism: You take pride in delivering a high quality product and user experience. Skills: C++ programming Experience designing refining and tuning algorithms Troubleshooting bugs and performance issues Background: You have a BS in a STEM related field or equivalent experience. Bonus: Console programming experience (PlayStation, Xbox, etc.) Bonus: Systems-level Bluetooth experience Bonus: Experience working on a product that\u2019s used at a massive scale (millions of DAUs) Bonus: Server experience or experience designing/interacting with server APIs Bonus: Experience with neighboring domains like Computer Graphics or Physics You Will: Develop new functionality, pipelines, and workflows, and enhance existing ones. Help implement our next generation real time immersive audio simulation platform. Adapt performance for the best quality on all platforms from",
           "ats": "greenhouse",
-          "posted_at": "2026-08-31T14:44:24-04:00",
+          "posted_at": "2026-09-01T02:42:41-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -1160,6 +1160,40 @@
         }
       ],
       "perm_count": 160,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Pure Storage",
+      "jobs": [
+        {
+          "title": "Sr. Java/Kotlin Software Engineer, Everpure Resilience",
+          "location": "Prague, Czech Republic",
+          "url": "https://job-boards.greenhouse.io/purestorage/jobs/8170335",
+          "jd": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of work\u2014work that changes the world\u2014is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us. THE ROLE This role is for an individual contributor joining one of our five Everpure Resilience engineering teams within the Data &amp; Digital Experience (DDX) organization. The product has been running for 3 years and operates like a startup within DDX. The teams are primarily composed of senior-level engineers who take full ownership of their workstreams - from early requirements definition (in close collaboration with Product Managers) to final delivery. Strong communication and collaboration skills are essential, as engineers work autonomously in a highly cross-functional environment. WHAT YOU'LL DO Architect &amp; Deliver: Own the end-to-end design, development, and operation of high-throughput data processing services between edge devices and the Everpure cloud platform. Product Collaboration: Partner with Product Managers to translate complex requirements into scalable, resilient system architecture from concept to production. Performance &amp; Scale: Drive continuous system improvements\u2014experimenting with new tech to boost performance, security, and cost-efficiency for real-time data flows. Ship Fast &amp; Safely: Utilize pragmatic testing, robust CI/CD, and automation to maintain high deployment velocity without sacrificing stability. System Integration: Lead the resolution of complex interoperability challenges between new and legacy components to ensure high availability across all regions. WHAT YOU BRING Distributed Systems: Proven track record of architecting, building, and testing components within large-scale distributed environments. Backend Expertise: Proficiency in Java or Kotlin with a focus on writing high-performance, secure, and maintainable code. Core Fundamentals: Strong understanding of distributed systems principles, Linux environments, and basic networking. Cloud &amp; Containers: Hands-on experience with major cloud platforms (AWS, Azure, or GCP) and Kubernetes. Team Mindset: Collabor",
+          "ats": "greenhouse",
+          "posted_at": "2026-09-01T09:43:12-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "kotlin",
+              "java",
+              "ci/cd",
+              "scale",
+              "performance",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 9.5 / 9.5 = 100%"
+          }
+        }
+      ],
+      "perm_count": 90,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1930,16 +1964,6 @@
       "company": "Chime",
       "jobs": [],
       "perm_count": 100,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Pure Storage",
-      "jobs": [],
-      "perm_count": 90,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
