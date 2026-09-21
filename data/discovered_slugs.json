@@ -31,11 +31,6 @@
       "slug": "lyft"
     },
     {
-      "company": "Coinbase Inc",
-      "ats": "greenhouse",
-      "slug": "coinbase"
-    },
-    {
       "company": "Databricks Inc",
       "ats": "greenhouse",
       "slug": "databricks"
@@ -191,9 +186,9 @@
       "slug": "palantir"
     },
     {
-      "company": "Anduril Industries",
+      "company": "SpaceX",
       "ats": "greenhouse",
-      "slug": "andurilindustries"
+      "slug": "spacex"
     },
     {
       "company": "Anthropic",
