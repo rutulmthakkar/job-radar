@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T17:45:29.154235Z",
+  "generated_at": "2026-09-25T17:47:49.681559Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 12,
+    "hiring": 13,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 35
+    "open_roles": 36
   },
   "companies": [
     {
@@ -253,7 +253,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-09-24T08:23:24-04:00",
+          "posted_at": "2026-09-25T08:16:17-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -485,7 +485,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. Robinhood has been tapped as the brokerage and initial trustee for Trump Accounts, and is working alongside BNY and The U.S. Department of Treasury to develop and operate the program, which aims to expand market access for the next generation of Americans. In this role, you will help build a world-class, intuitive platform, leveraging Robinhood\u2019s industry-leading financial technology to deliver a standalone web and app experience for this historic national initiative. The Government Products team focuses on building and scaling systems that support long-term investing and account management for millions of customers. This team works closely with product, data, and infrastructure partners to deliver reliable, secure, and intuitive experiences. You will help shape systems that enable customers to plan for their financial future with confidence! As an Android Engineer on the Government Products team, you\u2019ll help build mobile experiences for a historic initiative designed to expand market access for the next generation of Americans. You\u2019ll ship intuitive, secure, and scalable features that make long-term investing and account management feel simple and accessible, while partnering with a high-performing team tackling some of the biggest challenges in financial access. This role is based in our New York, NY office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you'll do Work with a fast-growing team to revolutionize finance at ",
           "ats": "greenhouse",
-          "posted_at": "2026-08-25T14:36:41-04:00",
+          "posted_at": "2026-09-25T13:03:21-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -503,7 +503,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role Our group is building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers &amp; sharp problem-solvers. Individuals who are wired to make an impact. Robinhood is where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. Robinhood\u2019s Money Experience team builds the customer-facing money movement experience in the app. The team owns core transfer flows and works across experiences like deposits, withdrawals, recurring deposits, transfer history, post-transfer pages, incoming wires, and guided transfer flows, including launches such as the net worth tracker. As a Android Engineer on the Money Experience team, you would build and improve Android experiences that help customers move money into, out of, and between Robinhood accounts. You would contribute to features like account selection, transfer validation, deposit and withdrawal flows, post-transfer experiences, and the migration to newer guided transfer flows, working as part of a mobile team that includes multiple Android and iOS engineers. These teams are based in our Menlo Park, CA office, with in-person attendance expected at least 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you'll do Work with a fast-growing team to revolutionize finance at speed and scale Build smooth, stable, and elegant products with Kotlin and the newest Android APIs Own features from inception to design, implementation, and launch Work cross-functionally with Product Designers, Product Managers, Backend Developers, and Data team Work with Kotlin, Android SDK &amp; Jetpack Compose, MVVM, Coroutines &amp; Flow (preferred) OR RxJava, and Retrofit &amp; Room What you bring 3+ years of professional Android development experience building consumer Android applications at scale",
           "ats": "greenhouse",
-          "posted_at": "2026-09-12T01:47:40-04:00",
+          "posted_at": "2026-09-25T13:03:21-04:00",
           "match": 88,
           "match_reasons": {
             "matched": [
@@ -534,7 +534,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/8202874?t=gh_src=&gh_jid=8202874",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role Our group is building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers and sharp problem-solvers who are wired to make an impact. Robinhood is where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. Robinhood Social is building the first place active traders check: a network where every trade is real, backed by a real track record, so conviction is built on proof instead of hype. Since launching in 2026, the team has proven the feed is worth opening. Now the focus is on the harder problem of helping traders form real relationships around symbols, real-time market moments, and creators worth following. It\u2019s a high-leverage, fast-moving product bet with a direct line to Robinhood-wide engagement. Our team is full-stack, spanning backend, mobile, and web engineers, and we work closely together across the stack to ship end-to-end features rather than working in silos. As an Android Engineer on the Social team, you would build and improve Android experiences that help customers engage with investing in more social, creator-driven, and content-rich ways. You would contribute to features across feed and sharing experiences, onboarding flows, and creator-facing surfaces, partnering closely with backend, web, product, design, and data counterparts to ship end-to-end experiences. This role follows the Gen Eng Android foundation, with an emphasis on Kotlin, Jetpack Compose, Android architecture components, Gradle, and strong product-facing engineering fundamentals. These teams are based in our&nbsp; New York &nbsp;office, with in-person attendance expected at least&nbsp; 3 days per week . At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you'll do Work with a fast-growing team to revolutionize finance at speed and scale Build",
           "ats": "greenhouse",
-          "posted_at": "2026-09-14T17:51:35-04:00",
+          "posted_at": "2026-09-25T13:03:21-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -557,7 +557,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/8100160?t=gh_src=&gh_jid=8100160",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. &nbsp; About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. The Crypto expansion team is building Robinhood products for new regions, extending crypto and adjacent financial experiences to customers around the world. The team owns all critical parts of the app across onboarding, funding, account setup, trading product integrations, and platform capabilities required to operate in new jurisdictions. This team sits at the intersection of building an internationalization platform and region specific product execution, to help Robinhood be successful in new markets. Recent work in expansion effort has included Canada, Europe launches with multi-currency wallet capabilities, local funding rails, translations infrastructure, and new onboarding experiences for each region As a Senior Android Engineer on the Crypto Expansions team, you\u2019ll help launch Robinhood\u2019s crypto and adjacent financial products in new regions by building critical Android experiences end to end. You\u2019ll work across onboarding, local funding rails, account setup, multi-currency wallet capabilities, trading surfaces, and translations infrastructure, balancing region-specific execution with long-term platform thinking. You\u2019ll play a key role in delivering reliable, intuitive mobile experiences that make Robinhood successful in global markets. This role is based in our Menlo Park,",
           "ats": "greenhouse",
-          "posted_at": "2026-08-25T14:36:41-04:00",
+          "posted_at": "2026-09-25T13:03:21-04:00",
           "match": 77,
           "match_reasons": {
             "matched": [
@@ -578,7 +578,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/8049885?t=gh_src=&gh_jid=8049885",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. Join us in building the future of finance. Our mission is to democratize finance for all.&nbsp; An estimated $124 trillion of assets &nbsp;will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. Robinhood\u2019s iRAD team builds and scales investing experiences across areas like Retirement, Advisory, Recurring Investments, and Recommendations. The team works across both foundational and customer-facing surfaces, including onboarding flows, settings, deeplinks, and other shared product experiences. As a Senior Android Engineer on iRAD , you would build and evolve high-impact mobile experiences across these investing journeys, helping shape how customers discover, open, manage, and grow their accounts on Robinhood. You would lead complex Android work end to end across shared product surfaces and onboarding flows, partner closely with product, design, and backend teams, and make thoughtful technical decisions in areas where safety, scalability, and cross-team compatibility matter. This role is based in our New York City, NY or Menlo Park, CA office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in th",
           "ats": "greenhouse",
-          "posted_at": "2026-08-25T14:36:41-04:00",
+          "posted_at": "2026-09-25T13:03:21-04:00",
           "match": 77,
           "match_reasons": {
             "matched": [
@@ -599,7 +599,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/8049809?t=gh_src=&gh_jid=8049809",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. Robinhood\u2019s Trading Products team builds and evolves the customer-facing stock trading experience within Brokerage Engineering, owning key parts of the equities product surface. The team works across core order flows, trading state updates, and frontend product experiences to help customers research, place, and manage trades with reliability at scale. As a Senior Android Engineer on this team, you would lead the development of high-impact mobile experiences that sit at the center of the trading journey. We\u2019re looking for someone who can drive complex Android work end to end, partner closely across functions, and bring the technical depth and product judgment to flex into staff-level scope for the right candidate. This role is based in our Menlo Park, CA or New York City, NY office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you\u2019ll do Build intuitive, elegant, and stable mobile experiences using Kotlin, Jetpack Compose, and modern Android APIs Lead the full lifecycle of product features \u2014 from ideation and technical design to implementation, t",
           "ats": "greenhouse",
-          "posted_at": "2026-08-25T14:36:41-04:00",
+          "posted_at": "2026-09-25T13:03:21-04:00",
           "match": 87,
           "match_reasons": {
             "matched": [
@@ -625,7 +625,7 @@
           "url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. The Trading Products team creates the experiences that bring Robinhood\u2019s trading ecosystem to life for customers every day. Team Experience is responsible for making those journeys feel fast, intuitive, and dependable\u2014so customers can engage with sophisticated trading products through simple, well-crafted mobile experiences. This role is based in our Menlo Park, CA office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you\u2019ll do Define and drive the technical direction for Android experiences across high-impact product areas, building intuitive, elegant, and reliable mobile systems using Kotlin, Jetpack Compose, and modern Android APIs. Lead complex, ambiguous initiatives end to end\u2014from early product and technical strategy through architecture, implementation, experimentation, launch, and long-term evolution. Partner closely with Product Managers, Designers, Backend Engineers, and Data Scientists to shape roadmaps, influence product decisions, and deliver solutions that create meaningful customer and business impact. Establish and uphold enginee",
           "ats": "greenhouse",
-          "posted_at": "2026-08-30T03:06:04-04:00",
+          "posted_at": "2026-09-25T13:03:21-04:00",
           "match": 91,
           "match_reasons": {
             "matched": [
@@ -818,11 +818,32 @@
       "jobs": [
         {
           "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+          "location": "Seattle, WA, United States of America",
+          "url": "http://block.xyz/careers/jobs/5431394008?gh_jid=5431394008",
+          "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
+          "ats": "greenhouse",
+          "posted_at": "2026-09-25T10:39:49-04:00",
+          "match": 82,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "ai"
+            ],
+            "missing": [
+              "consumer"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 4.5 / 5.5 = 82%"
+          }
+        },
+        {
+          "title": "Staff Android Software Engineer, Cash App Consumer Platform",
           "location": "New York, NY, United States of America",
           "url": "http://block.xyz/careers/jobs/5431399008?gh_jid=5431399008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
-          "posted_at": "2026-09-24T11:33:38-04:00",
+          "posted_at": "2026-09-25T10:39:49-04:00",
           "match": 82,
           "match_reasons": {
             "matched": [
@@ -843,28 +864,7 @@
           "url": "http://block.xyz/careers/jobs/5431400008?gh_jid=5431400008",
           "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
           "ats": "greenhouse",
-          "posted_at": "2026-09-24T11:33:38-04:00",
-          "match": 82,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "ai"
-            ],
-            "missing": [
-              "consumer"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 4.5 / 5.5 = 82%"
-          }
-        },
-        {
-          "title": "Staff Android Software Engineer, Cash App Consumer Platform",
-          "location": "Seattle, WA, United States of America",
-          "url": "http://block.xyz/careers/jobs/5431394008?gh_jid=5431394008",
-          "jd": "It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay/Clearpay, to provide a better way to send, spend, invest, borrow and save to our 50+ million monthly active customers. We want to redefine the world's relationship with money to make it more relatable, instantly available, and universally accessible. Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We've been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Team The Cash App Consumer Platform is responsible for laying the foundation that every Cash App engineer builds on. We own the shared systems, abstractions, and tooling that power product development across the app. We sit at the product platform layer, building on top of core systems enabling feature development. Our customers are the engineers and teams building Cash App's product experiences, and we measure our success by their velocity and quality. As AI fundamentally reshapes software engineering, Cash\u2019s Consumer Platform is uniquely positioned to define what AI-native development looks like at Cash App and Block, both by building AI-powered capabilities into our platform and by establishing the practices that help hundreds of engineers leverage AI effectively every day. The Job As a Staff Android Engineer on Cash App Consumer Platform, you are a multiplier for the entire client engineering discipline. You think in systems. You spot problems before they have names. You create platforms and patterns that make the right thing easy and the wrong thing hard. You operate at an organizational scope. Your work shapes how hundreds of Builders build and how millions of customers experience Cash App. You don't wait to be handed a problem - you identify what needs to exist, build the case for it, and lead the work to completion. You bring deep Android expertise and a genuine conviction that AI is a transformative force in how we build software, and you act accordingly. This role reports to the Cash App Product Platform Lead. You Will Build and Own the Android Platfor",
-          "ats": "greenhouse",
-          "posted_at": "2026-09-24T11:33:38-04:00",
+          "posted_at": "2026-09-25T10:39:49-04:00",
           "match": 82,
           "match_reasons": {
             "matched": [
@@ -1061,6 +1061,41 @@
         }
       ],
       "perm_count": 90,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Gusto Inc",
+      "jobs": [
+        {
+          "title": "Staff Product Mobile Engineer, Business Money",
+          "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+          "url": "https://job-boards.greenhouse.io/gusto/jobs/8192093",
+          "jd": "&nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process. About the Role: As a Staff Product Mobile Engineer, you will play a key role in architecting and building user-facing mobile experiences that evolve Gusto\u2019s personal finance platform. Operating across native iOS and Android environments , you will leverage modern declarative frameworks (SwiftUI and Jetpack Compose), a shared GraphQL API layer, and AI-native workflows to deliver seamless end-to-end features. Your work will focus on improving financial tools for everyday employees, helping them reduce financial stress, build healthy money habits, and gain greater control over their paychecks. You will collaborate with a talented cross-functional team, contributing technical leadership throughout the product development lifecycle\u2014from ideation and architecture to release and long-term scaling. About the Team: The Consumer Money team is on a mission to help employees achieve financial peace of mind by bridging employment and personal finances. The team's product suite gives workers complete control over their money\u2014including on-demand pay, high-yield cash accounts, and automated savings\u2014all anchored to the paycheck relationship Gusto uniquely powers. Operating as one of the fastest-growing engines within Gusto Money, the team builds at a fast, startup-like pace. Beyond scaling core worker-facing products, the team is actively incubating 0-to-1 foundational technologies to power Gusto\u2019s broader financial platform vision. Handling people\u2019s livelihoods in a regulated banking space requires combining rapid innovation with deep technical rigor, system reliabi",
+          "ats": "greenhouse",
+          "posted_at": "2026-09-25T13:39:41-04:00",
+          "match": 85,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "jetpack compose",
+              "compose",
+              "ai"
+            ],
+            "missing": [
+              "lifecycle",
+              "consumer"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 11.5 / 13.5 = 85%"
+          }
+        }
+      ],
+      "perm_count": 80,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1889,16 +1924,6 @@
     },
     {
       "company": "Carvana",
-      "jobs": [],
-      "perm_count": 80,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Gusto Inc",
       "jobs": [],
       "perm_count": 80,
       "fy": "2024",
