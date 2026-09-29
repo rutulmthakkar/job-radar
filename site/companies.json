@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:00:17.880345Z",
+  "generated_at": "2026-09-29T18:28:22.562151Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 32
+    "open_roles": 34
   },
   "companies": [
     {
@@ -141,10 +141,10 @@
         {
           "title": "Android BSP Engineer",
           "location": "Taipei, Taiwan",
-          "url": "https://stripe.com/jobs/search?gh_jid=8074125",
+          "url": "https://stripe.com/jobs/search?gh_jid=8239006",
           "jd": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career.&nbsp; About the team Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team\u2019s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model\u2014whether it\u2019s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.&nbsp; What we are looking for: As an Android BSP Engineer, you will be responsible for the kernel and driver level system development, which includes building, troubleshooting, and writing automated tests for the Android system on our embedded payments platforms. This team works closely with partner teams throughout the hardware and software product lifecycle, from hardware manufacturing to Android app teams. We also work with external vendors on part selection and initial hardware bring-up. What you\u2019ll do: Bring up new devices and lead debugging and performance tuning exercises that span multiple hardware/firmware/software teams. Design, implement, and maintain drivers and Android services that operate efficiently in a constrained environment and meet the reliability and security requirements of the industry. Own the definition of one or more work streams focused on hardware bring-up, peripheral drivers and communication, and power and performance management and optimization. Analyze bug reports and manage the defect resolution process (disposition issues, resolve issues, and report issue status). Interact with global teams with excellent communication skills to provide support information Routinely perform code reviews to ensure high quality designs and implementation Assist in ensuring quality and timeliness of product/feature development. Work closely with QA staff to ensure appropriate test cases are created, maintained, and executed. Proactively solve ",
           "ats": "greenhouse",
-          "posted_at": "2026-09-25T16:44:50-04:00",
+          "posted_at": "2026-09-29T01:26:45-04:00",
           "match": 83,
           "match_reasons": {
             "matched": [
@@ -230,7 +230,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-09-28T08:16:35-04:00",
+          "posted_at": "2026-09-29T08:21:45-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -723,6 +723,93 @@
       "avoid": false
     },
     {
+      "company": "Instacart",
+      "jobs": [
+        {
+          "title": "Senior Android Engineer II, Digital Twin Platform",
+          "location": "United States - Remote",
+          "url": "https://instacart.careers/job/?gh_jid=8147298",
+          "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Digital Twin Platform team at Instacart is on a mission to understand exactly what is on store shelves at any given moment. Inventory intelligence is foundational to some of Instacart's most critical products \u2014 from search and logistics to enterprise AI solutions for grocers of all sizes. Our team owns the end-to-end data supply chain, spanning ingestion and integration of partner data sources, collection of in-store inventory observations, model development, serving, and product integrations across the Instacart ecosystem. We're a growing team sitting at the intersection of physical retail and cutting-edge technology, working closely with Caper, Inventory Intelligence, and Fulfillment to bring real-time shelf intelligence to life. If you're curious about what that looks like in practice, you can read more about our work here: Instacart Enterprise AI Solutions for Grocers Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence We're looking for a Senior Android Engineer to help us build the next generation of Android-native applications that power our store view and Connected Stores programs. This is a net new role on a team that is scaling fast \u2014 you'll have real ownership, work on complex and novel technical problems, and see your work directly shape how grocers and shoppers experience Instacart technology in the physical world. ",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-24T14:03:40-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 4.5 / 4.5 = 100%"
+          }
+        },
+        {
+          "title": "Senior Android Engineer II, Digital Twin Platform",
+          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+          "url": "https://instacart.careers/job/?gh_jid=8147300",
+          "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Digital Twin Platform team at Instacart is on a mission to understand exactly what is on store shelves at any given moment. Inventory intelligence is foundational to some of Instacart's most critical products \u2014 from search and logistics to enterprise AI solutions for grocers of all sizes. Our team owns the end-to-end data supply chain, spanning ingestion and integration of partner data sources, collection of in-store inventory observations, model development, serving, and product integrations across the Instacart ecosystem. We're a growing team sitting at the intersection of physical retail and cutting-edge technology, working closely with Caper, Inventory Intelligence, and Fulfillment to bring real-time shelf intelligence to life. If you're curious about what that looks like in practice, you can read more about our work here: Instacart Enterprise AI Solutions for Grocers Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence We're looking for a Senior Android Engineer to help us build the next generation of Android-native applications that power our store view and Connected Stores programs. This is a net new role on a team that is scaling fast \u2014 you'll have real ownership, work on complex and novel technical problems, and see your work directly shape how grocers and shoppers experience Instacart technology in the physical world. ",
+          "ats": "greenhouse",
+          "posted_at": "2026-08-24T14:03:48-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 4.5 / 4.5 = 100%"
+          }
+        },
+        {
+          "title": "Staff Android Engineer, Pick & Deliver",
+          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+          "url": "https://instacart.careers/job/?gh_jid=8237987",
+          "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
+          "ats": "greenhouse",
+          "posted_at": "2026-09-29T12:54:22-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 5.0 = 100%"
+          }
+        },
+        {
+          "title": "Staff Android Engineer, Pick & Deliver",
+          "location": "United States - Remote",
+          "url": "https://instacart.careers/job/?gh_jid=8237985",
+          "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
+          "ats": "greenhouse",
+          "posted_at": "2026-09-29T12:54:20-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 5.0 = 100%"
+          }
+        }
+      ],
+      "perm_count": 170,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Lyft Inc",
       "jobs": [
         {
@@ -784,55 +871,6 @@
         }
       ],
       "perm_count": 460,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Instacart",
-      "jobs": [
-        {
-          "title": "Senior Android Engineer II, Digital Twin Platform",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "url": "https://instacart.careers/job/?gh_jid=8147300",
-          "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Digital Twin Platform team at Instacart is on a mission to understand exactly what is on store shelves at any given moment. Inventory intelligence is foundational to some of Instacart's most critical products \u2014 from search and logistics to enterprise AI solutions for grocers of all sizes. Our team owns the end-to-end data supply chain, spanning ingestion and integration of partner data sources, collection of in-store inventory observations, model development, serving, and product integrations across the Instacart ecosystem. We're a growing team sitting at the intersection of physical retail and cutting-edge technology, working closely with Caper, Inventory Intelligence, and Fulfillment to bring real-time shelf intelligence to life. If you're curious about what that looks like in practice, you can read more about our work here: Instacart Enterprise AI Solutions for Grocers Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence We're looking for a Senior Android Engineer to help us build the next generation of Android-native applications that power our store view and Connected Stores programs. This is a net new role on a team that is scaling fast \u2014 you'll have real ownership, work on complex and novel technical problems, and see your work directly shape how grocers and shoppers experience Instacart technology in the physical world. ",
-          "ats": "greenhouse",
-          "posted_at": "2026-08-24T14:03:48-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "ai"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 4.5 / 4.5 = 100%"
-          }
-        },
-        {
-          "title": "Senior Android Engineer II, Digital Twin Platform",
-          "location": "United States - Remote",
-          "url": "https://instacart.careers/job/?gh_jid=8147298",
-          "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview The Digital Twin Platform team at Instacart is on a mission to understand exactly what is on store shelves at any given moment. Inventory intelligence is foundational to some of Instacart's most critical products \u2014 from search and logistics to enterprise AI solutions for grocers of all sizes. Our team owns the end-to-end data supply chain, spanning ingestion and integration of partner data sources, collection of in-store inventory observations, model development, serving, and product integrations across the Instacart ecosystem. We're a growing team sitting at the intersection of physical retail and cutting-edge technology, working closely with Caper, Inventory Intelligence, and Fulfillment to bring real-time shelf intelligence to life. If you're curious about what that looks like in practice, you can read more about our work here: Instacart Enterprise AI Solutions for Grocers Instacart Acquires Arpalus to Advance Real-Time Shelf Intelligence We're looking for a Senior Android Engineer to help us build the next generation of Android-native applications that power our store view and Connected Stores programs. This is a net new role on a team that is scaling fast \u2014 you'll have real ownership, work on complex and novel technical problems, and see your work directly shape how grocers and shoppers experience Instacart technology in the physical world. ",
-          "ats": "greenhouse",
-          "posted_at": "2026-08-24T14:03:40-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "ai"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 4.5 / 4.5 = 100%"
-          }
-        }
-      ],
-      "perm_count": 170,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -979,7 +1017,7 @@
           "url": "https://job-boards.greenhouse.io/gusto/jobs/8192093",
           "jd": "&nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process. About the Role: As a Staff Product Mobile Engineer, you will play a key role in architecting and building user-facing mobile experiences that evolve Gusto\u2019s personal finance platform. Operating across native iOS and Android environments , you will leverage modern declarative frameworks (SwiftUI and Jetpack Compose), a shared GraphQL API layer, and AI-native workflows to deliver seamless end-to-end features. Your work will focus on improving financial tools for everyday employees, helping them reduce financial stress, build healthy money habits, and gain greater control over their paychecks. You will collaborate with a talented cross-functional team, contributing technical leadership throughout the product development lifecycle\u2014from ideation and architecture to release and long-term scaling. About the Team: The Consumer Money team is on a mission to help employees achieve financial peace of mind by bridging employment and personal finances. The team's product suite gives workers complete control over their money\u2014including on-demand pay, high-yield cash accounts, and automated savings\u2014all anchored to the paycheck relationship Gusto uniquely powers. Operating as one of the fastest-growing engines within Gusto Money, the team builds at a fast, startup-like pace. Beyond scaling core worker-facing products, the team is actively incubating 0-to-1 foundational technologies to power Gusto\u2019s broader financial platform vision. Handling people\u2019s livelihoods in a regulated banking space requires combining rapid innovation with deep technical rigor, system reliabi",
           "ats": "greenhouse",
-          "posted_at": "2026-09-25T13:39:41-04:00",
+          "posted_at": "2026-09-29T11:44:03-04:00",
           "match": 85,
           "match_reasons": {
             "matched": [
