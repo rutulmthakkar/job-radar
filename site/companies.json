@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-01T18:42:40.535758Z",
+  "generated_at": "2026-10-02T18:13:42.294979Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 13,
+    "hiring": 15,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 37
+    "open_roles": 39
   },
   "companies": [
     {
@@ -230,7 +230,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-10-01T08:08:29-04:00",
+          "posted_at": "2026-10-02T08:26:01-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -765,11 +765,11 @@
         },
         {
           "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "United States - Remote",
-          "url": "https://instacart.careers/job/?gh_jid=8237985",
+          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+          "url": "https://instacart.careers/job/?gh_jid=8237987",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
           "ats": "greenhouse",
-          "posted_at": "2026-09-29T12:54:20-04:00",
+          "posted_at": "2026-10-02T12:15:52-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -784,11 +784,11 @@
         },
         {
           "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "url": "https://instacart.careers/job/?gh_jid=8237987",
+          "location": "United States - Remote",
+          "url": "https://instacart.careers/job/?gh_jid=8237985",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
           "ats": "greenhouse",
-          "posted_at": "2026-09-29T12:54:22-04:00",
+          "posted_at": "2026-10-02T12:15:33-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -925,12 +925,12 @@
           }
         },
         {
-          "title": "Senior Software Engineer (Android VMs)",
+          "title": "Senior Software Engineer  (Android Platform VMs)",
           "location": "Bellevue, Washington, United States",
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249398007?gh_jid=5249398007",
           "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We're looking for a Senior Software Engineer to design, implement, and harden Android VMs running on crosvm and contribute to our platform security work. You'll work across the virtualization stack, from the VMM and guest kernel to secure boot and the platform security features that anchor them, to deliver production-quality, security-hardened Android VMs. You'll own hard problems end to end, collaborate with platform and security teams, and set the technical direction for how we run Android securely in a virtual machine. What You\u2019ll Do Design, build, and maintain Android VMs running on crosvm, including VMM configuration, device",
           "ats": "greenhouse",
-          "posted_at": "2026-10-01T13:02:52-04:00",
+          "posted_at": "2026-10-01T17:12:05-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -1016,6 +1016,36 @@
       "avoid": false
     },
     {
+      "company": "Airbnb Inc",
+      "jobs": [
+        {
+          "title": "Software Engineer, Passport & Commerce, Android",
+          "location": "Remote, USA",
+          "url": "https://careers.airbnb.com/positions/8247303?gh_jid=8247303",
+          "jd": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: Passport &amp; Commerce builds the trusted account and commerce foundation that lets anyone, anywhere, become part of the Airbnb community \u2014 from their first sign-up, through the profile and connections they build, to every booking, benefit, and business transaction along the way. We're a newly formed org within Guest &amp; Host that brings together identity and commerce foundations under one roof. Our mission is to move Airbnb beyond the transaction \u2014 building a world where accounts create trust, value sticks, and the benefits our community earns travel with them, and their businesses, wherever they go. You'll work closely with Payments and Wallet engineering, Identity &amp; Privacy, Profile &amp; Community, and Guest &amp; Host product, design, and data science partners as we stand up this team's roadmap and technical foundations. The Difference You Will Make: As a Software Engineer on the Android team within Passport &amp; Commerce, you will build the Android experiences that bring various account features to life for millions of guests and hosts. You'll own well-scoped features from technical design through launch, working closely with your backend, iOS, and design counterparts. Success in this role looks like shipping reliable, performant, and polished Android experiences that keep parity with our iOS and web surfaces, growing your ownership over time as the Android presence for this team expands, and becoming a dependable contributor the team can count on to deliver. A Typical Day: Design and build Android features using modern, declarative UI and unidirectional state architecture Partner with product and design to turn new concepts into polished, accessible Android experiences Collaborate with backend, iOS, and web engineers to keep feature behavior and data consistent across platforms Write clean, well-tested, maintainable code, and actively participate in code and design reviews Learn from and collaborate with senior engineers on the team, and contribute to shared Android patterns and best practices as the team scales Troubleshoot and resolve bugs, performance, an",
+          "ats": "greenhouse",
+          "posted_at": "2026-10-01T17:35:44-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "performance"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 5.0 = 100%"
+          }
+        }
+      ],
+      "perm_count": 580,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Spotify USA Inc",
       "jobs": [
         {
@@ -1042,6 +1072,37 @@
         }
       ],
       "perm_count": 170,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Notion Labs Inc",
+      "jobs": [
+        {
+          "title": "Software Engineer, Mobile Core (Android)",
+          "location": "San Francisco, California",
+          "url": "https://jobs.ashbyhq.com/notion/d82a0b31-59b8-4699-ae8d-6fb3fe47518c",
+          "jd": "Who We Are Notion is the collaborative AI workspace where teams and agents think together . We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion. Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn\u2019t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business\u2019s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life\u2019s work. About the Role Notion is building the operating system for knowledge work, and we want people to be able to do substantive knowledge work from their phone . A great native app is what makes that possible. On Android, that means Notion should feel like it was built for the platform: fast to open, smooth to scroll, and reliable offline or on a spotty connection. We\u2019re investing in a more native foundation for how people read, write, and edit in Notion. That lets users capture ideas in the moment, find answers across their workspace, manage tasks and projects, and work with teammates, with the speed, polish, and dependability people expect from the best apps on their phone. As an Android engineer, you\u2019ll help build that native foundation, from how pages render and how people write and edit, to the navigation and app chrome people use every day, like Home, Search, and Inbox, along with the shared frameworks the rest of the app is built on. You\u2019ll work across the Android stack, with chances to dig into our shared Rust layer and the AI tools we use for mobile development. Along the way, you\u2019ll pair with experienced product and mobile AI engineers to find what slows the team down, try new Android capabilities, and help decide what ships in the app. This role can be based in either San Francisco or New York City. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We\u2019re looking for someone who\u2019s excited to work alongside the team during those days. What You'll Achieve Ship the core Notion experience on Android: Build and polish the surfaces p",
+          "ats": "ashby",
+          "posted_at": "2026-10-01T18:43:46.346+00:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "navigation",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.5 / 5.5 = 100%"
+          }
+        }
+      ],
+      "perm_count": 120,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1291,16 +1352,6 @@
       "company": "Capital One Services LLC",
       "jobs": [],
       "perm_count": 700,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Airbnb Inc",
-      "jobs": [],
-      "perm_count": 580,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1811,16 +1862,6 @@
       "company": "Affirm Inc",
       "jobs": [],
       "perm_count": 130,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Notion Labs Inc",
-      "jobs": [],
-      "perm_count": 120,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
