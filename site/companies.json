@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:19:06.723148Z",
+  "generated_at": "2026-10-06T18:48:11.436298Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 39
+    "open_roles": 38
   },
   "companies": [
     {
@@ -126,6 +126,30 @@
             "bonuses": [],
             "calc": "Skill match: 5.5 / 7.5 = 73%"
           }
+        },
+        {
+          "title": "Android Engineer, Plugin Developer Platform",
+          "location": "San Francisco",
+          "url": "https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
+          "jd": "About the Team The Plugin Developer Platform team builds the APIs, SDKs, and tools that let people extend ChatGPT and Codex. We work on plugins, connectors, the Model Context Protocol (MCP), and interactive apps. We want anyone to be able to turn a useful workflow into a plugin, share it, and have other people use it. A plugin can package instructions and skills with connections to the tools and data it needs. Our work covers plugin creation and publishing, the systems that run plugins across our products, and open standards that developers can build on. About the Role We\u2019re looking for an experienced Android engineer to bring plugins, connectors, and interactive apps to life on mobile. You\u2019ll build the Android experiences and platform foundations that help developers extend ChatGPT and help users discover and use those capabilities from their devices. You\u2019ll work across native Android interfaces, developer-facing APIs, and the systems that support extensibility on mobile. You\u2019ll collaborate closely with product, design, and platform engineers, owning features from early exploration through implementation, launch, and iteration. You\u2019ll also engage directly with developers and partners to understand how their workflows translate to Android. Their experience will inform the interfaces and abstractions you build, the problems you prioritize, and the tradeoffs you make. This role is based in San Francisco. We use a hybrid work model of 3 days in the office per week and offer relocation assistance to new employees. In this role, you will: Build Android experiences for plugins, connectors, and interactive apps within ChatGPT. Develop reusable Android components and interfaces that support a growing ecosystem of developer-built experiences. Partner with platform engineers to connect native mobile experiences with APIs, SDKs, and backend systems. Work with developers and partners to identify integration challenges and improve the experience of building for mobile. Improve app performance, reliability, architecture, testing, and developer tooling. Own projects from initial requirements through release, measurement, and iteration. You might thrive in this role if you: Have deep experience building Android applications using Kotlin and modern Android development frameworks. Have shipped consumer-facing mobile products at scale and care deeply about performance, quality, and user experience. Bring a platform mindset and enjoy designing reusable interfaces and abstract",
+          "ats": "ashby",
+          "posted_at": "2026-10-05T22:54:02.157+00:00",
+          "match": 92,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "scale",
+              "performance",
+              "mcp"
+            ],
+            "missing": [
+              "consumer"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 11.0 / 12.0 = 92%"
+          }
         }
       ],
       "perm_count": 150,
@@ -230,7 +254,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-10-04T08:27:24-04:00",
+          "posted_at": "2026-10-06T13:20:28-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -818,7 +842,7 @@
           "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
           "jd": "At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. Lyft Urban Solutions powers the bike-sharing and scooter-sharing systems that move millions of people in over 60 cities worldwide. We built North America's first automated bike-share system and continue to lead the micromobility revolution. Our systems operate globally - from Citi Bike in New York to BIXI in Montreal, Divvy in Chicago, Capital Bikeshare in DC, and iconic systems in Austin, Barcelona, Bogota, Boston, Buenos Aires, Columbus, Detroit, Dubai, London, Madrid, Mexico City, Monaco, Pittsburgh, Portland, Rio de Janeiro, San Francisco, Toronto, and beyond. We're not just technology providers - we operate these systems, building the software, hardware, and operations that make urban micromobility work at scale. Ready to shape how millions of people move through their cities every day? We're looking for an Android Software Engineer to join the Rider Experience team within Lyft Urban Solutions. Your work will directly power the digital experiences behind our bike-share and scooter-share platforms. You'll build the backend systems that make membership programs, rider features, and real-time experiences feel seamless and fast. We're moving quickly on this hire; the team has ambitious goals for 2026 and needs strong engineers who are ready to ship. Our engineers are sharp, pragmatic problem-solvers who move fast and deploy to production continuously. Responsibilities: Engineering &amp; Delivery Design, develop, deploy, monitor, operate, and maintain elements of our Rider experience, owning components end to end Write reliable, performant, and maintainable code, with comprehensive test coverage Reduce technical debt and contribute to ongoing improvements in tooling and code structure Analyze internal systems and processes to identify opportunities for improvement and automation Participate in code reviews to uphold code quality and share knowledge across the team Produce technical specs, runbooks, and documentation covering requirements, security, and privacy Share knowledge and support team growth through onboarding materials, brown bags, tech talks, and engineering best practices Operations &amp; Quality Rotate on-call, monitoring deployed code for stability and performance, proactively fixing bugs, and keeping dashboards and alerts up to date Support and escalate production incidents as",
           "ats": "greenhouse",
-          "posted_at": "2026-09-04T14:04:34-04:00",
+          "posted_at": "2026-10-05T09:27:42-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -838,7 +862,7 @@
           "url": "https://app.careerpuck.com/job-board/lyft/job/8743515002?gh_jid=8743515002",
           "jd": "Chez Lyft, notre mission est de servir et de connecter. Nous nous effor\u00e7ons d'y parvenir en cultivant un environnement de travail inclusif o\u00f9 chaque membre de l'\u00e9quipe a sa place et peut s'\u00e9panouir. Lyft Urban Solutions g\u00e8re les syst\u00e8mes de v\u00e9los et de trottinettes en libre-service qui transportent des millions de personnes dans plus de 60 villes \u00e0 travers le monde. Nous avons cr\u00e9\u00e9 le premier syst\u00e8me de v\u00e9los en libre-service automatis\u00e9 d'Am\u00e9rique du Nord et restons \u00e0 la pointe de la r\u00e9volution de la micromobilit\u00e9. Nos syst\u00e8mes sont pr\u00e9sents partout dans le monde : de Citi Bike \u00e0 New York \u00e0 BIXI \u00e0 Montr\u00e9al, en passant par Divvy \u00e0 Chicago, Capital Bikeshare \u00e0 Washington D.C., et des syst\u00e8mes embl\u00e9matiques \u00e0 Austin, Barcelone, Bogota, Boston, Buenos Aires, Columbus, Detroit, Duba\u00ef, Londres, Madrid, Mexico, Monaco, Pittsburgh, Portland, Rio de Janeiro, San Francisco, Toronto et bien d'autres villes. Nous ne sommes pas de simples fournisseurs de technologies : nous exploitons ces syst\u00e8mes, en d\u00e9veloppant les logiciels, le mat\u00e9riel et les op\u00e9rations qui permettent \u00e0 la micromobilit\u00e9 urbaine de fonctionner \u00e0 grande \u00e9chelle. Envie de contribuer \u00e0 fa\u00e7onner le quotidien de millions de personnes dans leurs villes ? Nous recherchons un(e) ing\u00e9nieur(e) logiciel Android pour rejoindre l'\u00e9quipe Exp\u00e9rience utilisateur au sein de Lyft Urban Solutions. Votre travail contribuera directement \u00e0 l'exp\u00e9rience num\u00e9rique de nos plateformes de v\u00e9los et de trottinettes en libre-service. Vous d\u00e9velopperez les syst\u00e8mes backend qui garantissent une exp\u00e9rience fluide et rapide pour les programmes d'abonnement, les fonctionnalit\u00e9s destin\u00e9es aux utilisateurs et les interactions en temps r\u00e9el. Ce recrutement est urgent ; l'\u00e9quipe a des objectifs ambitieux pour 2026 et recherche des ing\u00e9nieurs comp\u00e9tents, op\u00e9rationnels imm\u00e9diatement. Nos ing\u00e9nieurs sont des personnes brillantes, pragmatiques et capables de r\u00e9soudre les probl\u00e8mes rapidement, assurant ainsi un d\u00e9ploiement continu en production. Responsabilit\u00e9s: Ing\u00e9nierie et livraison Concevoir, d\u00e9velopper, d\u00e9ployer, superviser, exploiter et maintenir les \u00e9l\u00e9ments de l'exp\u00e9rience utilisateur, en prenant en charge l'int\u00e9gralit\u00e9 du processus. \u00c9crire du code fiable, performant et maintenable, avec une couverture de tests compl\u00e8te. R\u00e9duire la dette technique et contribuer \u00e0 l'am\u00e9lioration continue des outils et de la structure du code. Analyser les syst\u00e8mes et processus internes afin d'identifier les opportunit\u00e9s d'am\u00e9lioration et d'automatisati",
           "ats": "greenhouse",
-          "posted_at": "2026-09-04T14:04:34-04:00",
+          "posted_at": "2026-10-05T09:27:42-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -871,80 +895,6 @@
         }
       ],
       "perm_count": 460,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Anduril Industries",
-      "jobs": [
-        {
-          "title": "Android Engineer ",
-          "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158239007?gh_jid=5158239007",
-          "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM The Air Dominance &amp; Strike team at Anduril develops aerial and multi-domain robotic systems. The team is responsible for taking products like Fury (unmanned fighter jet) and Barracuda (air-breathing cruise missile) from concept to product. The team also develops Lattice for Mission Autonomy, Anduril\u2019s premier software platform that enables masses of Fury, Barracuda, and other first and third party robots to collaborate across various missions. We work in close coordination with specialist teams like Perception, Motion Planning, Hardware, and Test Engineering to solve some of the hardest problems facing our customers. We are looking for software engineers and roboticists excited about creating a powerful autonomy software stack that includes computer vision, motion planning, SLAM, controls, estimation, and secure communications. ABOUT THE JOB We are looking for Android Engineers to join our team. As an Android Engineer at Anduril you will be architecting and building out user interface applications from backend to fron",
-          "ats": "greenhouse",
-          "posted_at": "2026-09-24T15:54:51-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "ai"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 4.5 / 4.5 = 100%"
-          }
-        },
-        {
-          "title": "Senior Software Engineer  (Android Apps - Flutter/Dart)",
-          "location": "Bellevue, Washington, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208357007?gh_jid=5208357007",
-          "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We are seeking a Senior Software Engineer to lead the development and optimization of a tactical edge client across Android mobile and Linux in-vehicle systems. In this role, you will own application performance on resource-constrained hardware, collaborate closely with product and platform teams, and mentor junior engineers REQUIRED QUALIFICATIONS Flutter/Dart: widget lifecycle, rebuild cost, platform channels, multi-platform builds Reactive state management: Riverpod, Redux, Rx, Combine; MVVM Performance: Flutter DevTools, systrace/perfetto, frame budgets, memory &amp; GPU analysis, startup time and battery management Android: ",
-          "ats": "greenhouse",
-          "posted_at": "2026-10-01T12:59:54-04:00",
-          "match": 84,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "mvvm",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle"
-            ],
-            "penalties": [
-              "JD requires flutter (not in resume, -5pts)"
-            ],
-            "bonuses": [],
-            "calc": "Skill match: 8.5 / 9.5 = 84%"
-          }
-        },
-        {
-          "title": "Senior Software Engineer  (Android Platform VMs)",
-          "location": "Bellevue, Washington, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249398007?gh_jid=5249398007",
-          "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We're looking for a Senior Software Engineer to design, implement, and harden Android VMs running on crosvm and contribute to our platform security work. You'll work across the virtualization stack, from the VMM and guest kernel to secure boot and the platform security features that anchor them, to deliver production-quality, security-hardened Android VMs. You'll own hard problems end to end, collaborate with platform and security teams, and set the technical direction for how we run Android securely in a virtual machine. What You\u2019ll Do Design, build, and maintain Android VMs running on crosvm, including VMM configuration, device",
-          "ats": "greenhouse",
-          "posted_at": "2026-10-01T17:12:05-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "ai"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 4.5 / 4.5 = 100%"
-          }
-        }
-      ],
-      "perm_count": 80,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1079,6 +1029,29 @@
       "avoid": false
     },
     {
+      "company": "Twilio Inc",
+      "jobs": [
+        {
+          "title": "Staff Mobile Engineer (P4)",
+          "location": "Remote - US",
+          "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
+          "jd": "Who we are&nbsp; At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp; Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp; . See yourself at Twilio Join the team as a Staff Mobile Engineer for Stytch, where you'll shape the next generation of identity and fraud prevention products. About the job As a Staff Mobile Engineer you will help scale Stytch\u2019s core identity and fraud products as we bring Stytch capabilities to Twilio\u2019s full customer base, delivering secure, developer-first identity and fraud prevention experiences. You\u2019ll build mobile SDK products that power authentication, fraud detection and prevention as well as emerging agentic identity use cases. You\u2019ll partner closely with product and engineering leadership to design and deliver high-impact customer-facing features, and evolve our platform for Twilio\u2019s scale. This is a rare chance to operate like a startup within Twilio: you\u2019ll work in a high-ownership environment with startup speed, backed by Twilio\u2019s reach and scale. Responsibilities Build and own the mobile SDKs for Stytch\u2019s identity and fraud detection platforms on Twilio\u2014go deep on device internals for complex signal collection to improve identification of bad actors and ship new SDK surfaces powering core authentication flows, including agenting and non-human identity use cases.&nbsp; Partner with Product and Engineering leadership to set direction, translate customer needs into product capabilities, and deliver high-impact roadmap features. Collaborate across Twilio and Stytch teams to align on architecture, integrate platform capabilities, and unblock cross-team ini",
+          "ats": "greenhouse",
+          "posted_at": "2026-10-06T14:47:48-04:00",
+          "match": 30,
+          "match_reasons": {
+            "note": "JD too sparse; generic fallback."
+          }
+        }
+      ],
+      "perm_count": 160,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Notion Labs Inc",
       "jobs": [
         {
@@ -1152,7 +1125,7 @@
           "url": "https://job-boards.greenhouse.io/gusto/jobs/8192093",
           "jd": "&nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process. About the Role: As a Staff Product Mobile Engineer, you will play a key role in architecting and building user-facing mobile experiences that evolve Gusto\u2019s personal finance platform. Operating across native iOS and Android environments , you will leverage modern declarative frameworks (SwiftUI and Jetpack Compose), a shared GraphQL API layer, and AI-native workflows to deliver seamless end-to-end features. Your work will focus on improving financial tools for everyday employees, helping them reduce financial stress, build healthy money habits, and gain greater control over their paychecks. You will collaborate with a talented cross-functional team, contributing technical leadership throughout the product development lifecycle\u2014from ideation and architecture to release and long-term scaling. About the Team: The Consumer Money team is on a mission to help employees achieve financial peace of mind by bridging employment and personal finances. The team's product suite gives workers complete control over their money\u2014including on-demand pay, high-yield cash accounts, and automated savings\u2014all anchored to the paycheck relationship Gusto uniquely powers. Operating as one of the fastest-growing engines within Gusto Money, the team builds at a fast, startup-like pace. Beyond scaling core worker-facing products, the team is actively incubating 0-to-1 foundational technologies to power Gusto\u2019s broader financial platform vision. Handling people\u2019s livelihoods in a regulated banking space requires combining rapid innovation with deep technical rigor, system reliabi",
           "ats": "greenhouse",
-          "posted_at": "2026-09-29T11:44:03-04:00",
+          "posted_at": "2026-10-05T13:22:28-04:00",
           "match": 85,
           "match_reasons": {
             "matched": [
@@ -1719,16 +1692,6 @@
       "avoid": false
     },
     {
-      "company": "Twilio Inc",
-      "jobs": [],
-      "perm_count": 160,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
       "company": "Roblox Corporation",
       "jobs": [],
       "perm_count": 160,
@@ -1990,6 +1953,16 @@
     },
     {
       "company": "Carvana",
+      "jobs": [],
+      "perm_count": 80,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Anduril Industries",
       "jobs": [],
       "perm_count": 80,
       "fy": "2024",
