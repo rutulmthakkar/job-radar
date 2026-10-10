@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:39:58.153813Z",
+  "generated_at": "2026-10-10T17:39:33.204252Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 36
+    "open_roles": 35
   },
   "companies": [
     {
@@ -281,7 +281,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-10-09T08:08:48-04:00",
+          "posted_at": "2026-10-10T08:07:48-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -744,26 +744,6 @@
             "bonuses": [],
             "calc": "Skill match: 6.5 / 6.5 = 100%"
           }
-        },
-        {
-          "title": "Senior Android Platform Engineer",
-          "location": "Sunnyvale",
-          "url": "https://jobs.ashbyhq.com/applied/0729bb29-4b52-48f5-9833-989608684c61",
-          "jd": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, mining and agriculture industries in three core areas: tools and infrastructure, operating systems, and autonomy. Eighteen of the top 20 global automakers, as well as the United States military and its allies, trust the company\u2019s solutions to deliver physical intelligence. Applied Intuition is headquartered in Sunnyvale, California, with offices in Washington, D.C.; San Diego; Ft. Walton Beach, Florida; Ann Arbor, Michigan; London; Stuttgart; Munich; Stockholm; Bangalore; Seoul; and Tokyo. Learn more at applied.co . We are an in-office company, and our expectation is that full-time employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home before heading to the office, or leaving earlier when needed to accommodate family commitments. This in-office expectation does not apply to contractor positions About the role Develop and maintain the Android/Android Automotive OS middleware systems from front-end to the Hardware Abstraction Layer. Work across our entire stack to develop new products, features, and tools. Design efficient and effective solutions to a wide range of engineering challenges. Ship complex software in fast-paced environments alongside domain experts across a variety of fields: infrastructure, automotive, and graphics engineers, as well as startup veterans. We're looking for someone who has: Must have at least a Bachelor\u2019s Degree in Computer Science, Software Engineering, or related, At least 2 years of experience in a software engineer role with a technology company At least 24 months of experience using C++, Java, Android, mobile memory management, vector databases, multithreading programming, and distributed object storage architectures #LI-DNP Don\u2019t meet every single requirement? If you\u2019re excited about this role but your past experience doesn\u2019t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles. ",
-          "ats": "ashby",
-          "posted_at": "2026-08-05T18:10:52.285+00:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "java",
-              "ai"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 6.0 / 6.0 = 100%"
-          }
         }
       ],
       "perm_count": 400,
@@ -827,11 +807,11 @@
       "jobs": [
         {
           "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "United States - Remote",
-          "url": "https://instacart.careers/job/?gh_jid=8237985",
+          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+          "url": "https://instacart.careers/job/?gh_jid=8237987",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
           "ats": "greenhouse",
-          "posted_at": "2026-10-02T12:15:33-04:00",
+          "posted_at": "2026-10-02T12:15:52-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -846,11 +826,11 @@
         },
         {
           "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "url": "https://instacart.careers/job/?gh_jid=8237987",
+          "location": "United States - Remote",
+          "url": "https://instacart.careers/job/?gh_jid=8237985",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
           "ats": "greenhouse",
-          "posted_at": "2026-10-02T12:15:52-04:00",
+          "posted_at": "2026-10-02T12:15:33-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -1007,7 +987,7 @@
           "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
           "jd": "Who we are&nbsp; At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp; Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp; . See yourself at Twilio Join the team as a Staff Mobile Engineer for Stytch, where you'll shape the next generation of identity and fraud prevention products. About the job As a Staff Mobile Engineer you will help scale Stytch\u2019s core identity and fraud products as we bring Stytch capabilities to Twilio\u2019s full customer base, delivering secure, developer-first identity and fraud prevention experiences. You\u2019ll build mobile SDK products that power authentication, fraud detection and prevention as well as emerging agentic identity use cases. You\u2019ll partner closely with product and engineering leadership to design and deliver high-impact customer-facing features, and evolve our platform for Twilio\u2019s scale. This is a rare chance to operate like a startup within Twilio: you\u2019ll work in a high-ownership environment with startup speed, backed by Twilio\u2019s reach and scale. Responsibilities Build and own the mobile SDKs for Stytch\u2019s identity and fraud detection platforms on Twilio\u2014go deep on device internals for complex signal collection to improve identification of bad actors and ship new SDK surfaces powering core authentication flows, including agenting and non-human identity use cases.&nbsp; Partner with Product and Engineering leadership to set direction, translate customer needs into product capabilities, and deliver high-impact roadmap features. Collaborate across Twilio and Stytch teams to align on architecture, integrate platform capabilities, and unblock cross-team ini",
           "ats": "greenhouse",
-          "posted_at": "2026-10-07T15:23:08-04:00",
+          "posted_at": "2026-10-09T17:02:55-04:00",
           "match": 30,
           "match_reasons": {
             "note": "JD too sparse; generic fallback."
