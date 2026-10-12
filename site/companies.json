@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T17:54:45.356532Z",
+  "generated_at": "2026-10-12T21:34:44.095228Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 15,
+    "hiring": 14,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 35
+    "open_roles": 37
   },
   "companies": [
     {
@@ -184,6 +184,29 @@
           }
         },
         {
+          "title": "Android Engineer, Terminal - CA",
+          "location": "Toronto, CA",
+          "url": "https://stripe.com/jobs/search?gh_jid=8274893",
+          "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the team Stripe Terminal helps our users extend their online presence to the physical world. The Terminal team\u2019s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. Stripe was founded to make it easier for developers to accept payments. We\u2019ve solved a small part of that problem, but our ambition is to go much further.&nbsp; What you\u2019ll do You'll build and enhance applications, services, and the OS that run on the physical Terminal devices.&nbsp; You'll also build the frameworks for other engineers, both internal and external to Stripe, to develop on our custom platform with ease. Responsibilities Design, build, and maintain Android apps and SDKs in Kotlin Develop Android payment applications for a variety of devices and form factors Work with engineers, product managers, designers, and stakeholders across the company to bring new features and products to mobile users Collaborate with Android developers who work on the Stripe mobile apps and Stripe Terminal to set best practices for Android development across the company Work with user research and product design to understand users and address their needs &nbsp; Who you are We\u2019re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. Minimum requirements 2+ years of experience in Android development Experience working with at least one of the following-&nbsp;Kotlin, Java, Swift, Objective-C, Go, or Python Preferred qualifications Payments expertise or knowledge Backend infrastructure or services experience Listen well and internalize the best ideas from all over the organization while also setting a vision that others are excited to get behind You prefer simple solutions and designs over complex ones, and have a good intuition for what is lasting and scalable Thrive in a ",
+          "ats": "greenhouse",
+          "posted_at": "2026-10-12T15:16:00-04:00",
+          "match": 90,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "java"
+            ],
+            "missing": [
+              "swift",
+              "python"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 9.5 / 10.5 = 90%"
+          }
+        },
+        {
           "title": "Android Engineer, Terminal OS Platform",
           "location": "San Francisco, Seattle",
           "url": "https://stripe.com/jobs/search?gh_jid=7557403",
@@ -276,12 +299,40 @@
           }
         },
         {
+          "title": "Staff Android Engineer, Android Platform",
+          "location": "Remote - United States",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/8275143",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The Android Platform team sets the technical direction for Android at Reddit. We design, build and support the Android app for millions of DAUs and the development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer on the Android Platform team, you\u2019ll set technical direction and lead cross-team initiatives for a large, multi\u2011team Android codebase, with a core focus on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experiences, and App Architecture (modern and opinionated). You\u2019ll turn ambiguous platform problems into a multi-quarter roadmap, align engineering partners, and stay hands-on from design and implementation through rollout and adoption. What you\u2019ll do Lead technical decisions that will scale Reddit\u2019s Android Platform to the next 100M+ DAUs, balancing long-term platform health with product delivery. Drive Developer Experience strategy to accelerate build and test cycles and improve release safety across teams. Architect Android Client Health and Observability foundations (events, traces, dashboards) to empower engineering teams to safeguard performance and reliability. Champion AI supercharged developer and agent workflows. Provide technical leadership and mentorship to senior engineers, elevating engineering standards across teams through architectural reviews, documentation, and technical guidance. What we expect from you 5+ years software development experience with 3+ years building Android applications, with a track record of leading complex Android initiatives from problem definition through delivery and sustained adoption. Experience setting technical direction and delivering shared platform capabilities in a large Android codebase used by multiple teams and millions of daily active users. Deep expertise in Kotlin, Android lifecycle and concurrency, and modern Android technologies such as Jetpack Compose and Kotlin coroutines, with sound judgment about architectural tr",
+          "ats": "greenhouse",
+          "posted_at": "2026-10-12T17:34:21-04:00",
+          "match": 95,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "coroutines",
+              "scale",
+              "performance",
+              "ai",
+              "agent"
+            ],
+            "missing": [
+              "lifecycle"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 21.0 / 22.0 = 95%"
+          }
+        },
+        {
           "title": "Staff Android Engineer, Brand Ad Formats",
           "location": "Remote - United States",
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-10-11T08:27:28-04:00",
+          "posted_at": "2026-10-12T08:14:25-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -807,11 +858,11 @@
       "jobs": [
         {
           "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "url": "https://instacart.careers/job/?gh_jid=8237987",
+          "location": "United States - Remote",
+          "url": "https://instacart.careers/job/?gh_jid=8237985",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
           "ats": "greenhouse",
-          "posted_at": "2026-10-02T12:15:52-04:00",
+          "posted_at": "2026-10-02T12:15:33-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -826,11 +877,11 @@
         },
         {
           "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "United States - Remote",
-          "url": "https://instacart.careers/job/?gh_jid=8237985",
+          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+          "url": "https://instacart.careers/job/?gh_jid=8237987",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
           "ats": "greenhouse",
-          "posted_at": "2026-10-02T12:15:33-04:00",
+          "posted_at": "2026-10-02T12:15:52-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -916,29 +967,54 @@
       "avoid": false
     },
     {
-      "company": "Airbnb Inc",
+      "company": "Anduril Industries",
       "jobs": [
         {
-          "title": "Software Engineer, Passport & Commerce, Android",
-          "location": "Remote, USA",
-          "url": "https://careers.airbnb.com/positions/8247303?gh_jid=8247303",
-          "jd": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: Passport &amp; Commerce builds the trusted account and commerce foundation that lets anyone, anywhere, become part of the Airbnb community \u2014 from their first sign-up, through the profile and connections they build, to every booking, benefit, and business transaction along the way. We're a newly formed org within Guest &amp; Host that brings together identity and commerce foundations under one roof. Our mission is to move Airbnb beyond the transaction \u2014 building a world where accounts create trust, value sticks, and the benefits our community earns travel with them, and their businesses, wherever they go. You'll work closely with Payments and Wallet engineering, Identity &amp; Privacy, Profile &amp; Community, and Guest &amp; Host product, design, and data science partners as we stand up this team's roadmap and technical foundations. The Difference You Will Make: As a Software Engineer on the Android team within Passport &amp; Commerce, you will build the Android experiences that bring various account features to life for millions of guests and hosts. You'll own well-scoped features from technical design through launch, working closely with your backend, iOS, and design counterparts. Success in this role looks like shipping reliable, performant, and polished Android experiences that keep parity with our iOS and web surfaces, growing your ownership over time as the Android presence for this team expands, and becoming a dependable contributor the team can count on to deliver. A Typical Day: Design and build Android features using modern, declarative UI and unidirectional state architecture Partner with product and design to turn new concepts into polished, accessible Android experiences Collaborate with backend, iOS, and web engineers to keep feature behavior and data consistent across platforms Write clean, well-tested, maintainable code, and actively participate in code and design reviews Learn from and collaborate with senior engineers on the team, and contribute to shared Android patterns and best practices as the team scales Troubleshoot and resolve bugs, performance, an",
+          "title": "Senior Software Engineer  (Android Apps - Flutter/Dart)",
+          "location": "Bellevue, Washington, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208357007?gh_jid=5208357007",
+          "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We are seeking a Senior Software Engineer to lead the development and optimization of a tactical edge client across Android mobile and Linux in-vehicle systems. In this role, you will own application performance on resource-constrained hardware, collaborate closely with product and platform teams, and mentor junior engineers REQUIRED QUALIFICATIONS Flutter/Dart: widget lifecycle, rebuild cost, platform channels, multi-platform builds Reactive state management: Riverpod, Redux, Rx, Combine; MVVM Performance: Flutter DevTools, systrace/perfetto, frame budgets, memory &amp; GPU analysis, startup time and battery management Android: ",
           "ats": "greenhouse",
-          "posted_at": "2026-10-01T17:35:44-04:00",
+          "posted_at": "2026-10-05T19:17:56-04:00",
+          "match": 84,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "mvvm",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "lifecycle"
+            ],
+            "penalties": [
+              "JD requires flutter (not in resume, -5pts)"
+            ],
+            "bonuses": [],
+            "calc": "Skill match: 8.5 / 9.5 = 84%"
+          }
+        },
+        {
+          "title": "Senior Software Engineer  (Android Platform VMs)",
+          "location": "Bellevue, Washington, United States",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249398007?gh_jid=5249398007",
+          "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We're looking for a Senior Software Engineer to design, implement, and harden Android VMs running on crosvm and contribute to our platform security work. You'll work across the virtualization stack, from the VMM and guest kernel to secure boot and the platform security features that anchor them, to deliver production-quality, security-hardened Android VMs. You'll own hard problems end to end, collaborate with platform and security teams, and set the technical direction for how we run Android securely in a virtual machine. What You\u2019ll Do Design, build, and maintain Android VMs running on crosvm, including VMM configuration, device",
+          "ats": "greenhouse",
+          "posted_at": "2026-10-05T19:17:56-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
               "android",
-              "performance"
+              "ai"
             ],
             "missing": [],
             "penalties": [],
             "bonuses": [],
-            "calc": "Skill match: 5.0 / 5.0 = 100%"
+            "calc": "Skill match: 4.5 / 4.5 = 100%"
           }
         }
       ],
-      "perm_count": 580,
+      "perm_count": 80,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -972,29 +1048,6 @@
         }
       ],
       "perm_count": 170,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Twilio Inc",
-      "jobs": [
-        {
-          "title": "Staff Mobile Engineer (P4)",
-          "location": "Remote - US",
-          "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
-          "jd": "Who we are&nbsp; At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands. . Hiring and how we work We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp; Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp; . See yourself at Twilio Join the team as a Staff Mobile Engineer for Stytch, where you'll shape the next generation of identity and fraud prevention products. About the job As a Staff Mobile Engineer you will help scale Stytch\u2019s core identity and fraud products as we bring Stytch capabilities to Twilio\u2019s full customer base, delivering secure, developer-first identity and fraud prevention experiences. You\u2019ll build mobile SDK products that power authentication, fraud detection and prevention as well as emerging agentic identity use cases. You\u2019ll partner closely with product and engineering leadership to design and deliver high-impact customer-facing features, and evolve our platform for Twilio\u2019s scale. This is a rare chance to operate like a startup within Twilio: you\u2019ll work in a high-ownership environment with startup speed, backed by Twilio\u2019s reach and scale. Responsibilities Build and own the mobile SDKs for Stytch\u2019s identity and fraud detection platforms on Twilio\u2014go deep on device internals for complex signal collection to improve identification of bad actors and ship new SDK surfaces powering core authentication flows, including agenting and non-human identity use cases.&nbsp; Partner with Product and Engineering leadership to set direction, translate customer needs into product capabilities, and deliver high-impact roadmap features. Collaborate across Twilio and Stytch teams to align on architecture, integrate platform capabilities, and unblock cross-team ini",
-          "ats": "greenhouse",
-          "posted_at": "2026-10-09T17:02:55-04:00",
-          "match": 30,
-          "match_reasons": {
-            "note": "JD too sparse; generic fallback."
-          }
-        }
-      ],
-      "perm_count": 160,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1275,6 +1328,16 @@
       "company": "Capital One Services LLC",
       "jobs": [],
       "perm_count": 700,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Airbnb Inc",
+      "jobs": [],
+      "perm_count": 580,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1642,6 +1705,16 @@
       "avoid": false
     },
     {
+      "company": "Twilio Inc",
+      "jobs": [],
+      "perm_count": 160,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Roblox Corporation",
       "jobs": [],
       "perm_count": 160,
@@ -1903,16 +1976,6 @@
     },
     {
       "company": "Carvana",
-      "jobs": [],
-      "perm_count": 80,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Anduril Industries",
       "jobs": [],
       "perm_count": 80,
       "fy": "2024",
