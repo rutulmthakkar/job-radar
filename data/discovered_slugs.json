@@ -111,11 +111,6 @@
       "slug": "mongodb"
     },
     {
-      "company": "Confluent Inc",
-      "ats": "ashby",
-      "slug": "confluent"
-    },
-    {
       "company": "Datadog Inc",
       "ats": "greenhouse",
       "slug": "datadog"
@@ -189,6 +184,11 @@
       "company": "Palantir Technologies",
       "ats": "lever",
       "slug": "palantir"
+    },
+    {
+      "company": "Anduril Industries",
+      "ats": "greenhouse",
+      "slug": "andurilindustries"
     },
     {
       "company": "SpaceX",
