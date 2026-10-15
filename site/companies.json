@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:48:29.028891Z",
+  "generated_at": "2026-10-15T17:37:57.331889Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 36
+    "open_roles": 35
   },
   "companies": [
     {
@@ -102,29 +102,6 @@
             "penalties": [],
             "bonuses": [],
             "calc": "Skill match: 10.5 / 13.0 = 81%"
-          }
-        },
-        {
-          "title": "Android Systems Engineer, Consumer Devices",
-          "location": "San Francisco",
-          "url": "https://jobs.ashbyhq.com/openai/b08126cc-8134-45f0-aeb3-4b00e96547de",
-          "jd": "About the Team The Consumer Devices team is building a new generation of AI-native experiences that bring OpenAI\u2019s technology closer to people throughout their day. We are exploring how AI can become deeply integrated into the devices people already use\u2014understanding context, helping users accomplish tasks, coordinating across apps and services, and making use of capabilities that are uniquely available on the device. Our work spans software, devices, platform technologies, and strategic partnerships. We operate as a highly collaborative, fast-moving team focused on turning ambitious ideas into reliable products that can reach people at significant scale. About the Role As an Android Systems Engineer , you will help define and build the Android platform capabilities behind the next generation of AI-powered consumer experiences. This is not a traditional application-only Android role. You will work across the Android stack, using system-level APIs, device capabilities, platform integrations, and OEM-specific functionality to create experiences that would be difficult or impossible to build as a conventional mobile application. You will help determine what becomes possible when an AI assistant is deeply integrated with a mobile device: how it understands what is happening, interacts naturally with the user, connects across apps and services, and helps complete multi-step tasks. You will work closely with product, design, AI, backend, platform, and external device partners to take new concepts from prototype to production. The role requires strong technical judgment, product intuition, and comfort navigating areas where the platform, APIs, and product patterns are still evolving. This role is based in San Francisco, CA. We use a hybrid work model of four days in the office per week and offer relocation assistance to new employees. In this role, you will: Build deeply integrated Android experiences: Design and implement product experiences that take advantage of Android platform capabilities. Work across the Android platform: Develop against Android framework and system APIs, system services, lifecycle and background execution primitives, inter-process communication, permissions, notifications, intents, and other platform capabilities. Unlock device capabilities: Identify and use capabilities such as audio, camera, sensors, connectivity, location, notifications, credentials, and other device signals to enable useful, context-aware AI experiences. Build agentic",
-          "ats": "ashby",
-          "posted_at": "2026-08-21T16:49:52.136+00:00",
-          "match": 73,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle",
-              "consumer"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.5 / 7.5 = 73%"
           }
         },
         {
@@ -249,37 +226,12 @@
       "company": "Reddit Inc",
       "jobs": [
         {
-          "title": "Android Software Engineer, Consumer Engineering",
-          "location": "San Francisco, CA",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/8263406",
-          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The Reddit Consumer Engineering organization builds and scales the products that Redditors use directly to discover content, participate in communities, and connect with others. Sitting at the intersection of large-scale distributed systems and core user journeys, Android Software Engineers in Consumer Engineering work with Product Managers, Designers, Data Scientists, ML Engineers, Backend Engineers, and other mobile engineers to build, experiment with, and scale the experiences that help hundreds of millions of users discover, join, navigate, and engage with Reddit. This centralized role hires across several high-impact consumer teams, including: Core Product &amp; Feeds: Home Experience, Recommendations &amp; Content Discovery, Contribution Community &amp; Presence: Reddit Pro, Youth Experience &amp; Teen Safety, Creator Tools Growth &amp; Engagement: Authentication, Notifications, Social Sharing, SEO, Onboarding Monetization &amp; Conversion: Paid User Acquisition, Conversion Funnel Optimization Identity &amp; Security: Account Management, Trust &amp; Safety What You\u2019ll Do Build and evolve user-facing Android experiences that help people discover, consume, create, and engage with content and communities. Lead projects through the full development lifecycle, from product definition and technical design to implementation, experimentation, launch, and ongoing improvement. Partner with product, design, data science, ML, backend, and platform teams to shape strategy, translate technical capabilities into intuitive experiences, and deliver measurable user impact. Improve Android architecture, performance, reliability, accessibility, developer workflows, and engineering standards while mentoring teammates and driving cross-functional technical initiatives. Who You Might Be An experienced Android engineer who has built and shipped consumer-facing native applications at scale using Kotlin. A strategic, product-minded partner who connects technical decisions to user and business outcomes and can lead through ambigui",
-          "ats": "greenhouse",
-          "posted_at": "2026-10-14T10:15:04-04:00",
-          "match": 74,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "scale",
-              "performance"
-            ],
-            "missing": [
-              "lifecycle",
-              "consumer",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 10.0 / 13.5 = 74%"
-          }
-        },
-        {
           "title": "Senior Android Software Engineer, Consumer Engineering",
-          "location": "San Francisco, CA",
+          "location": "Remote - United States",
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The Reddit Consumer Engineering organization builds and scales the products that Redditors use directly to discover content, participate in communities, and connect with others. Sitting at the intersection of large-scale distributed systems and core user journeys, Android Software Engineers in Consumer Engineering work with Product Managers, Designers, Data Scientists, ML Engineers, Backend Engineers, and other mobile engineers to build, experiment with, and scale the experiences that help hundreds of millions of users discover, join, navigate, and engage with Reddit. This centralized role hires across several high-impact consumer teams, including: Core Product &amp; Feeds: Home Experience, Recommendations &amp; Content Discovery, Contribution Community &amp; Presence: Reddit Pro, Youth Experience &amp; Teen Safety, Creator Tools Growth &amp; Engagement: Authentication, Notifications, Social Sharing, SEO, Onboarding Monetization &amp; Conversion: Paid User Acquisition, Conversion Funnel Optimization Identity &amp; Security: Account Management, Trust &amp; Safety What You\u2019ll Do Build and evolve user-facing Android experiences that help people discover, consume, create, and engage with content and communities. Lead projects through the full development lifecycle, from product definition and technical design to implementation, experimentation, launch, and ongoing improvement. Partner with product, design, data science, ML, backend, and platform teams to shape strategy, translate technical capabilities into intuitive experiences, and deliver measurable user impact. Improve Android architecture, performance, reliability, accessibility, developer workflows, and engineering standards while mentoring teammates and driving cross-functional technical initiatives. Who You Might Be An experienced Android engineer who has built and shipped consumer-facing native applications at scale using Kotlin. A strategic, product-minded partner who connects technical decisions to user and business outcomes and can lead through ambigui",
           "ats": "greenhouse",
-          "posted_at": "2026-10-14T10:15:04-04:00",
+          "posted_at": "2026-10-15T12:39:07-04:00",
           "match": 74,
           "match_reasons": {
             "matched": [
@@ -304,7 +256,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8275143",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The Android Platform team sets the technical direction for Android at Reddit. We design, build and support the Android app for millions of DAUs and the development ecosystem (libraries, frameworks, observability, and build/CI tooling) that every team uses to ship delightful Reddit experiences. As a Staff Android Engineer on the Android Platform team, you\u2019ll set technical direction and lead cross-team initiatives for a large, multi\u2011team Android codebase, with a core focus on three pillars: Client Health (Crashes/ANRs/Performance), Developer Experiences, and App Architecture (modern and opinionated). You\u2019ll turn ambiguous platform problems into a multi-quarter roadmap, align engineering partners, and stay hands-on from design and implementation through rollout and adoption. What you\u2019ll do Lead technical decisions that will scale Reddit\u2019s Android Platform to the next 100M+ DAUs, balancing long-term platform health with product delivery. Drive Developer Experience strategy to accelerate build and test cycles and improve release safety across teams. Architect Android Client Health and Observability foundations (events, traces, dashboards) to empower engineering teams to safeguard performance and reliability. Champion AI supercharged developer and agent workflows. Provide technical leadership and mentorship to senior engineers, elevating engineering standards across teams through architectural reviews, documentation, and technical guidance. What we expect from you 5+ years software development experience with 3+ years building Android applications, with a track record of leading complex Android initiatives from problem definition through delivery and sustained adoption. Experience setting technical direction and delivering shared platform capabilities in a large Android codebase used by multiple teams and millions of daily active users. Deep expertise in Kotlin, Android lifecycle and concurrency, and modern Android technologies such as Jetpack Compose and Kotlin coroutines, with sound judgment about architectural tr",
           "ats": "greenhouse",
-          "posted_at": "2026-10-14T10:15:04-04:00",
+          "posted_at": "2026-10-15T11:40:02-04:00",
           "match": 95,
           "match_reasons": {
             "matched": [
@@ -332,7 +284,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-10-14T10:15:04-04:00",
+          "posted_at": "2026-10-15T11:40:02-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -348,6 +300,29 @@
             "penalties": [],
             "bonuses": [],
             "calc": "Skill match: 6.5 / 9.0 = 72%"
+          }
+        },
+        {
+          "title": "Staff Software Engineer, Android Design System",
+          "location": "Remote - United States",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/8237636",
+          "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . This is an Android role on Reddit\u2019s Design System Team. The mission of the Design System Team is to deliver a cohesive, modern and accessible experience across all of Reddit\u2019s platforms.&nbsp; As an Android engineer on the Design System Team, you will help evolve Reddit\u2019s cross-platform design system and UI architecture that powers experiences across the company. You will build reusable components, improve platform capabilities, and help establish frontend patterns that enable product teams to ship high-quality experiences efficiently. This role has broad scope and impact, helping shape the future of frontend development at Reddit. What You\u2019ll Do : Evolve Reddit\u2019s cross-platform design system by expanding its capabilities and developing higher-level reusable components that accelerate product development while maintaining consistency and quality. Collaborate cross-functionally with product teams, designers, and engineers to ensure the design system and UI infrastructure effectively support real product needs. Improve performance at scale , contributing to Android architecture, rendering patterns, and performance-focused development practices that make performance a built-in feature of the platform. Advance accessibility across the platform , building accessible components, patterns, tooling, and documentation that help teams adopt accessibility best practices by default. Strengthen developer experience , contributing to shared tooling, documentation, and platform improvements that help engineers build reliable, consistent UI across Reddit\u2019s products. You Have: 6+ years of software engineering experience, with a track record of leading cross-functional projects and delivering solutions with broad product impact. Experience building and maintaining shared UI infrastructure, such as design systems, component libraries, or frontend infrastructure used across multiple teams. Strong experience with modern Android development using Kotlin and Jetpack Compose, with expertise in UI architecture, scalable component desi",
+          "ats": "greenhouse",
+          "posted_at": "2026-10-15T11:40:02-04:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "scale",
+              "performance"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 17.0 / 17.0 = 100%"
           }
         }
       ],
@@ -858,11 +833,11 @@
       "jobs": [
         {
           "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "United States - Remote",
-          "url": "https://instacart.careers/job/?gh_jid=8237985",
+          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+          "url": "https://instacart.careers/job/?gh_jid=8237987",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
           "ats": "greenhouse",
-          "posted_at": "2026-10-02T12:15:33-04:00",
+          "posted_at": "2026-10-02T12:15:52-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -877,11 +852,11 @@
         },
         {
           "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "url": "https://instacart.careers/job/?gh_jid=8237987",
+          "location": "United States - Remote",
+          "url": "https://instacart.careers/job/?gh_jid=8237985",
           "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
           "ats": "greenhouse",
-          "posted_at": "2026-10-02T12:15:52-04:00",
+          "posted_at": "2026-10-02T12:15:33-04:00",
           "match": 100,
           "match_reasons": {
             "matched": [
