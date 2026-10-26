@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-25T16:58:16.535030Z",
+  "generated_at": "2026-10-26T19:02:15.833632Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 12,
+    "hiring": 11,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 33
+    "open_roles": 31
   },
   "companies": [
     {
@@ -231,7 +231,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . The Reddit Consumer Engineering organization builds and scales the products that Redditors use directly to discover content, participate in communities, and connect with others. Sitting at the intersection of large-scale distributed systems and core user journeys, Android Software Engineers in Consumer Engineering work with Product Managers, Designers, Data Scientists, ML Engineers, Backend Engineers, and other mobile engineers to build, experiment with, and scale the experiences that help hundreds of millions of users discover, join, navigate, and engage with Reddit. This centralized role hires across several high-impact consumer teams, including: Core Product &amp; Feeds: Home Experience, Recommendations &amp; Content Discovery, Contribution Community &amp; Presence: Reddit Pro, Youth Experience &amp; Teen Safety, Creator Tools Growth &amp; Engagement: Authentication, Notifications, Social Sharing, SEO, Onboarding Monetization &amp; Conversion: Paid User Acquisition, Conversion Funnel Optimization Identity &amp; Security: Account Management, Trust &amp; Safety What You\u2019ll Do Build and evolve user-facing Android experiences that help people discover, consume, create, and engage with content and communities. Lead projects through the full development lifecycle, from product definition and technical design to implementation, experimentation, launch, and ongoing improvement. Partner with product, design, data science, ML, backend, and platform teams to shape strategy, translate technical capabilities into intuitive experiences, and deliver measurable user impact. Improve Android architecture, performance, reliability, accessibility, developer workflows, and engineering standards while mentoring teammates and driving cross-functional technical initiatives. Who You Might Be An experienced Android engineer who has built and shipped consumer-facing native applications at scale using Kotlin. A strategic, product-minded partner who connects technical decisions to user and business outcomes and can lead through ambigui",
           "ats": "greenhouse",
-          "posted_at": "2026-10-23T10:06:06-04:00",
+          "posted_at": "2026-10-26T10:37:50-04:00",
           "match": 74,
           "match_reasons": {
             "matched": [
@@ -284,7 +284,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-10-25T08:13:31-04:00",
+          "posted_at": "2026-10-26T08:19:58-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -871,70 +871,6 @@
         }
       ],
       "perm_count": 170,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Ramp Business",
-      "jobs": [
-        {
-          "title": "Mobile Engineer, Android",
-          "location": "New York, NY (HQ)",
-          "url": "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040",
-          "jd": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role As an Android Engineer at Ramp, you\u2019ll enhance our successful and rapidly growing mobile app. You will improve the core platform that thousands of businesses rely on while also building the future of automated finance by integrating AI and intelligent agents into the mobile experience. This is a chance to grow your skills on a proven product and define the next generation of fintech. Check out our Engineering Blog for more on our tech stack, mission and values! What You\u2019ll Do Design, build, and launch new products to Ramp\u2019s Android app Help establish engineering processes, tools, and systems that allow us to scale the code base and productivity Conduct code reviews and set engineering standards Work with Product and Design to identify key features that will make the app successful Work alongside Product and other cross-functional teams to understand customer feedback and continuously improve our product What You Need Minimum 1 year of experience in mobile development Proficiency in Kotlin and Compose for Android development Experience launching at least one mobile app and/or several features that reached a large number of users Desire to work in a fast-paced environment, continuously grow, and master your craft Strong understanding of mobile design patterns and best practices Nice to Haves Experience with web apps (React, TypeScript) Experience with backend technologies (Python, Flask, SQL, OpenAPI) Experience with our mobile stack in addition to Kotlin and Compose: MVVM, coroutines, flows, gradle, OpenAPI & Buildkite Expe",
-          "ats": "ashby",
-          "posted_at": "2025-07-31T21:58:34.674+00:00",
-          "match": 98,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "compose",
-              "mvvm",
-              "coroutines",
-              "flow",
-              "sql",
-              "gradle",
-              "scale",
-              "ai"
-            ],
-            "missing": [
-              "python"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 22.5 / 23.0 = 98%"
-          }
-        },
-        {
-          "title": "Mobile Engineer, iOS",
-          "location": "New York, NY (HQ)",
-          "url": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f",
-          "jd": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role As an iOS Engineer at Ramp, you\u2019ll enhance our successful and rapidly growing mobile app. You will improve the core platform that thousands of businesses rely on while also building the future of automated finance by integrating AI and intelligent agents into the mobile experience. This is a chance to grow your skills on a proven product and define the next generation of fintech. Check out our Engineering Blog for more on our tech stack, mission, and values! What You\u2019ll Do Design, build, and launch new products to Ramp\u2019s iOS app. Help establish engineering processes, tools, and systems that allow us to scale the code base and productivity. Conduct code reviews and set engineering standards. Work with Product and Design to identify key features that will make the app successful. Work alongside Product and other cross-functional teams to understand customer feedback and continuously improve our product. What You Need Minimum 1 year of experience in mobile development. Proficiency in Swift and SwiftUI for iOS development. Experience launching at least one mobile app and/or several features that reached a large number of users. Desire to work in a fast-paced environment, continuously grow, and master your craft. Strong understanding of mobile design patterns and best practices. Nice to Haves Experience with web apps (React, TypeScript). Experience with backend technologies (Python, Flask, SQL, OpenAPI). Experience with our mobile stack in addition to Swift and SwiftUI: Swift Concurrency, The Composable Architecture, Bazel, Ope",
-          "ats": "ashby",
-          "posted_at": "2025-07-31T21:50:51.242+00:00",
-          "match": 82,
-          "match_reasons": {
-            "matched": [
-              "flow",
-              "sql",
-              "scale",
-              "ai"
-            ],
-            "missing": [
-              "swift",
-              "python"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 4.5 / 5.5 = 82%"
-          }
-        }
-      ],
-      "perm_count": 80,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1873,6 +1809,16 @@
     },
     {
       "company": "Carvana",
+      "jobs": [],
+      "perm_count": 80,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Ramp Business",
       "jobs": [],
       "perm_count": 80,
       "fy": "2024",
