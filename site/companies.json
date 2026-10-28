@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T18:33:34.644199Z",
+  "generated_at": "2026-10-28T18:40:04.146195Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 11,
+    "hiring": 10,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 31
+    "open_roles": 29
   },
   "companies": [
     {
@@ -162,11 +162,11 @@
         },
         {
           "title": "Android Engineer, Identity ",
-          "location": "San Francisco, CA",
+          "location": "Seattle, WA; San Francisco, CA; New York City, NY",
           "url": "https://stripe.com/jobs/search?gh_jid=8311069",
           "jd": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies from the world\u2019s largest enterprises to the most ambitious startups use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career. About the team Before Stripe, every growing internet platform needed a payments team. Today, every growing internet platform needs a way to establish trust in its users. Identity verification is a core piece of economic infrastructure for online businesses. Stripe Identity enables businesses to digitally verify their users through identity documents and other signals for fraud prevention, regulatory, and trust and safety use cases. We are building the future of identity verification and trust in the digital economy. The Identity Product Experience team owns Stripe Identity\u2019s mobile SDKs for iOS, Android, and React Native. These SDKs enable businesses to embed secure, high-quality identity-verification experiences directly in their mobile applications. Our work spans mobile user experience, reusable SDK architecture, camera and document-capture experiences, developer experience, security, accessibility, reliability, and integration with Stripe\u2019s backend systems.&nbsp; Why Stripe Identity? Build mobile experiences that help establish trust between businesses and their users. Solve challenging product and technical problems involving mobile platforms, sensitive data, fraud prevention, and global scale. Create SDKs used by developers across industries, including fintech, marketplaces, and online platforms. Help shape the future of digital identity and make verification easier, safer, and more accessible. Our vision is to build the world\u2019s most trusted store of verified identities, enabling frictionless identity verification across Stripe and beyond. We\u2019re looking for engineers who care deeply about mobile craft and the entire user journey. You should enjoy translating complex technical and regulatory requirements into simple, polished experiences; working through ambiguity; and learning new technologies and systems. Join us to build mobile identity-verification experiences that businesses can integrate easily and that their users can trust. What you\u2019",
           "ats": "greenhouse",
-          "posted_at": "2026-10-26T19:53:52-04:00",
+          "posted_at": "2026-10-28T10:29:22-04:00",
           "match": 95,
           "match_reasons": {
             "matched": [
@@ -286,7 +286,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-10-27T08:17:51-04:00",
+          "posted_at": "2026-10-28T08:12:22-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -824,55 +824,6 @@
         }
       ],
       "perm_count": 460,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Instacart",
-      "jobs": [
-        {
-          "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "United States - Remote",
-          "url": "https://instacart.careers/job/?gh_jid=8237985",
-          "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
-          "ats": "greenhouse",
-          "posted_at": "2026-10-02T12:15:33-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.0 / 5.0 = 100%"
-          }
-        },
-        {
-          "title": "Staff Android Engineer, Pick & Deliver",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "url": "https://instacart.careers/job/?gh_jid=8237987",
-          "jd": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers. Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table. Instacart is a Flex First team There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work. Overview Instacart is transforming the grocery industry by helping people access the food they love while enabling retailers, brands, and shoppers to succeed. The Pick &amp; Deliver organization builds the technology that powers critical in-store and delivery operations across the Instacart marketplace. We are seeking an Android Engineer to serve as a technical lead within the Pick &amp; Deliver organization. You will help shape and deliver high-visibility mobile experiences that support retailers throughout the process of picking customer orders, directly influencing the speed, quality, and reliability of the end-user experience. This role offers the opportunity to work on complex, high-impact challenges across multiple retailer priorities, new picking models, market expansion, and platform-scale investments. You will partner closely with Product, Design, Backend Engineering, iOS Engineering, retailers, external vendors, and other internal teams to turn operational needs into reliable, intuitive mobile experiences. The team works in a fast-paced environment with parallel feature development, retailer requests, and technical debt. Success requires strong ownership, sound technical judgment, and a willingness to collaborate, make decisions, and roll up your sleeves to solve problems that have immediate and meaningful impact. About the Job Lead the technica",
-          "ats": "greenhouse",
-          "posted_at": "2026-10-02T12:15:52-04:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "scale"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 5.0 / 5.0 = 100%"
-          }
-        }
-      ],
-      "perm_count": 170,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1513,6 +1464,16 @@
       "company": "SpaceX",
       "jobs": [],
       "perm_count": 180,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Instacart",
+      "jobs": [],
+      "perm_count": 170,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
