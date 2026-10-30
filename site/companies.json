@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:48:27.685565Z",
+  "generated_at": "2026-10-30T18:26:17.409665Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 29
+    "open_roles": 30
   },
   "companies": [
     {
@@ -286,7 +286,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-10-29T08:18:00-04:00",
+          "posted_at": "2026-10-30T08:08:42-04:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -629,6 +629,48 @@
           }
         },
         {
+          "title": "Senior Android Engineer, Event Contracts",
+          "location": "New York, NY",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168",
+          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. Join us in building the future of finance. Our mission is to democratize finance for all.&nbsp; An estimated $124 trillion of assets &nbsp;will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. Robinhood\u2019s Event Contracts team builds and evolves the customer-facing experiences that power how customers discover, access, and trade Event Contracts. Sitting within Prediction Markets, the team owns key parts of the Event Contracts product surface, including the experience within the Predict tab, prediction markets hub surfaces, and related account and funding flows that support participation in these markets. As Senior Android Engineer on this team, you would help build high-visibility product experiences in one of Robinhood\u2019s fastest-evolving areas. We\u2019re looking for someone who can partner closely across engineering, product, and design to deliver thoughtful frontend experiences, navigate complex product requirements, and contribute to the systems that make Event Contracts intuitive, reliable, and scalable for customers. This role is based in our New York City, NY office, with in-person attendance expected at least 3 days per week. A",
+          "ats": "greenhouse",
+          "posted_at": "2026-10-29T16:31:44-04:00",
+          "match": 77,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "performance"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 6.5 = 77%"
+          }
+        },
+        {
+          "title": "Senior Android Engineer, Government Products",
+          "location": "New York, NY",
+          "url": "https://boards.greenhouse.io/robinhood/jobs/7982640?t=gh_src=&gh_jid=7982640",
+          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. Join us in building the future of finance. Our mission is to democratize finance for all.&nbsp; An estimated $124 trillion of assets &nbsp;will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. Robinhood has been tapped as the brokerage and initial trustee for the federal Trump Accounts program, and this team is building the standalone platform that will bring that experience to life for the next generation of Americans. You\u2019ll join a fast-moving, high-impact group working from 0\u21921 to develop the product and infrastructure behind a new web and app experience, partnering across product, data, and infrastructure to deliver a secure, intuitive, and reliable customer offering. As a Senior Android Engineer on Trump Accounts, you\u2019d help build the standalone mobile experience from the ground up, owning features from concept through launch and translating complex account and investing workflows into clear, intuitive product experiences. You\u2019d work closely with product, design, backend, data, and platform partners to ship high-quality Android features with a strong bar for performance, reliability, safety, and correctness in a highly regul",
+          "ats": "greenhouse",
+          "posted_at": "2026-10-30T12:08:00-04:00",
+          "match": 77,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "performance"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.0 / 6.5 = 77%"
+          }
+        },
+        {
           "title": "Senior Android Engineer, iRAD",
           "location": "Menlo Park, CA; New York, NY",
           "url": "https://boards.greenhouse.io/robinhood/jobs/8049885?t=gh_src=&gh_jid=8049885",
@@ -650,38 +692,12 @@
           }
         },
         {
-          "title": "Senior Android Engineer, Trading Products",
-          "location": "Menlo Park, CA",
-          "url": "https://boards.greenhouse.io/robinhood/jobs/8049809?t=gh_src=&gh_jid=8049809",
-          "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. Robinhood\u2019s Trading Products team builds and evolves the customer-facing stock trading experience within Brokerage Engineering, owning key parts of the equities product surface. The team works across core order flows, trading state updates, and frontend product experiences to help customers research, place, and manage trades with reliability at scale. As a Senior Android Engineer on this team, you would lead the development of high-impact mobile experiences that sit at the center of the trading journey. We\u2019re looking for someone who can drive complex Android work end to end, partner closely across functions, and bring the technical depth and product judgment to flex into staff-level scope for the right candidate. This role is based in our Menlo Park, CA or New York City, NY office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you\u2019ll do Build intuitive, elegant, and stable mobile experiences using Kotlin, Jetpack Compose, and modern Android APIs Lead the full lifecycle of product features \u2014 from ideation and technical design to implementation, t",
-          "ats": "greenhouse",
-          "posted_at": "2026-10-02T19:00:14-04:00",
-          "match": 87,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "jetpack compose",
-              "compose",
-              "scale",
-              "performance"
-            ],
-            "missing": [
-              "lifecycle",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 17.0 / 19.5 = 87%"
-          }
-        },
-        {
           "title": "Staff Android Engineer",
           "location": "Menlo Park, CA",
           "url": "https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730",
           "jd": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you\u2019re ready to be at the epicenter of this historic cultural and financial shift, keep reading. About the team + role We are building an elite team, applying frontier technologies to the world\u2019s biggest financial problems. We\u2019re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn\u2019t a place for complacency, it\u2019s where ambitious people do the best work of their careers. We\u2019re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. The Android team\u2019s mission is to redefine how millions of users engage with their finances. We're focused on delivering intuitive, scalable, and inclusive mobile experiences that empower our customers to build better financial futures. We collaborate closely with Product, Design, and Backend Engineering to ensure every interaction on Android reflects quality, performance, and care. The Trading Products team creates the experiences that bring Robinhood\u2019s trading ecosystem to life for customers every day. Team Experience is responsible for making those journeys feel fast, intuitive, and dependable\u2014so customers can engage with sophisticated trading products through simple, well-crafted mobile experiences. This role is based in our Menlo Park, CA office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you\u2019ll do Define and drive the technical direction for Android experiences across high-impact product areas, building intuitive, elegant, and reliable mobile systems using Kotlin, Jetpack Compose, and modern Android APIs. Lead complex, ambiguous initiatives end to end\u2014from early product and technical strategy through architecture, implementation, experimentation, launch, and long-term evolution. Partner closely with Product Managers, Designers, Backend Engineers, and Data Scientists to shape roadmaps, influence product decisions, and deliver solutions that create meaningful customer and business impact. Establish and uphold enginee",
           "ats": "greenhouse",
-          "posted_at": "2026-10-13T17:23:02-04:00",
+          "posted_at": "2026-10-30T10:57:45-04:00",
           "match": 91,
           "match_reasons": {
             "matched": [
@@ -904,7 +920,7 @@
           "url": "https://job-boards.greenhouse.io/gusto/jobs/8192093",
           "jd": "&nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process. About the Role: As a Staff Product Mobile Engineer, you will play a key role in architecting and building user-facing mobile experiences that evolve Gusto\u2019s personal finance platform. Operating across native iOS and Android environments , you will leverage modern declarative frameworks (SwiftUI and Jetpack Compose), a shared GraphQL API layer, and AI-native workflows to deliver seamless end-to-end features. Your work will focus on improving financial tools for everyday employees, helping them reduce financial stress, build healthy money habits, and gain greater control over their paychecks. You will collaborate with a talented cross-functional team, contributing technical leadership throughout the product development lifecycle\u2014from ideation and architecture to release and long-term scaling. About the Team: The Consumer Money team is on a mission to help employees achieve financial peace of mind by bridging employment and personal finances. The team's product suite gives workers complete control over their money\u2014including on-demand pay, high-yield cash accounts, and automated savings\u2014all anchored to the paycheck relationship Gusto uniquely powers. Operating as one of the fastest-growing engines within Gusto Money, the team builds at a fast, startup-like pace. Beyond scaling core worker-facing products, the team is actively incubating 0-to-1 foundational technologies to power Gusto\u2019s broader financial platform vision. Handling people\u2019s livelihoods in a regulated banking space requires combining rapid innovation with deep technical rigor, system reliabi",
           "ats": "greenhouse",
-          "posted_at": "2026-10-13T16:47:41-04:00",
+          "posted_at": "2026-10-30T10:04:23-04:00",
           "match": 85,
           "match_reasons": {
             "matched": [
