@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T19:58:00.217303Z",
+  "generated_at": "2026-11-04T20:17:39.705960Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 10,
+    "hiring": 11,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 29
+    "open_roles": 30
   },
   "companies": [
     {
@@ -160,7 +160,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-11-03T07:19:57-05:00",
+          "posted_at": "2026-11-04T07:20:31-05:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -315,15 +315,56 @@
       "avoid": false
     },
     {
+      "company": "Coinbase Inc",
+      "jobs": [
+        {
+          "title": "Senior Mobile Engineer, (iOS/Android)",
+          "location": "Remote - USA",
+          "url": "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201",
+          "jd": "Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d&nbsp; learn more about working at Coinbase . The Card team builds Coinbase's credit and debit card products. We're rebuilding the Card app from React Native to native iOS and Android, and building every new feature natively. We're looking for a senior native engineer to lead that transition: set the architecture and patterns the team will scale on, raise our quality bar to match the best premium consumer apps, and help a team of strong React Native engineers become confident native contributors.&nbsp;&nbsp; What you\u2019ll do:&nbsp; Lead the architecture and execution of the Card app's rewrite from React Native to native iOS and Android, including module structure, navigation, state management, design-system integration, and testing. Define and champion native patterns and standards in Swift/SwiftUI and Kotlin/Jetpack Compose that the team can learn from and scale on. Build flagship card experiences natively with the polish, performance, and attention to detail of best-in-class consumer apps. Drive an incremental migration plan so the rewrite lands without stalling feature delivery. Mentor React Native engineers into confident native contributors through design reviews, pairing, and code review. Partner with design and product to raise the quality of the experience, not just ship the spec. Required Skills and Experience: 7+ years building production native mobile apps, with deep expertise in iOS (Swift/SwiftUI) or Android (Kotlin/Jetpack Compose) and strong working knowledge of the other. A track record of shipping delightful, premium consumer apps known for polish, performance, and craft. Strong, well-reasoned views on mobile architecture and design patterns, and experience laying out an app structure a team can scale on. Demonstrated technical leadership: setting standards, driving large migrations or rewrites, and growing other engineers' skills. Experience partnering closely with design and product on",
+          "ats": "greenhouse",
+          "posted_at": "2026-11-04T09:14:40-05:00",
+          "match": 83,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "navigation",
+              "scale",
+              "performance"
+            ],
+            "missing": [
+              "swift",
+              "code review",
+              "consumer"
+            ],
+            "penalties": [
+              "JD requires react native (not in resume, -5pts)"
+            ],
+            "bonuses": [],
+            "calc": "Skill match: 18.0 / 20.5 = 83%"
+          }
+        }
+      ],
+      "perm_count": 440,
+      "fy": "2024",
+      "day_one": true,
+      "day_one_notes": "Day-one historically",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Anthropic",
       "jobs": [
         {
           "title": "Staff Software Engineer, Android",
           "location": "San Francisco, CA | New York City, NY | Seattle, WA",
           "url": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
-          "jd": "About Anthropic Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role We're looking for seasoned Android engineers to join our Claude mobile team and help build apps that harness the transformative power of advanced language models. Our mission is to unlock the potential of advanced AI through elegant, user-friendly mobile applications that put unprecedented capabilities at users' fingertips. You will work with a talented team of engineers, researchers, design and Product teams to design and implement key components of our products. Join us in this exciting mission to transform how people engage with technology and unlock new realms of human potential. Key responsibilities Architect and implement cutting-edge Android applications Develop novel solutions leveraging AI technologies Optimize performance at all levels of the mobile stack Champion best practices in mobile development Obsessive attention to detail and app experience Contribute to backend systems as neede Minimum qualifications Expertise in Kotlin, Jetpack Compose, Android SDK and the broader Android ecosystem Proficiency with the latest mobile platform capabilities and intricacies Practical experience with full-stack development and comfort working with backend technologies A track record of shipping impactful, high-adoption mobile applications Strong communication and mentorship skills Thrive in a fast-paced, collaborative environment and enjoy working closely with cross functional partners and teammates Preferred qualifications 0-to-1 experience building successful products in early-stage environments Experience building applications that utilize modern ML/AI technology 3D graphics, visual effects, and audio and video streaming on mobile A vision for the future of human-machine interaction and a drive to make that vision a reality The annual compensation range for this role is listed below.&nbsp; For sales roles, the range provided is the role\u2019s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Annual Salary: $320,000 &mdash; $405,000 USD Logistics Minimum education: Bachelor\u2019s degree or an equivalent combination of ",
+          "jd": "About Anthropic Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems. About the role We're looking for seasoned Android engineers to join our Claude mobile team and help build apps that harness the transformative power of advanced language models. Our mission is to unlock the potential of advanced AI through elegant, user-friendly mobile applications that put unprecedented capabilities at users' fingertips. You will work with a talented team of engineers, researchers, design and Product teams to design and implement key components of our products. Join us in this exciting mission to transform how people engage with technology and unlock new realms of human potential. Key responsibilities Architect and implement cutting-edge Android applications Develop novel solutions leveraging AI technologies Optimize performance at all levels of the mobile stack Champion best practices in mobile development Obsessive attention to detail and app experience Contribute to backend systems as needed Originate new product bets and own them from idea to launch Cut a vague direction down to the leanest real version one Minimum qualifications Expertise in Kotlin, Jetpack Compose, Android SDK and the broader Android ecosystem Proficiency with the latest mobile platform capabilities and intricacies Practical experience with full-stack development and comfort working with backend technologies A track record of shipping impactful, high-adoption mobile applications Strong communication and mentorship skills Thrive in a fast-paced, collaborative environment and enjoy working closely with cross functional partners and teammates Preferred qualifications 0-to-1 experience building successful products in early-stage environments Experience building applications that utilize modern ML/AI technology 3D graphics, visual effects, and audio and video streaming on mobile A vision for the future of human-machine interaction and a drive to make that vision a reality The annual compensation range for this role is listed below.&nbsp; For sales roles, the range provided is the role\u2019s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. Annu",
           "ats": "greenhouse",
-          "posted_at": "2026-08-27T14:43:22-04:00",
+          "posted_at": "2026-11-03T17:36:17-05:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -485,16 +526,6 @@
       "company": "Pinterest Inc",
       "jobs": [],
       "perm_count": 520,
-      "fy": "2024",
-      "day_one": true,
-      "day_one_notes": "Day-one historically",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Coinbase Inc",
-      "jobs": [],
-      "perm_count": 440,
       "fy": "2024",
       "day_one": true,
       "day_one_notes": "Day-one historically",
