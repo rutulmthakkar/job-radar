@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:17:39.705960Z",
+  "generated_at": "2026-11-05T20:28:53.961377Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -7,7 +7,7 @@
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 30
+    "open_roles": 29
   },
   "companies": [
     {
@@ -160,7 +160,7 @@
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
           "jd": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit www.redditinc.com . About the Team: The Brand Ad Formats team drives the development of ad formats that help advertisers maximize reach and brand impact. They focus on high-visibility, awareness-driven solutions that create memorable experiences for Reddit users. By delivering guaranteed placements and engaging ad interactions, they support major brand initiatives and help advertisers achieve measurable outcomes.&nbsp; The team is building fully customizable interactive formats and AI-driven ads that incorporate User-Generated Content (UGC).&nbsp; Moving forward, we will be doubling down on Video Ads , with the goal of turning Reddit into an industry leader and a \u2018must buy\u2019 for advertisers to promote video content. As a Staff Android Engineer , you will lead the technical strategy to turn Reddit\u2019s Video Ads into a premier offering for brand advertisers.&nbsp; You will also build and provide technical guidance on new reddit-unique ad formats on Android, ensuring they are high performance, high quality and scalable. What you\u2019ll do:&nbsp; Video Ads Tech Lead: Partner closely with Product and Design to build a roadmap that will transform our Video Ads format into an industry leader in the space, and drive the technical design and execution of projects that turn the roadmap into reality. Technical Strategy: Provide guidance to the team working on building video ads as well as reddit-unique ad formats that scale to millions of users, by establishing Android best practices and providing design reviews. Full-Cycle Leadership: Drive the entire development lifecycle\u2014from early-stage discovery and prototyping to testing, data-driven experimentation, and deployment. Raise the Bar: Mentor senior engineers across teams in ad formats and establish best practices for design, testing and operational excellence, while also leading by example in understanding and advocating for our customers. What we expect from you:&nbsp; 8+ years of software engineering experience (Staff level seniority).&nbsp; Android Mastery: (Minimum of 3+ years) Deep expertis",
           "ats": "greenhouse",
-          "posted_at": "2026-11-04T07:20:31-05:00",
+          "posted_at": "2026-11-05T07:12:50-05:00",
           "match": 72,
           "match_reasons": {
             "matched": [
@@ -255,31 +255,6 @@
             "penalties": [],
             "bonuses": [],
             "calc": "Skill match: 5.5 / 5.5 = 100%"
-          }
-        },
-        {
-          "title": "Android Engineer, ChatGPT ImageGen",
-          "location": "San Francisco",
-          "url": "https://jobs.ashbyhq.com/openai/b15442c5-8e3c-4370-9abf-4b9c63f56de0",
-          "jd": "About the Team The ChatGPT organization at OpenAI supports our mission by building products that bring cutting-edge AI capabilities to hundreds of millions of users worldwide. The Image Generation team is responsible for one of the fastest-growing experiences in ChatGPT, enabling users to create, edit, and transform images through natural language. Recent advances in our multimodal models have dramatically improved image quality, instruction following, editing precision, consistency, and text rendering, unlocking entirely new creative and professional workflows. We work at the intersection of research and product, partnering closely with researchers, designers, product managers, and platform engineers to bring state-of-the-art image generation capabilities to life across ChatGPT and our mobile applications. Millions of users rely on these experiences every day to create, communicate, learn, and build. About the Role We are seeking an experienced Android Software Engineer to build and improve image generation experiences within the ChatGPT Android app. You will help define how users create, edit, and interact with visual content powered by the latest multimodal AI models. This is an opportunity to work on a highly visible product area, translating cutting-edge AI capabilities into intuitive, performant, and delightful mobile experiences used by millions around the world. ChatGPT's Android app already enables users to generate and transform images directly from their devices, and we're just getting started. In this role, you will: Build and ship new Android features that power image generation and image editing experiences. Create intuitive user experiences that make advanced AI capabilities feel seamless and accessible. Collaborate closely with Product, Design, Research, and Engineering teams to bring new multimodal capabilities to production. Drive improvements in app performance, reliability, architecture, testing, and developer tooling. Optimize media-heavy workflows, rendering performance, networking, and responsiveness across a wide range of Android devices. Own projects end-to-end\u2014from ideation and implementation through launch, measurement, and iteration. Help shape the future of AI-powered creativity on mobile. You might thrive in this role if you: Have deep experience building Android applications using Kotlin and modern Android development frameworks. Have shipped consumer-facing mobile products at scale and care deeply about performance, quality,",
-          "ats": "ashby",
-          "posted_at": "2026-09-11T17:11:15.362+00:00",
-          "match": 81,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "scale",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "consumer",
-              "millions of users"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 10.5 / 13.0 = 81%"
           }
         },
         {
