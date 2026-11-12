@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:02:38.813670Z",
+  "generated_at": "2026-11-12T20:39:32.551024Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -774,7 +774,7 @@
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208357007?gh_jid=5208357007",
           "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We are seeking a Senior Software Engineer to lead the development and optimization of a tactical edge client across Android mobile and Linux in-vehicle systems. In this role, you will own application performance on resource-constrained hardware, collaborate closely with product and platform teams, and mentor junior engineers REQUIRED QUALIFICATIONS Flutter/Dart: widget lifecycle, rebuild cost, platform channels, multi-platform builds Reactive state management: Riverpod, Redux, Rx, Combine; MVVM Performance: Flutter DevTools, systrace/perfetto, frame budgets, memory &amp; GPU analysis, startup time and battery management Android: ",
           "ats": "greenhouse",
-          "posted_at": "2026-11-02T16:27:19-05:00",
+          "posted_at": "2026-11-12T13:08:56-05:00",
           "match": 84,
           "match_reasons": {
             "matched": [
