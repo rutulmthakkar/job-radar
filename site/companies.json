@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T20:39:32.551024Z",
+  "generated_at": "2026-11-13T20:20:51.272516Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 11,
+    "hiring": 12,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 28
+    "open_roles": 30
   },
   "companies": [
     {
@@ -321,6 +321,32 @@
             ],
             "bonuses": [],
             "calc": "Skill match: 18.0 / 20.5 = 83%"
+          }
+        },
+        {
+          "title": "Senior Software Engineer, Native Mobile (iOS/Android) ",
+          "location": "Remote - USA",
+          "url": "https://www.coinbase.com/careers/positions/8029035?gh_jid=8029035",
+          "jd": "Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d&nbsp; Learn more about working at Coinbase . We're hiring a native mobile engineer to join Coinbase's Financial Services and Loyalty product group. The team owns our Credit Card, Debit Card, payments, cash, and loyalty products (Coinbase One), along with our onchain products for borrowing and lending. This role sits at the center of a significant transition: the product group is moving from React Native to native Swift and Kotlin in a greenfield app rewrite. That rewrite is built inside an AI-assisted code generation workflow, with the goal of delivering a dramatically faster, higher-quality experience to millions of users. As an engineer on this team, you'll bring deep iOS or Android expertise to the core foundation of the new native app \u2014 setting design and development standards and acting as a technical leader for the broader organization. What you\u2019ll do:&nbsp; Own the development of core app surfaces in Swift and Kotlin, translating existing React Native flows into performant native implementations that meet strict performance budgets, and setting the project-level quality bar through code and design reviews. Work within the AI-assisted code generation loop, using LLMs as a force multiplier for translation while applying native mobile judgment to validate architecture, catch edge cases, and ensure production-quality output. Act as a mobile community lead within the business unit: contributing to engineering onboarding, reviewing pull requests, challenging suboptimal patterns, and fixing slow paths the team has learned to live with \u2014 flaky tests, painful deploys, ambiguous handoffs between the native and React Native codebases. Support the product group's dual-app parity strategy during the transition, identifying and removing the technical debt that matters while keeping features and bug fixes synchronized across both codebases. Required skills and experience: 5+ years of iOS or Android software e",
+          "ats": "greenhouse",
+          "posted_at": "2026-11-13T11:01:23-05:00",
+          "match": 78,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "performance",
+              "ai"
+            ],
+            "missing": [
+              "swift",
+              "millions of users"
+            ],
+            "penalties": [
+              "JD requires react native (not in resume, -5pts)"
+            ],
+            "bonuses": [],
+            "calc": "Skill match: 9.5 / 11.5 = 78%"
           }
         }
       ],
@@ -821,6 +847,42 @@
       "avoid": false
     },
     {
+      "company": "Airbnb Inc",
+      "jobs": [
+        {
+          "title": "Software Engineer, Profile & Community, Android",
+          "location": "Remote, USA",
+          "url": "https://careers.airbnb.com/positions/8386083?gh_jid=8386083",
+          "jd": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join&nbsp; As an Android Engineer on the Profile &amp; Community team within Airbnb\u2019s Passport &amp; Commerce organization, you\u2019ll help build the social layer of Airbnb: a trusted social graph of real-world connections, the social features built on top of it, and the foundations that let people connect with the travelers they know and the people they meet along the way. The team is highly collaborative with its partners in design, product, data science, legal, and marketing to deliver features and experiences used by millions of people. We work closely with other engineering teams to ensure we build systems that are performant and configurable with architecture that's scalable and robust. &nbsp; A typical day Collaborate with cross-functional partners such as Product Managers, Experience Designers and Engineers to design and deliver high-quality products on Android Deliver high-impact social initiatives end to end. Build efficient and reusable mobile components and architect reliable, performant, and scalable solutions Identify areas of improvement and drive mobile best practices Working closely with iOS and Web engineers on the team to develop foundational, cross platform solutions &nbsp; Your Expertise 3+ years\u2019 experience developing Android applications at scale with a high volume of users Strong expertise building and maintaining high-performance and scalable consumer Android applications, preferably using Kotlin and Jetpack Compose. Experience with Motion and/or prototyping is a big plus. Extensive experience working with GraphQL and REST APIs You possess strong product sense and a passion for Android UI and UX product development Demonstrated ability to collaborate with Product Management, Design, and other iOS, Android, and Web Engineers How We'll Take Care of You: Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus,",
+          "ats": "greenhouse",
+          "posted_at": "2026-11-13T12:46:04-05:00",
+          "match": 94,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "jetpack compose",
+              "compose",
+              "scale",
+              "performance"
+            ],
+            "missing": [
+              "consumer"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 17.0 / 18.0 = 94%"
+          }
+        }
+      ],
+      "perm_count": 580,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Notion Labs Inc",
       "jobs": [
         {
@@ -1094,16 +1156,6 @@
       "company": "Capital One Services LLC",
       "jobs": [],
       "perm_count": 700,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Airbnb Inc",
-      "jobs": [],
-      "perm_count": 580,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
