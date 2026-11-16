@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:15:06.530004Z",
+  "generated_at": "2026-11-16T22:45:16.844621Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
@@ -847,42 +847,6 @@
       "avoid": false
     },
     {
-      "company": "Airbnb Inc",
-      "jobs": [
-        {
-          "title": "Software Engineer, Profile & Community, Android",
-          "location": "Remote, USA",
-          "url": "https://careers.airbnb.com/positions/8386083?gh_jid=8386083",
-          "jd": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join&nbsp; As an Android Engineer on the Profile &amp; Community team within Airbnb\u2019s Passport &amp; Commerce organization, you\u2019ll help build the social layer of Airbnb: a trusted social graph of real-world connections, the social features built on top of it, and the foundations that let people connect with the travelers they know and the people they meet along the way. The team is highly collaborative with its partners in design, product, data science, legal, and marketing to deliver features and experiences used by millions of people. We work closely with other engineering teams to ensure we build systems that are performant and configurable with architecture that's scalable and robust. &nbsp; A typical day Collaborate with cross-functional partners such as Product Managers, Experience Designers and Engineers to design and deliver high-quality products on Android Deliver high-impact social initiatives end to end. Build efficient and reusable mobile components and architect reliable, performant, and scalable solutions Identify areas of improvement and drive mobile best practices Working closely with iOS and Web engineers on the team to develop foundational, cross platform solutions &nbsp; Your Expertise 3+ years\u2019 experience developing Android applications at scale with a high volume of users Strong expertise building and maintaining high-performance and scalable consumer Android applications, preferably using Kotlin and Jetpack Compose. Experience with Motion and/or prototyping is a big plus. Extensive experience working with GraphQL and REST APIs You possess strong product sense and a passion for Android UI and UX product development Demonstrated ability to collaborate with Product Management, Design, and other iOS, Android, and Web Engineers How We'll Take Care of You: Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus,",
-          "ats": "greenhouse",
-          "posted_at": "2026-11-13T12:46:04-05:00",
-          "match": 94,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "jetpack compose",
-              "compose",
-              "scale",
-              "performance"
-            ],
-            "missing": [
-              "consumer"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 17.0 / 18.0 = 94%"
-          }
-        }
-      ],
-      "perm_count": 580,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
       "company": "Notion Labs Inc",
       "jobs": [
         {
@@ -907,6 +871,37 @@
         }
       ],
       "perm_count": 120,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Asana Inc",
+      "jobs": [
+        {
+          "title": "Software Engineer, Android",
+          "location": "Warsaw",
+          "url": "https://www.asana.com/jobs/apply/8370078?gh_jid=8370078",
+          "jd": "The Mobile team\u2019s mission is to enable teams to work together effortlessly - even when they are away from their desktops. We partner closely with Product Designers, PMs, and other product engineering teams to continuously improve the Asana experience for our customers on-the-go. We work hard to maintain a codebase and a culture that is a joy to work in by combining tried and true mobile best practices with many of the innovative opportunities that our in-house frameworks provide, along with AI-assisted development tools that are part of how we build every day. Software Engineers at Asana are quickly trusted to own major parts of both the codebase and our processes through the Areas of Responsibility system. We expect you to thrive in defining and solving problems, with mutual support from your peers. This role is based in our Warsaw office with an office-centric hybrid schedule. The standard in-office days are Monday, Tuesday, and Thursday. Most Asanas have the option to work from home on Wednesdays. Working from home on Fridays depends on the type of work you do, and your recruiter can share more about the in-office requirements. Our employees in Poland are employed under a contract of employment. What you\u2019ll achieve Build and ship high-quality features for our global Android user base in collaboration with Product and Design partners. Contribute to and help grow Asana's Android community by sharing knowledge and best practices across teams. Make improvements, and advocate for code quality, test coverage, addressing technical debt, and user experience. Craft well-documented, well-structured, and well-tested code. Help others on the team improve by providing thoughtful feedback in code/design reviews, and mentoring others in areas you are knowledgeable in. Enable Asana\u2019s Mobile teams to leverage the latest practices, tooling and SDKs, including AI-assisted development and agentic workflows. Contribute to Asana-wide cross-platform feature launches. Own and contribute to AoRs (Areas of Responsibility). &nbsp;About you 3+ years of experience developing, releasing, and maintaining high-quality Android applications. Ideally using Kotlin. Aware of the latest developments in the Android ecosystem, including AI tooling for Android development. Curious about AI-assisted development and comfortable using AI coding tools, while keeping a high bar for the code you ship and review. Committed to leave code better than you found it. Passion for crafting a delightful end-",
+          "ats": "greenhouse",
+          "posted_at": "2026-11-16T08:30:42-05:00",
+          "match": 100,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "kotlin",
+              "ai"
+            ],
+            "missing": [],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 8.5 / 8.5 = 100%"
+          }
+        }
+      ],
+      "perm_count": 100,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1156,6 +1151,16 @@
       "company": "Capital One Services LLC",
       "jobs": [],
       "perm_count": 700,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Airbnb Inc",
+      "jobs": [],
+      "perm_count": 580,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1746,16 +1751,6 @@
       "company": "Rippling People Center",
       "jobs": [],
       "perm_count": 110,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Asana Inc",
-      "jobs": [],
-      "perm_count": 100,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
