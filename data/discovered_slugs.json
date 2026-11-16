@@ -191,6 +191,11 @@
       "slug": "andurilindustries"
     },
     {
+      "company": "SpaceX",
+      "ats": "greenhouse",
+      "slug": "spacex"
+    },
+    {
       "company": "Anthropic",
       "ats": "greenhouse",
       "slug": "anthropic"
