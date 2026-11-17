@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T22:45:16.844621Z",
+  "generated_at": "2026-11-17T21:31:14.671631Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 12,
+    "hiring": 13,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 30
+    "open_roles": 31
   },
   "companies": [
     {
@@ -358,6 +358,39 @@
       "avoid": false
     },
     {
+      "company": "Pinterest Inc",
+      "jobs": [
+        {
+          "title": "Software Engineer II, Android",
+          "location": "Toronto, ON, CA",
+          "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854",
+          "jd": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product. Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp; flexibility to do your best work. Creating a career you love? It\u2019s Possible. At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI. Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here . We are looking for inquisitive, well-rounded Android engineers to join our product Engineering teams. Working closely with product managers, designers, and backend engineers, you\u2019ll play an important role in enabling the newest technologies and experiences. You will build robust frameworks &amp; features. You will empower both developers and Pinners alike. You\u2019ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that\u2019s required in order for big bets and smart risks to pay off, you\u2019ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release. What you\u2019ll do: Build out Pinner-facing frontend features in Android to power the future of inspiration on Pinterest Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users Partner with design, product, and backend teams to build end to end functionality Put on your Pinner hat to suggest new product ideas and features Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features y",
+          "ats": "greenhouse",
+          "posted_at": "2026-11-17T13:41:25-05:00",
+          "match": 79,
+          "match_reasons": {
+            "matched": [
+              "android",
+              "scale",
+              "ai"
+            ],
+            "missing": [
+              "millions of users"
+            ],
+            "penalties": [],
+            "bonuses": [],
+            "calc": "Skill match: 5.5 / 7.0 = 79%"
+          }
+        }
+      ],
+      "perm_count": 520,
+      "fy": "2024",
+      "day_one": true,
+      "day_one_notes": "Day-one historically",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
       "company": "Anthropic",
       "jobs": [
         {
@@ -521,16 +554,6 @@
       "fy": "2024",
       "day_one": true,
       "day_one_notes": "Day-one historically; reconfirm",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Pinterest Inc",
-      "jobs": [],
-      "perm_count": 520,
-      "fy": "2024",
-      "day_one": true,
-      "day_one_notes": "Day-one historically",
       "layoffs": [],
       "avoid": false
     },
@@ -800,7 +823,7 @@
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208357007?gh_jid=5208357007",
           "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We are seeking a Senior Software Engineer to lead the development and optimization of a tactical edge client across Android mobile and Linux in-vehicle systems. In this role, you will own application performance on resource-constrained hardware, collaborate closely with product and platform teams, and mentor junior engineers REQUIRED QUALIFICATIONS Flutter/Dart: widget lifecycle, rebuild cost, platform channels, multi-platform builds Reactive state management: Riverpod, Redux, Rx, Combine; MVVM Performance: Flutter DevTools, systrace/perfetto, frame budgets, memory &amp; GPU analysis, startup time and battery management Android: ",
           "ats": "greenhouse",
-          "posted_at": "2026-11-12T13:08:56-05:00",
+          "posted_at": "2026-11-16T21:23:01-05:00",
           "match": 84,
           "match_reasons": {
             "matched": [
@@ -825,7 +848,7 @@
           "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249398007?gh_jid=5249398007",
           "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We're looking for a Senior Software Engineer to design, implement, and harden Android VMs running on crosvm and contribute to our platform security work. You'll work across the virtualization stack, from the VMM and guest kernel to secure boot and the platform security features that anchor them, to deliver production-quality, security-hardened Android VMs. You'll own hard problems end to end, collaborate with platform and security teams, and set the technical direction for how we run Android securely in a virtual machine. What You\u2019ll Do Design, build, and maintain Android VMs running on crosvm, including VMM configuration, device",
           "ats": "greenhouse",
-          "posted_at": "2026-11-02T16:27:19-05:00",
+          "posted_at": "2026-11-16T21:23:01-05:00",
           "match": 100,
           "match_reasons": {
             "matched": [
@@ -951,7 +974,7 @@
           "url": "https://job-boards.greenhouse.io/gusto/jobs/8192093",
           "jd": "&nbsp; About Gusto At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve. All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy . AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process. About the Role: As a Staff Product Mobile Engineer, you will play a key role in architecting and building user-facing mobile experiences that evolve Gusto\u2019s personal finance platform. Operating across native iOS and Android environments , you will leverage modern declarative frameworks (SwiftUI and Jetpack Compose), a shared GraphQL API layer, and AI-native workflows to deliver seamless end-to-end features. Your work will focus on improving financial tools for everyday employees, helping them reduce financial stress, build healthy money habits, and gain greater control over their paychecks. You will collaborate with a talented cross-functional team, contributing technical leadership throughout the product development lifecycle\u2014from ideation and architecture to release and long-term scaling. About the Team: The Consumer Money team is on a mission to help employees achieve financial peace of mind by bridging employment and personal finances. The team's product suite gives workers complete control over their money\u2014including on-demand pay, high-yield cash accounts, and automated savings\u2014all anchored to the paycheck relationship Gusto uniquely powers. Operating as one of the fastest-growing engines within Gusto Money, the team builds at a fast, startup-like pace. Beyond scaling core worker-facing products, the team is actively incubating 0-to-1 foundational technologies to power Gusto\u2019s broader financial platform vision. Handling people\u2019s livelihoods in a regulated banking space requires combining rapid innovation with deep technical rigor, system reliabi",
           "ats": "greenhouse",
-          "posted_at": "2026-10-30T10:04:23-04:00",
+          "posted_at": "2026-11-16T20:16:52-05:00",
           "match": 85,
           "match_reasons": {
             "matched": [
