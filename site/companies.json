@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T20:56:17.105732Z",
+  "generated_at": "2026-11-21T19:56:58.107097Z",
   "has_resume": true,
   "stats": {
     "companies": 117,
-    "hiring": 14,
+    "hiring": 12,
     "sponsors": 117,
     "day_one": 20,
     "avoid": 0,
-    "open_roles": 35
+    "open_roles": 31
   },
   "companies": [
     {
@@ -853,117 +853,6 @@
       "avoid": false
     },
     {
-      "company": "Airbnb Inc",
-      "jobs": [
-        {
-          "title": "Senior Android Engineer, App Experience & Frameworks",
-          "location": "Remote, USA",
-          "url": "https://careers.airbnb.com/positions/8400808?gh_jid=8400808",
-          "jd": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join: The App Experience &amp; Frameworks team\u2019s mission is to empower product teams at Airbnb to build high-quality experiences by providing the feature foundations and unified app wide product frameworks. The Senior Android Engineer joining this team will play a critical role in the end-to-end development of new product features across guest and host experiences, driving features from prototypes to production launch. You will&nbsp; work in close collaboration with cross-functional partners across Design, Product, Marketing, Data Science and partner Engineering teams. This team is part of the App Foundation organization, focusing on building common solutions for Tech-wide priorities like Performance, Event Logging, App Configuration (AirParam), and builds app-wide features and frameworks including Host Task System, Navigation, the Early Access Program, and more.&nbsp;&nbsp;&nbsp; &nbsp; The Difference You Will Make: As a Senior Android Engineer on the App Experience &amp; Frameworks team, you will build features and frameworks that enhance the app experience for millions of guests and hosts. You will work on horizontal product concerns such as app navigation, announcement scheduling, frameworks that power host required actions, and more, to lay the product foundation for bringing a more unified customer experience across platforms. Success in this role looks like shipping reliable, scalable, and polished Android experiences that both bring direct customer delight and enable feature teams to build and experiment faster. &nbsp; A Typical Day:&nbsp; Collaborate closely with cross functional partners in Design and Product to rapidly ideate, prototype, develop, and ship both product features and app wide frameworks. Develop prototypes to validate ideas while proactively considering long-term implications on technical design and architecture. Translate prototypes to high quality, scalable, and maintainable production code through iterative development. Partner with peer engineering teams to integrate new features that impact different areas within the product and continuously optimiz",
-          "ats": "greenhouse",
-          "posted_at": "2026-11-19T13:36:32-05:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "navigation",
-              "performance"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 6.0 / 6.0 = 100%"
-          }
-        },
-        {
-          "title": "Senior Android Engineer, Profile & Community",
-          "location": "Remote, USA",
-          "url": "https://careers.airbnb.com/positions/8406431?gh_jid=8406431",
-          "jd": "Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join&nbsp; As an Android Engineer on the Profile &amp; Community team within Airbnb\u2019s Passport &amp; Commerce organization, you\u2019ll help build the social layer of Airbnb: a trusted social graph of real-world connections, the social features built on top of it, and the foundations that let people connect with the travelers they know and the people they meet along the way. The team is highly collaborative with its partners in design, product, data science, legal, and marketing to deliver features and experiences used by millions of people. We work closely with other engineering teams to ensure we build systems that are performant and configurable with architecture that's scalable and robust. &nbsp; A typical day Collaborate with cross-functional partners such as Product Managers, Experience Designers, and Engineers to design and deliver high-quality products on Android Deliver high-impact social initiatives end to end. Build efficient and reusable mobile components and architect reliable, performant, and scalable mobile solutions Work closely with iOS and Web engineers on the team to develop foundational, cross platform solutions Identify areas of improvement and drive mobile best practices Mentor, guide, advocate and support the career growth of individual contributors Your Expertise 6+ years of experience in Android product engineering at scale Expertise building and maintaining high-performance and scalable consumer Android applications, preferably using Kotlin and Jetpack Compose.&nbsp; Experience with Motion and/or prototyping is a big plus. Extensive experience working with GraphQL and REST APIs You possess strong product sense and a passion for Android UI and UX product development Demonstrated ability to collaborate with Product Management, Design, and other iOS, Android, and Web Engineers Excellent engineering and coding skills. Solid understanding of client networking, performance, caching, client storage solutions, accessibility, and asynchronous programming Love collaborating via code reviews and architecture discussions, and are motivated to improve their teammates\u2019 pr",
-          "ats": "greenhouse",
-          "posted_at": "2026-11-20T12:02:41-05:00",
-          "match": 94,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "kotlin",
-              "jetpack compose",
-              "compose",
-              "scale",
-              "performance"
-            ],
-            "missing": [
-              "consumer"
-            ],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 17.0 / 18.0 = 94%"
-          }
-        }
-      ],
-      "perm_count": 580,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
-      "company": "Anduril Industries",
-      "jobs": [
-        {
-          "title": "Senior Software Engineer  (Android Apps - Flutter/Dart)",
-          "location": "Bellevue, Washington, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208357007?gh_jid=5208357007",
-          "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We are seeking a Senior Software Engineer to lead the development and optimization of a tactical edge client across Android mobile and Linux in-vehicle systems. In this role, you will own application performance on resource-constrained hardware, collaborate closely with product and platform teams, and mentor junior engineers REQUIRED QUALIFICATIONS Flutter/Dart: widget lifecycle, rebuild cost, platform channels, multi-platform builds Reactive state management: Riverpod, Redux, Rx, Combine; MVVM Performance: Flutter DevTools, systrace/perfetto, frame budgets, memory &amp; GPU analysis, startup time and battery management Android: ",
-          "ats": "greenhouse",
-          "posted_at": "2026-11-16T21:23:01-05:00",
-          "match": 84,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "mvvm",
-              "performance",
-              "ai"
-            ],
-            "missing": [
-              "lifecycle"
-            ],
-            "penalties": [
-              "JD requires flutter (not in resume, -5pts)"
-            ],
-            "bonuses": [],
-            "calc": "Skill match: 8.5 / 9.5 = 84%"
-          }
-        },
-        {
-          "title": "Senior Software Engineer  (Android Platform VMs)",
-          "location": "Bellevue, Washington, United States",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249398007?gh_jid=5249398007",
-          "jd": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years. ABOUT THE TEAM Connected Warfare (CW): The Connected Warfare simulaivision builds systems to support global command and control missions. We create joint, time sensitive, multi domain, ubiquitous, connected mesh ecosystems. Our ecosystem enables connected warfare with disproportional impact by connecting every mac robot, human, and sensor in every domain, bringing together hundreds of thousands of end points across the globe. We are the substrate that provides the source of truth for time sensitive decision, effectively transforming the way that militaries close kills chains and enable mission autonomy. Warfighter Systems (WS) : Warfighter Systems brings cutting-edge technology directly to those on the front lines. Wearable tech, immersive mission command tools, and seamlessly integrated software and hardware create an ecosystem that enhances situational awareness, survivability, and combat effectiveness. From training to battlefield operations, Anduril\u2019s Warfighter Systems organization designs tools that move at the speed of war, ensuring that soldiers are better connected, more lethal, and more resilient. ABOUT THE JOB We're looking for a Senior Software Engineer to design, implement, and harden Android VMs running on crosvm and contribute to our platform security work. You'll work across the virtualization stack, from the VMM and guest kernel to secure boot and the platform security features that anchor them, to deliver production-quality, security-hardened Android VMs. You'll own hard problems end to end, collaborate with platform and security teams, and set the technical direction for how we run Android securely in a virtual machine. What You\u2019ll Do Design, build, and maintain Android VMs running on crosvm, including VMM configuration, device",
-          "ats": "greenhouse",
-          "posted_at": "2026-11-16T21:23:01-05:00",
-          "match": 100,
-          "match_reasons": {
-            "matched": [
-              "android",
-              "ai"
-            ],
-            "missing": [],
-            "penalties": [],
-            "bonuses": [],
-            "calc": "Skill match: 4.5 / 4.5 = 100%"
-          }
-        }
-      ],
-      "perm_count": 80,
-      "fy": "2024",
-      "day_one": false,
-      "day_one_notes": "",
-      "layoffs": [],
-      "avoid": false
-    },
-    {
       "company": "Notion Labs Inc",
       "jobs": [
         {
@@ -1268,6 +1157,16 @@
       "company": "Capital One Services LLC",
       "jobs": [],
       "perm_count": 700,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Airbnb Inc",
+      "jobs": [],
+      "perm_count": 580,
       "fy": "2024",
       "day_one": false,
       "day_one_notes": "",
@@ -1936,6 +1835,16 @@
     },
     {
       "company": "Ramp Business",
+      "jobs": [],
+      "perm_count": 80,
+      "fy": "2024",
+      "day_one": false,
+      "day_one_notes": "",
+      "layoffs": [],
+      "avoid": false
+    },
+    {
+      "company": "Anduril Industries",
       "jobs": [],
       "perm_count": 80,
       "fy": "2024",
